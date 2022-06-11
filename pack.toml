@@ -1,13 +1,13 @@
 name = "Walnut Pack"
 author = "RustedAperture"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6412c98afc8d291e7ac4582650ccccb884413bfcf317143b37c99f4a6dc1d3a9"
+hash = "0536a90f190833bd5e204accc203c448cf4d495b431f46bc677e891b304c3475"
 
 [versions]
-fabric = "0.14.7"
 minecraft = "1.18.2"
+quilt = "0.17.0"

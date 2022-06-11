@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README"
+hash = "1438d8e5c72716f39050e6a6991a38eb8ee1e08c0aa60c639a3bc5b8f66d43c6"
+
+[[files]]
+file = "_config.yml"
+hash = "91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
@@ -138,11 +146,6 @@ metafile = true
 [[files]]
 file = "mods/extractinator-tweaks.pw.toml"
 hash = "97dd68e452373becace3cfe8464aa4f83a14df7045ef43e2cb3a56708b79791f"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "0298adb7762224c2e426d0b23ab1f26f04b170faabf165ec2c9d3c37efe2a03c"
 metafile = true
 
 [[files]]
@@ -288,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "9019e28a8adc88a3fcd2c7d77a2ddc1aab11de8797c2eb1c1294dc72f977114b"
 metafile = true
 
 [[files]]
