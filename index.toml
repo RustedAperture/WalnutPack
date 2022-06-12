@@ -260,6 +260,11 @@ hash = "14b20530451e409ee865039d99823b012427601aa36a7b9e1efc68fa333233a9"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
