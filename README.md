@@ -13,7 +13,7 @@ OR
 2. Add the URL https://github.com/RustedAperture/WalnutPack/raw/main/WalnutPack.zip to the import zip section while creating a new instance
 
 <details close>
-<summary><h2>Mods</h2></summary>
+<summary><h2>Mods</h2><hr></summary>
 <li>3D Skin Layers</li>
 <li>Additional Additions</li>
 <li>Adorn</li>
