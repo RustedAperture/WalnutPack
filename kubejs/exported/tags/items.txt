@@ -1,0 +1,7615 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 11, 2022, 11:20:32 PM
+
+#c:storage_blocks/amethyst
+- minecraft:amethyst_block
+
+#mythicmetals:midas_gold_ores
+- mythicmetals:midas_gold_ore
+
+#c:orichalcum_nuggets
+- mythicmetals:orichalcum_nugget
+
+#create:stone_types/veridium
+- create:cut_veridium
+- create:cut_veridium_stairs
+- create:cut_veridium_wall
+- create:polished_cut_veridium
+- create:polished_cut_veridium_stairs
+- create:polished_cut_veridium_wall
+- create:cut_veridium_bricks
+- create:cut_veridium_brick_stairs
+- create:cut_veridium_brick_wall
+- create:small_veridium_bricks
+- create:small_veridium_brick_stairs
+- create:small_veridium_brick_wall
+- create:layered_veridium
+- create:veridium_pillar
+
+#botania:manasteel_ingots
+- botania:manasteel_ingot
+
+#c:ores/gold
+- #minecraft:gold_ores
+
+#c:glass/purple
+- minecraft:purple_stained_glass
+
+#c:gems/lapis
+- minecraft:lapis_lazuli
+
+#byg:maple_logs
+- byg:maple_log
+- byg:stripped_maple_log
+- byg:maple_wood
+- byg:stripped_maple_wood
+
+#mythicmetals:runite_ingots
+- mythicmetals:runite_ingot
+
+#mythicmetals:carmot_armor
+- mythicmetals:carmot_helmet
+- mythicmetals:carmot_chestplate
+- mythicmetals:carmot_leggings
+- mythicmetals:carmot_boots
+
+#mythicmetals:morkite_blocks
+- mythicmetals:morkite_block
+
+#c:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#fabric:axes
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
+- indrev:mining_drill_mk1
+- indrev:mining_drill_mk2
+- indrev:mining_drill_mk3
+- indrev:mining_drill_mk4
+- indrev:tin_axe
+- indrev:copper_axe
+- indrev:steel_axe
+- indrev:gamer_axe
+- indrev:lead_axe
+- indrev:silver_axe
+- indrev:bronze_axe
+- botania:manasteel_axe
+- botania:elementium_axe
+- botania:terra_axe
+- additionaladditions:rose_gold_axe?
+- additionaladditions:gilded_netherite_axe?
+
+#botania:loonium_blacklist
+- botania:lexicon
+- botania:overgrowth_seed
+- botania:black_lotus
+- botania:blacker_lotus
+- #minecraft:music_discs
+
+#botania:mana_using_items
+- botania:blood_pendant
+- botania:cobble_rod
+- botania:crystal_bow
+- botania:dirt_rod
+- botania:diva_charm
+- botania:divining_rod
+- botania:elementium_axe
+- botania:elementium_boots
+- botania:elementium_chestplate
+- botania:elementium_helmet
+- botania:elementium_hoe
+- botania:elementium_leggings
+- botania:elementium_pickaxe
+- botania:elementium_shears
+- botania:elementium_shovel
+- botania:elementium_sword
+- botania:ender_hand
+- botania:exchange_rod
+- botania:fire_rod
+- botania:flight_tiara
+- botania:flugel_eye
+- botania:glass_pickaxe
+- botania:goddess_charm
+- botania:gravity_rod
+- botania:infinite_fruit
+- botania:invisibility_cloak
+- botania:king_key
+- botania:livingwood_bow
+- botania:loki_ring
+- botania:manasteel_axe
+- botania:manasteel_boots
+- botania:manasteel_chestplate
+- botania:manasteel_helmet
+- botania:manasteel_hoe
+- botania:manasteel_leggings
+- botania:manasteel_pick
+- botania:manasteel_shears
+- botania:manasteel_shovel
+- botania:manasteel_sword
+- botania:manaweave_boots
+- botania:manaweave_chestplate
+- botania:manaweave_helmet
+- botania:manaweave_leggings
+- botania:mining_ring
+- botania:missile_rod
+- botania:rainbow_rod
+- botania:skydirt_rod
+- botania:smelt_rod
+- botania:star_sword
+- botania:super_travel_belt
+- botania:terra_axe
+- botania:terra_pick
+- botania:terra_sword
+- botania:terraform_rod
+- botania:terrasteel_boots
+- botania:terrasteel_chestplate
+- botania:terrasteel_helmet
+- botania:terrasteel_leggings
+- botania:third_eye
+- botania:thunder_sword
+- botania:tornado_rod
+- botania:travel_belt
+- botania:water_ring
+- botania:water_rod
+
+#c:brown_dyes
+- minecraft:brown_dye
+- minecraft:brown_dye
+
+#c:storage_blocks/brass
+- create:brass_block
+
+#c:glass/gray
+- minecraft:gray_stained_glass
+
+#balm:yellow_dyes
+- #c:yellow_dyes?
+- minecraft:yellow_dye
+
+#c:tin_plates
+- indrev:tin_plate
+
+#adorn:wooden_posts
+- adorn:oak_post
+- adorn:spruce_post
+- adorn:birch_post
+- adorn:jungle_post
+- adorn:acacia_post
+- adorn:dark_oak_post
+- adorn:crimson_post
+- adorn:warped_post
+- adorn:biomemakeover/blighted_balsa_post?
+- adorn:biomemakeover/swamp_cypress_post?
+- adorn:biomemakeover/willow_post?
+- adorn:blockus/white_oak_post?
+- adorn:byg/aspen_post?
+- adorn:byg/baobab_post?
+- adorn:byg/blue_enchanted_post?
+- adorn:byg/bulbis_post?
+- adorn:byg/cherry_post?
+- adorn:byg/cika_post?
+- adorn:byg/cypress_post?
+- adorn:byg/ebony_post?
+- adorn:byg/embur_post?
+- adorn:byg/ether_post?
+- adorn:byg/fir_post?
+- adorn:byg/green_enchanted_post?
+- adorn:byg/holly_post?
+- adorn:byg/imparius_post?
+- adorn:byg/jacaranda_post?
+- adorn:byg/lament_post?
+- adorn:byg/mahogany_post?
+- adorn:byg/mangrove_post?
+- adorn:byg/maple_post?
+- adorn:byg/nightshade_post?
+- adorn:byg/palm_post?
+- adorn:byg/pine_post?
+- adorn:byg/rainbow_eucalyptus_post?
+- adorn:byg/redwood_post?
+- adorn:byg/skyris_post?
+- adorn:byg/sythian_post?
+- adorn:byg/willow_post?
+- adorn:byg/witch_hazel_post?
+- adorn:byg/zelkova_post?
+- adorn:cinderscapes/scorched_post?
+- adorn:cinderscapes/umbral_post?
+- adorn:promenade/cherry_oak_post?
+- adorn:promenade/dark_amaranth_post?
+- adorn:promenade/palm_post?
+- adorn:techreborn/rubber_post?
+- adorn:terrestria/cypress_post?
+- adorn:terrestria/hemlock_post?
+- adorn:terrestria/japanese_maple_post?
+- adorn:terrestria/rainbow_eucalyptus_post?
+- adorn:terrestria/redwood_post?
+- adorn:terrestria/rubber_post?
+- adorn:terrestria/sakura_post?
+- adorn:terrestria/willow_post?
+- adorn:terrestria/yucca_palm_post?
+- adorn:traverse/fir_post?
+- adorn:woods_and_mires/pine_post?
+- adorn:architects_palette/twisted_post?
+- adorn:biomesoplenty/cherry_post?
+- adorn:biomesoplenty/dead_post?
+- adorn:biomesoplenty/fir_post?
+- adorn:biomesoplenty/hellbark_post?
+- adorn:biomesoplenty/jacaranda_post?
+- adorn:biomesoplenty/magic_post?
+- adorn:biomesoplenty/mahogany_post?
+- adorn:biomesoplenty/palm_post?
+- adorn:biomesoplenty/redwood_post?
+- adorn:biomesoplenty/umbran_post?
+- adorn:biomesoplenty/willow_post?
+- adorn:ecologics/azalea_post?
+- adorn:ecologics/flowering_azalea_post?
+- adorn:ecologics/coconut_post?
+- adorn:ecologics/walnut_post?
+
+#c:steel_chestplates
+- indrev:steel_chestplate
+- astromine:steel_chestplate?
+
+#campanion:tent_poles
+- campanion:tent_pole
+- #campanion:topped_tent_poles
+
+#c:sand/purple
+- byg:purple_sand
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+- byg:lignite
+- byg:anthracite
+
+#mythicmetals:quadrillum_ores
+- mythicmetals:quadrillum_ore
+
+#c:quartz_ores
+- minecraft:nether_quartz_ore
+
+#c:lead_plates
+- indrev:lead_plate
+
+#adorn:shelves
+- #adorn:wooden_shelves
+- adorn:iron_shelf
+
+#c:sand/blue
+- byg:blue_sand
+
+#c:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#byg:willow_logs
+- byg:willow_log
+- byg:stripped_willow_log
+- byg:willow_wood
+- byg:stripped_willow_wood
+
+#charm:colored_bundles
+- charm:red_bundle
+- charm:orange_bundle
+- charm:yellow_bundle
+- charm:lime_bundle
+- charm:green_bundle
+- charm:cyan_bundle
+- charm:light_blue_bundle
+- charm:blue_bundle
+- charm:purple_bundle
+- charm:magenta_bundle
+- charm:pink_bundle
+- charm:brown_bundle
+- charm:black_bundle
+- charm:gray_bundle
+- charm:light_gray_bundle
+- charm:white_bundle
+
+#c:lead_ingots
+- indrev:lead_ingot
+
+#c:stone_rods
+- adorn:stone_rod
+
+#c:adamantite_nuggets
+- mythicmetals:adamantite_nugget
+
+#c:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+- create:deepslate_zinc_ore
+
+#c:redstone_dusts
+- minecraft:redstone
+
+#c:adamantite_blocks
+- mythicmetals:adamantite_block
+
+#create:stone_types/granite
+- create:cut_granite
+- create:cut_granite_stairs
+- create:cut_granite_wall
+- create:polished_cut_granite
+- create:polished_cut_granite_stairs
+- create:polished_cut_granite_wall
+- create:cut_granite_bricks
+- create:cut_granite_brick_stairs
+- create:cut_granite_brick_wall
+- create:small_granite_bricks
+- create:small_granite_brick_stairs
+- create:small_granite_brick_wall
+- create:layered_granite
+- create:granite_pillar
+
+#mythicmetals:carmot_nuggets
+- mythicmetals:carmot_nugget
+
+#c:tin_ingots
+- indrev:tin_ingot
+- mythicmetals:tin_ingot
+
+#botania:mundane_floating_flowers
+- botania:black_floating_flower
+- botania:blue_floating_flower
+- botania:brown_floating_flower
+- botania:cyan_floating_flower
+- botania:gray_floating_flower
+- botania:green_floating_flower
+- botania:light_blue_floating_flower
+- botania:light_gray_floating_flower
+- botania:lime_floating_flower
+- botania:magenta_floating_flower
+- botania:orange_floating_flower
+- botania:pink_floating_flower
+- botania:purple_floating_flower
+- botania:red_floating_flower
+- botania:white_floating_flower
+- botania:yellow_floating_flower
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#botania:petals/yellow
+- botania:yellow_petal
+- botania:yellow_mushroom
+
+#mythicmetals:banglum_ingots
+- mythicmetals:banglum_ingot
+
+#campanion:vegetables
+- minecraft:beetroot
+- minecraft:carrot
+- minecraft:potato
+- minecraft:baked_potato
+
+#c:ores/lignite
+- byg:lignite_ore
+
+#c:mythril_nuggets
+- mythicmetals:mythril_nugget
+
+#c:enchanting_fuels
+- #c:gems/lapis
+
+#byg:mushrooms
+- byg:green_mushroom
+- byg:wood_blewit
+- byg:weeping_milkcap
+- byg:white_puffball_cap
+- byg:imparius_mushroom
+
+#c:gray_dyes
+- minecraft:gray_dye
+- minecraft:gray_dye
+
+#mythicmetals:prometheum_ingots
+- mythicmetals:prometheum_ingot
+
+#yigd:soulbound_blacklist
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#c:cocoa_beans
+- minecraft:cocoa_beans
+
+#c:manganese_ingots
+- mythicmetals:manganese_ingot
+
+#campanion:marshmallows_on_sticks
+- campanion:marshmallow_on_a_stick
+- campanion:cooked_marshmallow_on_a_stick
+- campanion:blackened_marshmallow_on_a_stick
+
+#botania:terrasteel_nuggets
+- botania:terrasteel_nugget
+
+#c:nuggets/gold
+- minecraft:gold_nugget
+
+#byg:pink_sand
+- byg:pink_sand
+
+#c:lead_ores
+- indrev:lead_ore
+- indrev:deepslate_lead_ore
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+- byg:dacite_cobblestone_wall
+- byg:dacite_wall
+- byg:dacite_tile_wall
+- byg:dacite_brick_wall
+- byg:mossy_stone_wall
+- byg:rocky_stone_wall
+- byg:scoria_stone_wall
+- byg:scoria_cobblestone_wall
+- byg:scoria_stonebrick_wall
+- byg:soapstone_wall
+- byg:polished_soapstone_wall
+- byg:soapstone_brick_wall
+- byg:soapstone_tile_wall
+- byg:red_rock_wall
+- byg:red_rock_brick_wall
+- byg:mossy_red_rock_brick_wall
+- byg:cracked_red_rock_brick_wall
+- byg:chiseled_red_rock_brick_wall
+- byg:ether_stone_wall
+- byg:purpur_stone_wall
+- byg:cryptic_stone_wall
+- byg:chiseled_therium_wall
+- byg:shiny_chiseled_therium_wall
+- byg:cobbled_ether_stone_wall
+- byg:carved_ether_stone_wall
+- byg:travertine_wall
+- byg:polished_travertine_wall
+- byg:chiseled_travertine_wall
+- byg:chiseled_fungal_imparius_wall
+- byg:windswept_sandstone_wall
+- byg:cut_windswept_sandstone_wall
+- byg:chiseled_windswept_sandstone_wall
+- byg:smooth_windswept_sandstone_wall
+- botania:corporea_brick_wall
+- botania:dreamwood_wall
+- botania:livingrock_bricks_wall
+- botania:livingrock_wall
+- botania:livingwood_wall
+- botania:metamorphic_desert_bricks_wall
+- botania:metamorphic_desert_cobblestone_wall
+- botania:metamorphic_forest_bricks_wall
+- botania:metamorphic_forest_cobblestone_wall
+- botania:metamorphic_fungal_bricks_wall
+- botania:metamorphic_fungal_cobblestone_wall
+- botania:metamorphic_mesa_bricks_wall
+- botania:metamorphic_mesa_cobblestone_wall
+- botania:metamorphic_mountain_bricks_wall
+- botania:metamorphic_mountain_cobblestone_wall
+- botania:metamorphic_plains_bricks_wall
+- botania:metamorphic_plains_cobblestone_wall
+- botania:metamorphic_swamp_bricks_wall
+- botania:metamorphic_swamp_cobblestone_wall
+- botania:metamorphic_taiga_bricks_wall
+- botania:metamorphic_taiga_cobblestone_wall
+- botania:mossy_livingrock_bricks_wall
+- botania:stripped_dreamwood_wall
+- botania:stripped_livingwood_wall
+- create:cut_granite_wall
+- create:polished_cut_granite_wall
+- create:cut_granite_brick_wall
+- create:small_granite_brick_wall
+- create:cut_diorite_wall
+- create:polished_cut_diorite_wall
+- create:cut_diorite_brick_wall
+- create:small_diorite_brick_wall
+- create:cut_andesite_wall
+- create:polished_cut_andesite_wall
+- create:cut_andesite_brick_wall
+- create:small_andesite_brick_wall
+- create:cut_calcite_wall
+- create:polished_cut_calcite_wall
+- create:cut_calcite_brick_wall
+- create:small_calcite_brick_wall
+- create:cut_dripstone_wall
+- create:polished_cut_dripstone_wall
+- create:cut_dripstone_brick_wall
+- create:small_dripstone_brick_wall
+- create:cut_deepslate_wall
+- create:polished_cut_deepslate_wall
+- create:cut_deepslate_brick_wall
+- create:small_deepslate_brick_wall
+- create:cut_tuff_wall
+- create:polished_cut_tuff_wall
+- create:cut_tuff_brick_wall
+- create:small_tuff_brick_wall
+- create:cut_asurine_wall
+- create:polished_cut_asurine_wall
+- create:cut_asurine_brick_wall
+- create:small_asurine_brick_wall
+- create:cut_crimsite_wall
+- create:polished_cut_crimsite_wall
+- create:cut_crimsite_brick_wall
+- create:small_crimsite_brick_wall
+- create:cut_limestone_wall
+- create:polished_cut_limestone_wall
+- create:cut_limestone_brick_wall
+- create:small_limestone_brick_wall
+- create:cut_ochrum_wall
+- create:polished_cut_ochrum_wall
+- create:cut_ochrum_brick_wall
+- create:small_ochrum_brick_wall
+- create:cut_scoria_wall
+- create:polished_cut_scoria_wall
+- create:cut_scoria_brick_wall
+- create:small_scoria_brick_wall
+- create:cut_scorchia_wall
+- create:polished_cut_scorchia_wall
+- create:cut_scorchia_brick_wall
+- create:small_scorchia_brick_wall
+- create:cut_veridium_wall
+- create:polished_cut_veridium_wall
+- create:cut_veridium_brick_wall
+- create:small_veridium_brick_wall
+
+#botania:petals/pink
+- botania:pink_petal
+- botania:pink_mushroom
+
+#mythicmetals:hallowed_blocks
+- mythicmetals:hallowed_block
+
+#balm:gray_dyes
+- #c:gray_dyes?
+- minecraft:gray_dye
+
+#charm:azalea_logs
+- charm:azalea_log
+- charm:azalea_wood
+- charm:stripped_azalea_log
+- charm:stripped_azalea_wood
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+- minecraft:music_disc_otherside
+- botania:record_gaia_1
+- botania:record_gaia_2
+
+#c:ingots/copper
+- minecraft:copper_ingot
+
+#yigd:random_delete_blacklist
+
+#c:blue_dyes
+- minecraft:blue_dye
+- minecraft:blue_dye
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+- byg:white_sand
+- byg:black_sand
+- byg:blue_sand
+- byg:pink_sand
+- byg:purple_sand
+- byg:end_sand
+- byg:windswept_sand
+- byg:cracked_red_sand
+
+#c:gems/diamond
+- minecraft:diamond
+
+#adorn:brick_chimney_ingredients
+- minecraft:brick
+
+#c:ingots/brass
+- create:brass_ingot
+
+#c:ores_in_ground/netherrack
+- minecraft:nether_gold_ore
+- minecraft:nether_quartz_ore
+
+#c:glass/cyan
+- minecraft:cyan_stained_glass
+
+#create:stone_types/diorite
+- create:cut_diorite
+- create:cut_diorite_stairs
+- create:cut_diorite_wall
+- create:polished_cut_diorite
+- create:polished_cut_diorite_stairs
+- create:polished_cut_diorite_wall
+- create:cut_diorite_bricks
+- create:cut_diorite_brick_stairs
+- create:cut_diorite_brick_wall
+- create:small_diorite_bricks
+- create:small_diorite_brick_stairs
+- create:small_diorite_brick_wall
+- create:layered_diorite
+- create:diorite_pillar
+
+#indrev:coolers
+- indrev:fan
+- indrev:cooler_cell
+- indrev:heatsink
+- indrev:heat_coil
+
+#toolstats:ignore_enchantability
+
+#campanion:melted_marshmallows
+- campanion:cooked_marshmallow
+- campanion:blackened_marshmallow
+
+#byg:double_purple_dye
+- byg:tall_allium
+
+#c:osmium_ingots
+- mythicmetals:osmium_ingot
+
+#create:stone_types/scorchia
+- create:cut_scorchia
+- create:cut_scorchia_stairs
+- create:cut_scorchia_wall
+- create:polished_cut_scorchia
+- create:polished_cut_scorchia_stairs
+- create:polished_cut_scorchia_wall
+- create:cut_scorchia_bricks
+- create:cut_scorchia_brick_stairs
+- create:cut_scorchia_brick_wall
+- create:small_scorchia_bricks
+- create:small_scorchia_brick_stairs
+- create:small_scorchia_brick_wall
+- create:layered_scorchia
+- create:scorchia_pillar
+
+#c:ores/redstone
+- byg:cryptic_redstone_ore
+- #minecraft:redstone_ores
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- byg:imparius_trapdoor
+- charm:azalea_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#c:glass/pink
+- minecraft:pink_stained_glass
+
+#byg:imparius_stems
+- byg:imparius_stem
+- byg:imparius_hyphae
+- byg:fungal_imparius_stem
+- byg:fungal_imparius_hyphae
+
+#c:crops/carrot
+- minecraft:carrot
+
+#c:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#botania:special_floating_flowers
+- botania:floating_agricarnation
+- botania:floating_agricarnation_chibi
+- botania:floating_bellethorn
+- botania:floating_bellethorn_chibi
+- botania:floating_bergamute
+- botania:floating_bubbell
+- botania:floating_bubbell_chibi
+- botania:floating_clayconia
+- botania:floating_clayconia_chibi
+- botania:floating_daffomill
+- botania:floating_dandelifeon
+- botania:floating_dreadthorn
+- botania:floating_endoflame
+- botania:floating_entropinnyum
+- botania:floating_exoflame
+- botania:floating_fallen_kanade
+- botania:floating_gourmaryllis
+- botania:floating_heisei_dream
+- botania:floating_hopperhock
+- botania:floating_hopperhock_chibi
+- botania:floating_hyacidus
+- botania:floating_hydroangeas
+- botania:floating_jaded_amaranthus
+- botania:floating_jiyuulia
+- botania:floating_jiyuulia_chibi
+- botania:floating_kekimurus
+- botania:floating_labellia
+- botania:floating_loonium
+- botania:floating_manastar
+- botania:floating_marimorphosis
+- botania:floating_marimorphosis_chibi
+- botania:floating_medumone
+- botania:floating_munchdew
+- botania:floating_narslimmus
+- botania:floating_orechid
+- botania:floating_orechid_ignem
+- botania:floating_pollidisiac
+- botania:floating_pure_daisy
+- botania:floating_rafflowsia
+- botania:floating_rannuncarpus
+- botania:floating_rannuncarpus_chibi
+- botania:floating_rosa_arcana
+- botania:floating_shulk_me_not
+- botania:floating_solegnolia
+- botania:floating_solegnolia_chibi
+- botania:floating_spectranthemum
+- botania:floating_spectrolus
+- botania:floating_tangleberrie
+- botania:floating_tangleberrie_chibi
+- botania:floating_thermalily
+- botania:floating_tigerseye
+- botania:floating_vinculotus
+
+#byg:yellow_dye
+- byg:lollipop_flower
+- byg:yellow_daffodil
+- byg:yellow_tulip
+
+#c:netherite_ingots
+- minecraft:netherite_ingot
+
+#adorn:wooden_steps
+- adorn:oak_step
+- adorn:spruce_step
+- adorn:birch_step
+- adorn:jungle_step
+- adorn:acacia_step
+- adorn:dark_oak_step
+- adorn:crimson_step
+- adorn:warped_step
+- adorn:biomemakeover/blighted_balsa_step?
+- adorn:biomemakeover/swamp_cypress_step?
+- adorn:biomemakeover/willow_step?
+- adorn:blockus/white_oak_step?
+- adorn:byg/aspen_step?
+- adorn:byg/baobab_step?
+- adorn:byg/blue_enchanted_step?
+- adorn:byg/bulbis_step?
+- adorn:byg/cherry_step?
+- adorn:byg/cika_step?
+- adorn:byg/cypress_step?
+- adorn:byg/ebony_step?
+- adorn:byg/embur_step?
+- adorn:byg/ether_step?
+- adorn:byg/fir_step?
+- adorn:byg/green_enchanted_step?
+- adorn:byg/holly_step?
+- adorn:byg/imparius_step?
+- adorn:byg/jacaranda_step?
+- adorn:byg/lament_step?
+- adorn:byg/mahogany_step?
+- adorn:byg/mangrove_step?
+- adorn:byg/maple_step?
+- adorn:byg/nightshade_step?
+- adorn:byg/palm_step?
+- adorn:byg/pine_step?
+- adorn:byg/rainbow_eucalyptus_step?
+- adorn:byg/redwood_step?
+- adorn:byg/skyris_step?
+- adorn:byg/sythian_step?
+- adorn:byg/willow_step?
+- adorn:byg/witch_hazel_step?
+- adorn:byg/zelkova_step?
+- adorn:cinderscapes/scorched_step?
+- adorn:cinderscapes/umbral_step?
+- adorn:promenade/cherry_oak_step?
+- adorn:promenade/dark_amaranth_step?
+- adorn:promenade/palm_step?
+- adorn:techreborn/rubber_step?
+- adorn:terrestria/cypress_step?
+- adorn:terrestria/hemlock_step?
+- adorn:terrestria/japanese_maple_step?
+- adorn:terrestria/rainbow_eucalyptus_step?
+- adorn:terrestria/redwood_step?
+- adorn:terrestria/rubber_step?
+- adorn:terrestria/sakura_step?
+- adorn:terrestria/willow_step?
+- adorn:terrestria/yucca_palm_step?
+- adorn:traverse/fir_step?
+- adorn:woods_and_mires/pine_step?
+- adorn:architects_palette/twisted_step?
+- adorn:biomesoplenty/cherry_step?
+- adorn:biomesoplenty/dead_step?
+- adorn:biomesoplenty/fir_step?
+- adorn:biomesoplenty/hellbark_step?
+- adorn:biomesoplenty/jacaranda_step?
+- adorn:biomesoplenty/magic_step?
+- adorn:biomesoplenty/mahogany_step?
+- adorn:biomesoplenty/palm_step?
+- adorn:biomesoplenty/redwood_step?
+- adorn:biomesoplenty/umbran_step?
+- adorn:biomesoplenty/willow_step?
+- adorn:ecologics/azalea_step?
+- adorn:ecologics/flowering_azalea_step?
+- adorn:ecologics/coconut_step?
+- adorn:ecologics/walnut_step?
+
+#byg:green_dye
+- byg:golden_spined_cactus
+- byg:horseweed
+- byg:mini_cactus
+- byg:prickly_pear_cactus
+
+#c:plates
+- create:copper_sheet
+- create:brass_sheet
+- create:iron_sheet
+- create:golden_sheet
+
+#c:glass/tinted
+- minecraft:tinted_glass
+
+#c:steel_helmets
+- indrev:steel_helmet
+- astromine:steel_helmet?
+
+#ok_zoomer:zoom_dependencies
+- #libzoomer:spyglasses
+
+#botania:terrasteel_ingots
+- botania:terrasteel_ingot
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#botania:petals/black
+- botania:black_petal
+- botania:black_mushroom
+
+#c:pickaxes
+- byg:pendorite_pickaxe
+- #fabric:pickaxes?
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:netherite_pickaxe
+- mythicmetals:adamantite_pickaxe
+- mythicmetals:aquarium_pickaxe
+- mythicmetals:banglum_pickaxe
+- mythicmetals:bronze_pickaxe
+- mythicmetals:carmot_pickaxe
+- mythicmetals:celestium_pickaxe
+- mythicmetals:copper_pickaxe
+- mythicmetals:durasteel_pickaxe
+- mythicmetals:hallowed_pickaxe
+- mythicmetals:kyber_pickaxe
+- mythicmetals:legendary_banglum_pickaxe
+- mythicmetals:metallurgium_pickaxe
+- mythicmetals:mythril_pickaxe
+- mythicmetals:orichalcum_pickaxe
+- mythicmetals:osmium_pickaxe
+- mythicmetals:palladium_pickaxe
+- mythicmetals:prometheum_pickaxe
+- mythicmetals:quadrillum_pickaxe
+- mythicmetals:runite_pickaxe
+- mythicmetals:star_platinum_pickaxe
+- mythicmetals:stormyx_pickaxe
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:netherite_pickaxe
+
+#mythicmetals:prometheum_armor
+- mythicmetals:prometheum_helmet
+- mythicmetals:prometheum_chestplate
+- mythicmetals:prometheum_leggings
+- mythicmetals:prometheum_boots
+
+#c:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#c:slime_balls
+- minecraft:slime_ball
+- terrarianslimes:black_slime_ball
+- terrarianslimes:blue_slime_ball
+- terrarianslimes:corrupt_slime_ball
+- terrarianslimes:crimson_slime_ball
+- terrarianslimes:ice_slime_ball
+- terrarianslimes:illuminant_slime_ball
+- terrarianslimes:jungle_slime_ball
+- terrarianslimes:pinky_slime_ball
+- terrarianslimes:purple_slime_ball
+- terrarianslimes:rainbow_slime_ball
+- terrarianslimes:red_slime_ball
+- terrarianslimes:sand_slime_ball
+- terrarianslimes:yellow_slime_ball
+- minecraft:slime_ball
+
+#c:gems/ametrine
+- byg:ametrine_gems
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- byg:aspen_door
+- byg:baobab_door
+- byg:blue_enchanted_door
+- byg:cherry_door
+- byg:cika_door
+- byg:cypress_door
+- byg:ebony_door
+- byg:fir_door
+- byg:green_enchanted_door
+- byg:holly_door
+- byg:jacaranda_door
+- byg:mahogany_door
+- byg:mangrove_door
+- byg:maple_door
+- byg:pine_door
+- byg:rainbow_eucalyptus_door
+- byg:redwood_door
+- byg:skyris_door
+- byg:willow_door
+- byg:witch_hazel_door
+- byg:zelkova_door
+- byg:sythian_door
+- byg:embur_door
+- byg:palm_door
+- byg:lament_door
+- byg:ether_door
+- byg:bulbis_door
+- byg:nightshade_door
+- byg:imparius_door
+- charm:azalea_door
+
+#botania:petals
+- #botania:petals/white
+- #botania:petals/orange
+- #botania:petals/magenta
+- #botania:petals/light_blue
+- #botania:petals/yellow
+- #botania:petals/lime
+- #botania:petals/pink
+- #botania:petals/gray
+- #botania:petals/light_gray
+- #botania:petals/cyan
+- #botania:petals/purple
+- #botania:petals/blue
+- #botania:petals/brown
+- #botania:petals/green
+- #botania:petals/red
+- #botania:petals/black
+
+#c:storage_blocks/copper
+- minecraft:copper_block
+- minecraft:cut_copper
+
+#c:bronze_nuggets
+- indrev:bronze_nugget
+- mythicmetals:bronze_nugget
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#balm:wooden_rods
+- #c:wooden_rods?
+- minecraft:stick
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather
+
+#c:ingots/nether_brick
+- minecraft:nether_brick
+
+#c:storage_blocks/gold
+- minecraft:gold_block
+
+#toolstats:ignore_dig_speed
+
+#botania:dreamwood_logs
+- botania:dreamwood_log
+- botania:dreamwood
+- botania:stripped_dreamwood_log
+- botania:stripped_dreamwood
+- #botania:glimmering_dreamwood_logs
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#minecraft:terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#c:lead_dusts
+- indrev:lead_dust
+
+#byg:embur_pedus
+- byg:embur_pedu
+- byg:stripped_embur_pedu
+- byg:embur_hyphae
+- byg:stripped_embur_hyphae
+
+#mythicmetals:prometheum_ores
+- mythicmetals:prometheum_ore
+- mythicmetals:deepslate_prometheum_ore
+
+#byg:black_sand
+- byg:purple_sand
+
+#c:sea_lanterns
+- minecraft:sea_lantern
+- charm:brain_sea_lantern
+- charm:bubble_sea_lantern
+- charm:fire_sea_lantern
+- charm:horn_sea_lantern
+- charm:tube_sea_lantern
+
+#c:glow_berries
+- minecraft:glow_berries
+
+#adorn:coffee_tables
+- adorn:oak_coffee_table
+- adorn:spruce_coffee_table
+- adorn:birch_coffee_table
+- adorn:jungle_coffee_table
+- adorn:acacia_coffee_table
+- adorn:dark_oak_coffee_table
+- adorn:crimson_coffee_table
+- adorn:warped_coffee_table
+- adorn:biomemakeover/blighted_balsa_coffee_table?
+- adorn:biomemakeover/swamp_cypress_coffee_table?
+- adorn:biomemakeover/willow_coffee_table?
+- adorn:blockus/white_oak_coffee_table?
+- adorn:byg/aspen_coffee_table?
+- adorn:byg/baobab_coffee_table?
+- adorn:byg/blue_enchanted_coffee_table?
+- adorn:byg/bulbis_coffee_table?
+- adorn:byg/cherry_coffee_table?
+- adorn:byg/cika_coffee_table?
+- adorn:byg/cypress_coffee_table?
+- adorn:byg/ebony_coffee_table?
+- adorn:byg/embur_coffee_table?
+- adorn:byg/ether_coffee_table?
+- adorn:byg/fir_coffee_table?
+- adorn:byg/green_enchanted_coffee_table?
+- adorn:byg/holly_coffee_table?
+- adorn:byg/imparius_coffee_table?
+- adorn:byg/jacaranda_coffee_table?
+- adorn:byg/lament_coffee_table?
+- adorn:byg/mahogany_coffee_table?
+- adorn:byg/mangrove_coffee_table?
+- adorn:byg/maple_coffee_table?
+- adorn:byg/nightshade_coffee_table?
+- adorn:byg/palm_coffee_table?
+- adorn:byg/pine_coffee_table?
+- adorn:byg/rainbow_eucalyptus_coffee_table?
+- adorn:byg/redwood_coffee_table?
+- adorn:byg/skyris_coffee_table?
+- adorn:byg/sythian_coffee_table?
+- adorn:byg/willow_coffee_table?
+- adorn:byg/witch_hazel_coffee_table?
+- adorn:byg/zelkova_coffee_table?
+- adorn:cinderscapes/scorched_coffee_table?
+- adorn:cinderscapes/umbral_coffee_table?
+- adorn:promenade/cherry_oak_coffee_table?
+- adorn:promenade/dark_amaranth_coffee_table?
+- adorn:promenade/palm_coffee_table?
+- adorn:techreborn/rubber_coffee_table?
+- adorn:terrestria/cypress_coffee_table?
+- adorn:terrestria/hemlock_coffee_table?
+- adorn:terrestria/japanese_maple_coffee_table?
+- adorn:terrestria/rainbow_eucalyptus_coffee_table?
+- adorn:terrestria/redwood_coffee_table?
+- adorn:terrestria/rubber_coffee_table?
+- adorn:terrestria/sakura_coffee_table?
+- adorn:terrestria/willow_coffee_table?
+- adorn:terrestria/yucca_palm_coffee_table?
+- adorn:traverse/fir_coffee_table?
+- adorn:woods_and_mires/pine_coffee_table?
+- adorn:architects_palette/twisted_coffee_table?
+- adorn:biomesoplenty/cherry_coffee_table?
+- adorn:biomesoplenty/dead_coffee_table?
+- adorn:biomesoplenty/fir_coffee_table?
+- adorn:biomesoplenty/hellbark_coffee_table?
+- adorn:biomesoplenty/jacaranda_coffee_table?
+- adorn:biomesoplenty/magic_coffee_table?
+- adorn:biomesoplenty/mahogany_coffee_table?
+- adorn:biomesoplenty/palm_coffee_table?
+- adorn:biomesoplenty/redwood_coffee_table?
+- adorn:biomesoplenty/umbran_coffee_table?
+- adorn:biomesoplenty/willow_coffee_table?
+- adorn:ecologics/azalea_coffee_table?
+- adorn:ecologics/flowering_azalea_coffee_table?
+- adorn:ecologics/coconut_coffee_table?
+- adorn:ecologics/walnut_coffee_table?
+
+#c:buckets/honey
+- create:honey_bucket
+
+#c:ingots
+- #c:ingots/brick
+- #c:ingots/copper
+- #c:ingots/gold
+- #c:ingots/iron
+- #c:ingots/netherite
+- #c:ingots/nether_brick
+- #create:create_ingots
+
+#byg:light_blue_dye
+- byg:winter_scilla
+- byg:thereal_bellflower
+
+#byg:double_pink_dye
+- byg:japanese_orchid
+- byg:tall_pink_allium
+
+#c:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+
+#minecraft:piglin_loved_items
+- mythicmetals:midas_gold_helmet
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:midas_gold_leggings
+- mythicmetals:midas_gold_boots
+- mythicmetals:midas_gold_ingot
+- mythicmetals:raw_midas_gold
+
+#mythicmetals:celestium_blocks
+- mythicmetals:celestium_block
+
+#byg:mushrooms_for_foragers_table
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+- #forge:mushrooms?
+- #c:mushrooms?
+
+#c:platinum_ingots
+- mythicmetals:platinum_ingot
+
+#c:glass_panes
+- minecraft:glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:black_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:white_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- #c:glass_panes/colorless
+- #c:stained_glass_panes
+- botania:mana_glass_pane
+- botania:elf_glass_pane
+- botania:bifrost_pane
+- minecraft:glass_pane
+- minecraft:black_stained_glass_pane
+- minecraft:white_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+
+#c:blue_sand
+- byg:blue_sand
+
+#adorn:chairs
+- adorn:oak_chair
+- adorn:spruce_chair
+- adorn:birch_chair
+- adorn:jungle_chair
+- adorn:acacia_chair
+- adorn:dark_oak_chair
+- adorn:crimson_chair
+- adorn:warped_chair
+- adorn:biomemakeover/blighted_balsa_chair?
+- adorn:biomemakeover/swamp_cypress_chair?
+- adorn:biomemakeover/willow_chair?
+- adorn:blockus/white_oak_chair?
+- adorn:byg/aspen_chair?
+- adorn:byg/baobab_chair?
+- adorn:byg/blue_enchanted_chair?
+- adorn:byg/bulbis_chair?
+- adorn:byg/cherry_chair?
+- adorn:byg/cika_chair?
+- adorn:byg/cypress_chair?
+- adorn:byg/ebony_chair?
+- adorn:byg/embur_chair?
+- adorn:byg/ether_chair?
+- adorn:byg/fir_chair?
+- adorn:byg/green_enchanted_chair?
+- adorn:byg/holly_chair?
+- adorn:byg/imparius_chair?
+- adorn:byg/jacaranda_chair?
+- adorn:byg/lament_chair?
+- adorn:byg/mahogany_chair?
+- adorn:byg/mangrove_chair?
+- adorn:byg/maple_chair?
+- adorn:byg/nightshade_chair?
+- adorn:byg/palm_chair?
+- adorn:byg/pine_chair?
+- adorn:byg/rainbow_eucalyptus_chair?
+- adorn:byg/redwood_chair?
+- adorn:byg/skyris_chair?
+- adorn:byg/sythian_chair?
+- adorn:byg/willow_chair?
+- adorn:byg/witch_hazel_chair?
+- adorn:byg/zelkova_chair?
+- adorn:cinderscapes/scorched_chair?
+- adorn:cinderscapes/umbral_chair?
+- adorn:promenade/cherry_oak_chair?
+- adorn:promenade/dark_amaranth_chair?
+- adorn:promenade/palm_chair?
+- adorn:techreborn/rubber_chair?
+- adorn:terrestria/cypress_chair?
+- adorn:terrestria/hemlock_chair?
+- adorn:terrestria/japanese_maple_chair?
+- adorn:terrestria/rainbow_eucalyptus_chair?
+- adorn:terrestria/redwood_chair?
+- adorn:terrestria/rubber_chair?
+- adorn:terrestria/sakura_chair?
+- adorn:terrestria/willow_chair?
+- adorn:terrestria/yucca_palm_chair?
+- adorn:traverse/fir_chair?
+- adorn:woods_and_mires/pine_chair?
+- adorn:architects_palette/twisted_chair?
+- adorn:biomesoplenty/cherry_chair?
+- adorn:biomesoplenty/dead_chair?
+- adorn:biomesoplenty/fir_chair?
+- adorn:biomesoplenty/hellbark_chair?
+- adorn:biomesoplenty/jacaranda_chair?
+- adorn:biomesoplenty/magic_chair?
+- adorn:biomesoplenty/mahogany_chair?
+- adorn:biomesoplenty/palm_chair?
+- adorn:biomesoplenty/redwood_chair?
+- adorn:biomesoplenty/umbran_chair?
+- adorn:biomesoplenty/willow_chair?
+- adorn:ecologics/azalea_chair?
+- adorn:ecologics/flowering_azalea_chair?
+- adorn:ecologics/coconut_chair?
+- adorn:ecologics/walnut_chair?
+
+#charm:chains
+- minecraft:chain
+- charm:gold_chain
+
+#trinkets:head/face
+- botania:itemfinder
+- botania:monocle
+- botania:tiny_planet
+- create:goggles
+
+#create:stone_types/scoria
+- create:cut_scoria
+- create:cut_scoria_stairs
+- create:cut_scoria_wall
+- create:polished_cut_scoria
+- create:polished_cut_scoria_stairs
+- create:polished_cut_scoria_wall
+- create:cut_scoria_bricks
+- create:cut_scoria_brick_stairs
+- create:cut_scoria_brick_wall
+- create:small_scoria_bricks
+- create:small_scoria_brick_stairs
+- create:small_scoria_brick_wall
+- create:layered_scoria
+- create:scoria_pillar
+
+#c:raw_copper_ores
+- minecraft:raw_copper
+- minecraft:raw_copper
+
+#c:orange_dyes
+- minecraft:orange_dye
+- minecraft:orange_dye
+
+#botania:lens
+- botania:lens_bounce
+- botania:lens_damage
+- botania:lens_efficiency
+- botania:lens_explosive
+- botania:lens_fire
+- botania:lens_firework
+- botania:lens_flare
+- botania:lens_gravity
+- botania:lens_influence
+- botania:lens_light
+- botania:lens_magnet
+- botania:lens_messenger
+- botania:lens_mine
+- botania:lens_normal
+- botania:lens_paint
+- botania:lens_phantom
+- botania:lens_piston
+- botania:lens_power
+- botania:lens_redirect
+- botania:lens_speed
+- botania:lens_storm
+- botania:lens_time
+- botania:lens_tripwire
+- botania:lens_warp
+- botania:lens_weight
+
+#mythicmetals:starrite_ores
+- mythicmetals:starrite_ore
+- mythicmetals:calcite_starrite_ore
+
+#c:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#c:shears
+- #fabric:shears?
+- minecraft:shears
+- minecraft:shears
+- minecraft:shears
+- minecraft:shears
+
+#charm:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+- charm:acacia_chest
+- charm:acacia_trapped_chest
+- charm:azalea_chest
+- charm:azalea_trapped_chest
+- charm:birch_chest
+- charm:birch_trapped_chest
+- charm:crimson_chest
+- charm:crimson_trapped_chest
+- charm:dark_oak_chest
+- charm:dark_oak_trapped_chest
+- charm:jungle_chest
+- charm:jungle_trapped_chest
+- charm:oak_chest
+- charm:oak_trapped_chest
+- charm:spruce_chest
+- charm:spruce_trapped_chest
+- charm:warped_chest
+- charm:warped_trapped_chest
+
+#mythicmetals:morkite_ores
+- mythicmetals:morkite_ore
+- mythicmetals:deepslate_morkite_ore
+
+#byg:cherry_logs
+- byg:cherry_log
+- byg:stripped_cherry_log
+- byg:cherry_wood
+- byg:stripped_cherry_wood
+
+#c:fences
+- #c:fences/nether_brick
+- #c:fences/wooden
+
+#c:electrum_dusts
+- indrev:electrum_dust
+
+#adorn:sofas
+- adorn:white_sofa
+- adorn:orange_sofa
+- adorn:magenta_sofa
+- adorn:light_blue_sofa
+- adorn:yellow_sofa
+- adorn:lime_sofa
+- adorn:pink_sofa
+- adorn:gray_sofa
+- adorn:light_gray_sofa
+- adorn:cyan_sofa
+- adorn:purple_sofa
+- adorn:blue_sofa
+- adorn:brown_sofa
+- adorn:green_sofa
+- adorn:red_sofa
+- adorn:black_sofa
+
+#c:copper_blocks
+- minecraft:copper_block
+- minecraft:copper_block
+
+#mythicmetals:carmot_ingots
+- mythicmetals:carmot_ingot
+
+#mythicmetals:quadrillum_blocks
+- mythicmetals:quadrillum_block
+
+#balm:brown_dyes
+- #c:brown_dyes?
+- minecraft:brown_dye
+
+#botania:double_mystical_flowers
+- botania:black_double_flower
+- botania:blue_double_flower
+- botania:brown_double_flower
+- botania:cyan_double_flower
+- botania:gray_double_flower
+- botania:green_double_flower
+- botania:light_blue_double_flower
+- botania:light_gray_double_flower
+- botania:lime_double_flower
+- botania:magenta_double_flower
+- botania:orange_double_flower
+- botania:pink_double_flower
+- botania:purple_double_flower
+- botania:red_double_flower
+- botania:white_double_flower
+- botania:yellow_double_flower
+
+#c:glass_pane
+- botania:mana_glass_pane
+- botania:elf_glass_pane
+- botania:bifrost_pane
+
+#c:nether_wart_crops
+- minecraft:nether_wart
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#c:sulfurs
+- indrev:sulfur_crystal
+
+#c:slimeballs
+- minecraft:slime_ball
+- minecraft:slime_ball
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- byg:soapstone_bricks
+- byg:scoria_stonebricks
+- byg:red_rock_bricks
+- byg:carved_ether_stone
+- byg:chiseled_therium
+- byg:shiny_chiseled_therium
+
+#c:plates/brass
+- create:brass_sheet
+
+#c:plates/copper
+- create:copper_sheet
+
+#c:strings
+- minecraft:string
+
+#balm:black_dyes
+- minecraft:black_dye
+- #c:black_dyes?
+
+#minecraft:piglin_ignored_by_babies
+- mythicmetals:raw_midas_gold
+
+#c:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#campanion:tent_sides
+- campanion:green_tent_side
+- campanion:lime_tent_side
+- campanion:brown_tent_side
+- campanion:gray_tent_side
+- campanion:light_gray_tent_side
+- campanion:orange_tent_side
+- campanion:light_blue_tent_side
+- campanion:pink_tent_side
+- campanion:yellow_tent_side
+- campanion:white_tent_side
+- campanion:cyan_tent_side
+- campanion:black_tent_side
+- campanion:magenta_tent_side
+- campanion:purple_tent_side
+- campanion:blue_tent_side
+- campanion:red_tent_side
+
+#ftbultimine:included_tools
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:dacite_cobblestone_slab
+- byg:mossy_stone_slab
+- byg:rocky_stone_slab
+- byg:scoria_stone_slab
+- byg:scoria_cobblestone_slab
+- byg:scoria_stonebrick_slab
+- byg:soapstone_slab
+- byg:polished_soapstone_slab
+- byg:soapstone_brick_slab
+- byg:soapstone_tile_slab
+- byg:red_rock_slab
+- byg:red_rock_brick_slab
+- byg:mossy_red_rock_brick_slab
+- byg:cracked_red_rock_brick_slab
+- byg:chiseled_red_rock_brick_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:ether_stone_slab
+- byg:cobbled_ether_stone_slab
+- byg:carved_ether_stone_slab
+- byg:purpur_stone_slab
+- byg:imparius_slab
+- byg:chiseled_fungal_imparius_slab
+- byg:windswept_sandstone_slab
+- byg:cut_windswept_sandstone_slab
+- byg:chiseled_windswept_sandstone_slab
+- byg:smooth_windswept_sandstone_slab
+- botania:black_pavement_slab
+- botania:blaze_quartz_slab
+- botania:blue_pavement_slab
+- botania:corporea_brick_slab
+- botania:corporea_slab
+- botania:dark_quartz_slab
+- botania:dreamwood_planks_slab
+- botania:dreamwood_slab
+- botania:elf_quartz_slab
+- botania:green_pavement_slab
+- botania:lavender_quartz_slab
+- botania:livingrock_bricks_slab
+- botania:livingrock_slab
+- botania:livingwood_planks_slab
+- botania:livingwood_slab
+- botania:mana_quartz_slab
+- botania:metamorphic_desert_bricks_slab
+- botania:metamorphic_desert_cobblestone_slab
+- botania:metamorphic_desert_stone_slab
+- botania:metamorphic_forest_bricks_slab
+- botania:metamorphic_forest_cobblestone_slab
+- botania:metamorphic_forest_stone_slab
+- botania:metamorphic_fungal_bricks_slab
+- botania:metamorphic_fungal_cobblestone_slab
+- botania:metamorphic_fungal_stone_slab
+- botania:metamorphic_mesa_bricks_slab
+- botania:metamorphic_mesa_cobblestone_slab
+- botania:metamorphic_mesa_stone_slab
+- botania:metamorphic_mountain_bricks_slab
+- botania:metamorphic_mountain_cobblestone_slab
+- botania:metamorphic_mountain_stone_slab
+- botania:metamorphic_plains_bricks_slab
+- botania:metamorphic_plains_cobblestone_slab
+- botania:metamorphic_plains_stone_slab
+- botania:metamorphic_swamp_bricks_slab
+- botania:metamorphic_swamp_cobblestone_slab
+- botania:metamorphic_swamp_stone_slab
+- botania:metamorphic_taiga_bricks_slab
+- botania:metamorphic_taiga_cobblestone_slab
+- botania:metamorphic_taiga_stone_slab
+- botania:mossy_livingrock_bricks_slab
+- botania:red_pavement_slab
+- botania:red_quartz_slab
+- botania:shimmerrock_slab
+- botania:shimmerwood_planks_slab
+- botania:stripped_dreamwood_slab
+- botania:stripped_livingwood_slab
+- botania:sunny_quartz_slab
+- botania:white_pavement_slab
+- botania:yellow_pavement_slab
+- charm:cut_iron_slab
+- charm:exposed_cut_iron_slab
+- charm:weathered_cut_iron_slab
+- charm:oxidized_cut_iron_slab
+- charm:waxed_cut_iron_slab
+- charm:waxed_exposed_cut_iron_slab
+- charm:waxed_weathered_cut_iron_slab
+- charm:waxed_oxidized_cut_iron_slab
+- create:cut_granite_slab
+- create:polished_cut_granite_slab
+- create:cut_granite_brick_slab
+- create:small_granite_brick_slab
+- create:cut_diorite_slab
+- create:polished_cut_diorite_slab
+- create:cut_diorite_brick_slab
+- create:small_diorite_brick_slab
+- create:cut_andesite_slab
+- create:polished_cut_andesite_slab
+- create:cut_andesite_brick_slab
+- create:small_andesite_brick_slab
+- create:cut_calcite_slab
+- create:polished_cut_calcite_slab
+- create:cut_calcite_brick_slab
+- create:small_calcite_brick_slab
+- create:cut_dripstone_slab
+- create:polished_cut_dripstone_slab
+- create:cut_dripstone_brick_slab
+- create:small_dripstone_brick_slab
+- create:cut_deepslate_slab
+- create:polished_cut_deepslate_slab
+- create:cut_deepslate_brick_slab
+- create:small_deepslate_brick_slab
+- create:cut_tuff_slab
+- create:polished_cut_tuff_slab
+- create:cut_tuff_brick_slab
+- create:small_tuff_brick_slab
+- create:cut_asurine_slab
+- create:polished_cut_asurine_slab
+- create:cut_asurine_brick_slab
+- create:small_asurine_brick_slab
+- create:cut_crimsite_slab
+- create:polished_cut_crimsite_slab
+- create:cut_crimsite_brick_slab
+- create:small_crimsite_brick_slab
+- create:cut_limestone_slab
+- create:polished_cut_limestone_slab
+- create:cut_limestone_brick_slab
+- create:small_limestone_brick_slab
+- create:cut_ochrum_slab
+- create:polished_cut_ochrum_slab
+- create:cut_ochrum_brick_slab
+- create:small_ochrum_brick_slab
+- create:cut_scoria_slab
+- create:polished_cut_scoria_slab
+- create:cut_scoria_brick_slab
+- create:small_scoria_brick_slab
+- create:cut_scorchia_slab
+- create:polished_cut_scorchia_slab
+- create:cut_scorchia_brick_slab
+- create:small_scorchia_brick_slab
+- create:cut_veridium_slab
+- create:polished_cut_veridium_slab
+- create:cut_veridium_brick_slab
+- create:small_veridium_brick_slab
+
+#botania:petals/gray
+- botania:gray_petal
+- botania:gray_mushroom
+
+#c:raw_materials/zinc
+- create:raw_zinc
+
+#c:coal
+- #minecraft:coals?
+
+#botania:misc_special_flowers
+- botania:manastar
+- botania:pure_daisy
+- botania:bergamute
+
+#c:gold_blocks
+- minecraft:gold_block
+
+#c:dusts/prismarine
+- minecraft:prismarine_shard
+
+#mythicmetals:metallurgium_nuggets
+- mythicmetals:metallurgium_nugget
+
+#c:tin_dusts
+- indrev:tin_dust
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- byg:imparius_button
+
+#ftbultimine:excluded_tools
+- #ftbultimine:excluded_tools/strict?
+
+#c:tungsten_ingots
+- indrev:tungsten_ingot
+
+#c:lead_nuggets
+- indrev:lead_nugget
+
+#byg:green_enchanted_logs
+- byg:green_enchanted_log
+- byg:stripped_green_enchanted_log
+- byg:green_enchanted_wood
+- byg:stripped_green_enchanted_wood
+
+#adorn:tables
+- adorn:oak_table
+- adorn:spruce_table
+- adorn:birch_table
+- adorn:jungle_table
+- adorn:acacia_table
+- adorn:dark_oak_table
+- adorn:crimson_table
+- adorn:warped_table
+- adorn:biomemakeover/blighted_balsa_table?
+- adorn:biomemakeover/swamp_cypress_table?
+- adorn:biomemakeover/willow_table?
+- adorn:blockus/white_oak_table?
+- adorn:byg/aspen_table?
+- adorn:byg/baobab_table?
+- adorn:byg/blue_enchanted_table?
+- adorn:byg/bulbis_table?
+- adorn:byg/cherry_table?
+- adorn:byg/cika_table?
+- adorn:byg/cypress_table?
+- adorn:byg/ebony_table?
+- adorn:byg/embur_table?
+- adorn:byg/ether_table?
+- adorn:byg/fir_table?
+- adorn:byg/green_enchanted_table?
+- adorn:byg/holly_table?
+- adorn:byg/imparius_table?
+- adorn:byg/jacaranda_table?
+- adorn:byg/lament_table?
+- adorn:byg/mahogany_table?
+- adorn:byg/mangrove_table?
+- adorn:byg/maple_table?
+- adorn:byg/nightshade_table?
+- adorn:byg/palm_table?
+- adorn:byg/pine_table?
+- adorn:byg/rainbow_eucalyptus_table?
+- adorn:byg/redwood_table?
+- adorn:byg/skyris_table?
+- adorn:byg/sythian_table?
+- adorn:byg/willow_table?
+- adorn:byg/witch_hazel_table?
+- adorn:byg/zelkova_table?
+- adorn:cinderscapes/scorched_table?
+- adorn:cinderscapes/umbral_table?
+- adorn:promenade/cherry_oak_table?
+- adorn:promenade/dark_amaranth_table?
+- adorn:promenade/palm_table?
+- adorn:techreborn/rubber_table?
+- adorn:terrestria/cypress_table?
+- adorn:terrestria/hemlock_table?
+- adorn:terrestria/japanese_maple_table?
+- adorn:terrestria/rainbow_eucalyptus_table?
+- adorn:terrestria/redwood_table?
+- adorn:terrestria/rubber_table?
+- adorn:terrestria/sakura_table?
+- adorn:terrestria/willow_table?
+- adorn:terrestria/yucca_palm_table?
+- adorn:traverse/fir_table?
+- adorn:woods_and_mires/pine_table?
+- adorn:architects_palette/twisted_table?
+- adorn:biomesoplenty/cherry_table?
+- adorn:biomesoplenty/dead_table?
+- adorn:biomesoplenty/fir_table?
+- adorn:biomesoplenty/hellbark_table?
+- adorn:biomesoplenty/jacaranda_table?
+- adorn:biomesoplenty/magic_table?
+- adorn:biomesoplenty/mahogany_table?
+- adorn:biomesoplenty/palm_table?
+- adorn:biomesoplenty/redwood_table?
+- adorn:biomesoplenty/umbran_table?
+- adorn:biomesoplenty/willow_table?
+- adorn:ecologics/azalea_table?
+- adorn:ecologics/flowering_azalea_table?
+- adorn:ecologics/coconut_table?
+- adorn:ecologics/walnut_table?
+
+#c:sweet_berries
+- minecraft:sweet_berries
+
+#c:wooden_rods
+- minecraft:stick
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+- botania:ghost_rail
+
+#c:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#c:yellow_dyes
+- minecraft:yellow_dye
+- minecraft:yellow_dye
+
+#c:deepslate_bricks
+- minecraft:deepslate_bricks
+- minecraft:cracked_deepslate_bricks
+
+#create:stone_types/tuff
+- create:cut_tuff
+- create:cut_tuff_stairs
+- create:cut_tuff_wall
+- create:polished_cut_tuff
+- create:polished_cut_tuff_stairs
+- create:polished_cut_tuff_wall
+- create:cut_tuff_bricks
+- create:cut_tuff_brick_stairs
+- create:cut_tuff_brick_wall
+- create:small_tuff_bricks
+- create:small_tuff_brick_stairs
+- create:small_tuff_brick_wall
+- create:layered_tuff
+- create:tuff_pillar
+
+#c:polished_blackstones
+- minecraft:chiseled_polished_blackstone
+- minecraft:polished_blackstone
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- byg:aspen_pressure_plate
+- byg:baobab_pressure_plate
+- byg:blue_enchanted_pressure_plate
+- byg:cherry_pressure_plate
+- byg:cika_pressure_plate
+- byg:cypress_pressure_plate
+- byg:ebony_pressure_plate
+- byg:fir_pressure_plate
+- byg:green_enchanted_pressure_plate
+- byg:holly_pressure_plate
+- byg:jacaranda_pressure_plate
+- byg:mahogany_pressure_plate
+- byg:mangrove_pressure_plate
+- byg:maple_pressure_plate
+- byg:pine_pressure_plate
+- byg:rainbow_eucalyptus_pressure_plate
+- byg:redwood_pressure_plate
+- byg:skyris_pressure_plate
+- byg:willow_pressure_plate
+- byg:witch_hazel_pressure_plate
+- byg:zelkova_pressure_plate
+- byg:sythian_pressure_plate
+- byg:embur_pressure_plate
+- byg:palm_pressure_plate
+- byg:lament_pressure_plate
+- byg:ether_pressure_plate
+- byg:bulbis_pressure_plate
+- byg:nightshade_pressure_plate
+- byg:imparius_pressure_plate
+- charm:azalea_pressure_plate
+
+#trinkets:legs/belt
+- botania:knockback_belt
+- botania:speed_up_belt
+- botania:super_travel_belt
+- botania:travel_belt
+
+#c:mythril_ores
+- mythicmetals:mythril_ore
+- mythicmetals:deepslate_mythril_ore
+
+#byg:sythian_stems
+- byg:sythian_stem
+- byg:stripped_sythian_stem
+- byg:sythian_hyphae
+- byg:stripped_sythian_hyphae
+
+#botania:petals/purple
+- botania:purple_petal
+- botania:purple_mushroom
+
+#c:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- minecraft:cobbled_deepslate
+
+#create:create_ingots
+- create:zinc_ingot
+- create:brass_ingot
+
+#mythicmetals:unobtainium_blocks
+- mythicmetals:unobtainium_block
+
+#adorn:table_lamps
+- adorn:white_table_lamp
+- adorn:orange_table_lamp
+- adorn:magenta_table_lamp
+- adorn:light_blue_table_lamp
+- adorn:yellow_table_lamp
+- adorn:lime_table_lamp
+- adorn:pink_table_lamp
+- adorn:gray_table_lamp
+- adorn:light_gray_table_lamp
+- adorn:cyan_table_lamp
+- adorn:purple_table_lamp
+- adorn:blue_table_lamp
+- adorn:brown_table_lamp
+- adorn:green_table_lamp
+- adorn:red_table_lamp
+- adorn:black_table_lamp
+
+#balm:orange_dyes
+- #c:orange_dyes?
+- minecraft:orange_dye
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+- minecraft:deepslate_gold_ore
+- byg:blue_nether_gold_ore
+- byg:brimstone_nether_gold_ore
+
+#c:adamantite_ores
+- mythicmetals:adamantite_ore
+- mythicmetals:deepslate_adamantite_ore
+
+#c:tungsten_plates
+- indrev:tungsten_plate
+
+#c:ores/pendorite
+- byg:pendorite_ore
+
+#botania:petals/green
+- botania:green_petal
+- botania:green_mushroom
+
+#c:ores
+- byg:ametrine_ore
+- byg:anthracite_ore
+- byg:budding_ametrine_ore
+- byg:cryptic_redstone_ore
+- byg:lignite_ore
+- byg:pendorite_ore
+- byg:blue_nether_gold_ore
+- byg:blue_nether_quartz_ore
+- byg:brimstone_nether_gold_ore
+- byg:brimstone_nether_quartz_ore
+- #minecraft:iron_ores?
+- #minecraft:copper_ores?
+- #minecraft:redstone_ores?
+- #minecraft:gold_ores?
+- #minecraft:coal_ores?
+- #minecraft:diamond_ores?
+- #minecraft:lapis_ores?
+- #c:quartz_ores?
+- #minecraft:emerald_ores?
+- #c:ores/coal
+- #c:ores/copper
+- #c:ores/diamond
+- #c:ores/emerald
+- #c:ores/gold
+- #c:ores/iron
+- #c:ores/lapis
+- #c:ores/redstone
+- #c:ores/quartz
+- #c:ores/netherite_scrap
+- create:zinc_ore
+- create:deepslate_zinc_ore
+
+#byg:white_dye
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:snowdrops
+- byg:angelica
+
+#adorn:kitchen_cupboards
+- adorn:oak_kitchen_cupboard
+- adorn:spruce_kitchen_cupboard
+- adorn:birch_kitchen_cupboard
+- adorn:jungle_kitchen_cupboard
+- adorn:acacia_kitchen_cupboard
+- adorn:dark_oak_kitchen_cupboard
+- adorn:crimson_kitchen_cupboard
+- adorn:warped_kitchen_cupboard
+- adorn:biomemakeover/blighted_balsa_kitchen_cupboard?
+- adorn:biomemakeover/swamp_cypress_kitchen_cupboard?
+- adorn:biomemakeover/willow_kitchen_cupboard?
+- adorn:blockus/white_oak_kitchen_cupboard?
+- adorn:byg/aspen_kitchen_cupboard?
+- adorn:byg/baobab_kitchen_cupboard?
+- adorn:byg/blue_enchanted_kitchen_cupboard?
+- adorn:byg/bulbis_kitchen_cupboard?
+- adorn:byg/cherry_kitchen_cupboard?
+- adorn:byg/cika_kitchen_cupboard?
+- adorn:byg/cypress_kitchen_cupboard?
+- adorn:byg/ebony_kitchen_cupboard?
+- adorn:byg/embur_kitchen_cupboard?
+- adorn:byg/ether_kitchen_cupboard?
+- adorn:byg/fir_kitchen_cupboard?
+- adorn:byg/green_enchanted_kitchen_cupboard?
+- adorn:byg/holly_kitchen_cupboard?
+- adorn:byg/imparius_kitchen_cupboard?
+- adorn:byg/jacaranda_kitchen_cupboard?
+- adorn:byg/lament_kitchen_cupboard?
+- adorn:byg/mahogany_kitchen_cupboard?
+- adorn:byg/mangrove_kitchen_cupboard?
+- adorn:byg/maple_kitchen_cupboard?
+- adorn:byg/nightshade_kitchen_cupboard?
+- adorn:byg/palm_kitchen_cupboard?
+- adorn:byg/pine_kitchen_cupboard?
+- adorn:byg/rainbow_eucalyptus_kitchen_cupboard?
+- adorn:byg/redwood_kitchen_cupboard?
+- adorn:byg/skyris_kitchen_cupboard?
+- adorn:byg/sythian_kitchen_cupboard?
+- adorn:byg/willow_kitchen_cupboard?
+- adorn:byg/witch_hazel_kitchen_cupboard?
+- adorn:byg/zelkova_kitchen_cupboard?
+- adorn:cinderscapes/scorched_kitchen_cupboard?
+- adorn:cinderscapes/umbral_kitchen_cupboard?
+- adorn:promenade/cherry_oak_kitchen_cupboard?
+- adorn:promenade/dark_amaranth_kitchen_cupboard?
+- adorn:promenade/palm_kitchen_cupboard?
+- adorn:techreborn/rubber_kitchen_cupboard?
+- adorn:terrestria/cypress_kitchen_cupboard?
+- adorn:terrestria/hemlock_kitchen_cupboard?
+- adorn:terrestria/japanese_maple_kitchen_cupboard?
+- adorn:terrestria/rainbow_eucalyptus_kitchen_cupboard?
+- adorn:terrestria/redwood_kitchen_cupboard?
+- adorn:terrestria/rubber_kitchen_cupboard?
+- adorn:terrestria/sakura_kitchen_cupboard?
+- adorn:terrestria/willow_kitchen_cupboard?
+- adorn:terrestria/yucca_palm_kitchen_cupboard?
+- adorn:traverse/fir_kitchen_cupboard?
+- adorn:woods_and_mires/pine_kitchen_cupboard?
+- adorn:architects_palette/twisted_kitchen_cupboard?
+- adorn:biomesoplenty/cherry_kitchen_cupboard?
+- adorn:biomesoplenty/dead_kitchen_cupboard?
+- adorn:biomesoplenty/fir_kitchen_cupboard?
+- adorn:biomesoplenty/hellbark_kitchen_cupboard?
+- adorn:biomesoplenty/jacaranda_kitchen_cupboard?
+- adorn:biomesoplenty/magic_kitchen_cupboard?
+- adorn:biomesoplenty/mahogany_kitchen_cupboard?
+- adorn:biomesoplenty/palm_kitchen_cupboard?
+- adorn:biomesoplenty/redwood_kitchen_cupboard?
+- adorn:biomesoplenty/umbran_kitchen_cupboard?
+- adorn:biomesoplenty/willow_kitchen_cupboard?
+- adorn:ecologics/azalea_kitchen_cupboard?
+- adorn:ecologics/flowering_azalea_kitchen_cupboard?
+- adorn:ecologics/coconut_kitchen_cupboard?
+- adorn:ecologics/walnut_kitchen_cupboard?
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:netherite_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:wooden_pickaxe
+- botania:manasteel_pick
+- botania:elementium_pickaxe
+- botania:terra_pick
+- botania:glass_pickaxe
+- mythicmetals:adamantite_pickaxe
+- mythicmetals:aquarium_pickaxe
+- mythicmetals:banglum_pickaxe
+- mythicmetals:bronze_pickaxe
+- mythicmetals:carmot_pickaxe
+- mythicmetals:celestium_pickaxe
+- mythicmetals:copper_pickaxe
+- mythicmetals:durasteel_pickaxe
+- mythicmetals:hallowed_pickaxe
+- mythicmetals:kyber_pickaxe
+- mythicmetals:legendary_banglum_pickaxe
+- mythicmetals:metallurgium_pickaxe
+- mythicmetals:mythril_pickaxe
+- mythicmetals:orichalcum_pickaxe
+- mythicmetals:osmium_pickaxe
+- mythicmetals:palladium_pickaxe
+- mythicmetals:prometheum_pickaxe
+- mythicmetals:quadrillum_pickaxe
+- mythicmetals:runite_pickaxe
+- mythicmetals:star_platinum_pickaxe
+- mythicmetals:stormyx_pickaxe
+
+#c:raw_materials
+- #c:raw_materials/copper
+- #c:raw_materials/gold
+- #c:raw_materials/iron
+- create:raw_zinc
+
+#c:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#c:lava_buckets
+- minecraft:lava_bucket
+
+#c:raw_iron_ores
+- minecraft:raw_iron
+- minecraft:raw_iron
+
+#c:magenta_dyes
+- minecraft:magenta_dye
+- minecraft:magenta_dye
+
+#byg:biomepedia_crafting_material
+- minecraft:blue_dye
+- #c:blue_dye?
+- #forge:blue_dye?
+
+#mythicmetals:copper_armor
+- mythicmetals:copper_helmet
+- mythicmetals:copper_chestplate
+- mythicmetals:copper_leggings
+- mythicmetals:copper_boots
+
+#c:storage_blocks/diamond
+- minecraft:diamond_block
+
+#c:black_dyes
+- minecraft:black_dye
+- minecraft:black_dye
+
+#mythicmetals:celestium_ingots
+- mythicmetals:celestium_ingot
+
+#c:raw_materials/iron
+- minecraft:raw_iron
+
+#c:boots
+- byg:ametrine_boots
+
+#c:bundles
+- minecraft:bundle
+- charm:red_bundle
+- charm:orange_bundle
+- charm:yellow_bundle
+- charm:lime_bundle
+- charm:green_bundle
+- charm:cyan_bundle
+- charm:light_blue_bundle
+- charm:blue_bundle
+- charm:purple_bundle
+- charm:magenta_bundle
+- charm:pink_bundle
+- charm:brown_bundle
+- charm:black_bundle
+- charm:gray_bundle
+- charm:light_gray_bundle
+- charm:white_bundle
+
+#c:lime_dyes
+- minecraft:lime_dye
+- minecraft:lime_dye
+
+#byg:zelkova_logs
+- byg:zelkova_log
+- byg:stripped_zelkova_log
+- byg:zelkova_wood
+- byg:stripped_zelkova_wood
+
+#c:manganese_blocks
+- mythicmetals:manganese_block
+
+#mythicmetals:gear
+- mythicmetals:adamantite_helmet
+- mythicmetals:adamantite_chestplate
+- mythicmetals:adamantite_leggings
+- mythicmetals:adamantite_boots
+- mythicmetals:aquarium_helmet
+- mythicmetals:aquarium_chestplate
+- mythicmetals:aquarium_leggings
+- mythicmetals:aquarium_boots
+- mythicmetals:banglum_helmet
+- mythicmetals:banglum_chestplate
+- mythicmetals:banglum_leggings
+- mythicmetals:banglum_boots
+- mythicmetals:bronze_helmet
+- mythicmetals:bronze_chestplate
+- mythicmetals:bronze_leggings
+- mythicmetals:bronze_boots
+- mythicmetals:carmot_helmet
+- mythicmetals:carmot_chestplate
+- mythicmetals:carmot_leggings
+- mythicmetals:carmot_boots
+- mythicmetals:celestium_helmet
+- mythicmetals:celestium_chestplate
+- mythicmetals:celestium_leggings
+- mythicmetals:celestium_boots
+- mythicmetals:copper_helmet
+- mythicmetals:copper_chestplate
+- mythicmetals:copper_leggings
+- mythicmetals:copper_boots
+- mythicmetals:durasteel_helmet
+- mythicmetals:durasteel_chestplate
+- mythicmetals:durasteel_leggings
+- mythicmetals:durasteel_boots
+- mythicmetals:hallowed_helmet
+- mythicmetals:hallowed_chestplate
+- mythicmetals:hallowed_leggings
+- mythicmetals:hallowed_boots
+- mythicmetals:kyber_helmet
+- mythicmetals:kyber_chestplate
+- mythicmetals:kyber_leggings
+- mythicmetals:kyber_boots
+- mythicmetals:legendary_banglum_helmet
+- mythicmetals:legendary_banglum_chestplate
+- mythicmetals:legendary_banglum_leggings
+- mythicmetals:legendary_banglum_boots
+- mythicmetals:metallurgium_helmet
+- mythicmetals:metallurgium_chestplate
+- mythicmetals:metallurgium_leggings
+- mythicmetals:metallurgium_boots
+- mythicmetals:midas_gold_helmet
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:midas_gold_leggings
+- mythicmetals:midas_gold_boots
+- mythicmetals:mythril_helmet
+- mythicmetals:mythril_chestplate
+- mythicmetals:mythril_leggings
+- mythicmetals:mythril_boots
+- mythicmetals:orichalcum_helmet
+- mythicmetals:orichalcum_chestplate
+- mythicmetals:orichalcum_leggings
+- mythicmetals:orichalcum_boots
+- mythicmetals:osmium_helmet
+- mythicmetals:osmium_chestplate
+- mythicmetals:osmium_leggings
+- mythicmetals:osmium_boots
+- mythicmetals:palladium_helmet
+- mythicmetals:palladium_chestplate
+- mythicmetals:palladium_leggings
+- mythicmetals:palladium_boots
+- mythicmetals:prometheum_helmet
+- mythicmetals:prometheum_chestplate
+- mythicmetals:prometheum_leggings
+- mythicmetals:prometheum_boots
+- mythicmetals:runite_helmet
+- mythicmetals:runite_chestplate
+- mythicmetals:runite_leggings
+- mythicmetals:runite_boots
+- mythicmetals:silver_helmet
+- mythicmetals:silver_chestplate
+- mythicmetals:silver_leggings
+- mythicmetals:silver_boots
+- mythicmetals:star_platinum_helmet
+- mythicmetals:star_platinum_chestplate
+- mythicmetals:star_platinum_leggings
+- mythicmetals:star_platinum_boots
+- mythicmetals:stormyx_helmet
+- mythicmetals:stormyx_chestplate
+- mythicmetals:stormyx_leggings
+- mythicmetals:stormyx_boots
+
+#c:gems/amethyst
+- minecraft:amethyst_shard
+
+#c:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#c:storage_blocks/redstone
+- minecraft:redstone_block
+
+#c:glass/green
+- minecraft:green_stained_glass
+
+#botania:magnet_ring_blacklist
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#create:sandpaper
+- create:sand_paper
+- create:red_sand_paper
+
+#c:dusts
+- #c:dusts/glowstone
+- #c:dusts/prismarine
+- #c:dusts/redstone
+
+#c:fence_gates/wooden
+- byg:aspen_fence_gate
+- byg:baobab_fence_gate
+- byg:blue_enchanted_fence_gate
+- byg:cherry_fence_gate
+- byg:cika_fence_gate
+- byg:cypress_fence_gate
+- byg:ebony_fence_gate
+- byg:fir_fence_gate
+- byg:green_enchanted_fence_gate
+- byg:holly_fence_gate
+- byg:jacaranda_fence_gate
+- byg:mahogany_fence_gate
+- byg:mangrove_fence_gate
+- byg:maple_fence_gate
+- byg:pine_fence_gate
+- byg:rainbow_eucalyptus_fence_gate
+- byg:redwood_fence_gate
+- byg:skyris_fence_gate
+- byg:willow_fence_gate
+- byg:witch_hazel_fence_gate
+- byg:zelkova_fence_gate
+- byg:sythian_fence_gate
+- byg:embur_fence_gate
+- byg:palm_fence_gate
+- byg:lament_fence_gate
+- byg:ether_fence_gate
+- byg:bulbis_fence_gate
+- byg:nightshade_fence_gate
+- byg:imparius_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#mythicmetals:aquarium_ores
+- mythicmetals:aquarium_ore
+
+#bookshelf:stones
+- #c:stones
+- #c:stone
+
+#balm:red_dyes
+- #c:red_dyes?
+- minecraft:red_dye
+
+#mythicmetals:carmot_ores
+- mythicmetals:carmot_ore
+- mythicmetals:deepslate_carmot_ore
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#create:stone_types/limestone
+- create:cut_limestone
+- create:cut_limestone_stairs
+- create:cut_limestone_wall
+- create:polished_cut_limestone
+- create:polished_cut_limestone_stairs
+- create:polished_cut_limestone_wall
+- create:cut_limestone_bricks
+- create:cut_limestone_brick_stairs
+- create:cut_limestone_brick_wall
+- create:small_limestone_bricks
+- create:small_limestone_brick_stairs
+- create:small_limestone_brick_wall
+- create:layered_limestone
+- create:limestone_pillar
+
+#toolstats:ignored
+
+#c:silver_ingots
+- indrev:silver_ingot
+- mythicmetals:silver_ingot
+
+#campanion:marshmallows
+- campanion:marshmallow
+- #campanion:melted_marshmallows
+
+#mythicmetals:runite_nuggets
+- mythicmetals:runite_nugget
+
+#c:ingots/gold
+- minecraft:gold_ingot
+
+#adorn:stone_posts
+- adorn:andesite_post
+- adorn:basalt_post
+- adorn:blackstone_post
+- adorn:brick_post
+- adorn:cobbled_deepslate_post
+- adorn:cobblestone_post
+- adorn:cut_red_sandstone_post
+- adorn:cut_sandstone_post
+- adorn:dark_prismarine_post
+- adorn:deepslate_post
+- adorn:deepslate_brick_post
+- adorn:deepslate_tile_post
+- adorn:diorite_post
+- adorn:end_stone_brick_post
+- adorn:granite_post
+- adorn:mossy_cobblestone_post
+- adorn:mossy_stone_brick_post
+- adorn:nether_brick_post
+- adorn:polished_andesite_post
+- adorn:polished_blackstone_post
+- adorn:polished_blackstone_brick_post
+- adorn:polished_deepslate_post
+- adorn:polished_diorite_post
+- adorn:polished_granite_post
+- adorn:prismarine_post
+- adorn:prismarine_brick_post
+- adorn:purpur_post
+- adorn:quartz_post
+- adorn:red_nether_brick_post
+- adorn:red_sandstone_post
+- adorn:sandstone_post
+- adorn:smooth_red_sandstone_post
+- adorn:smooth_sandstone_post
+- adorn:smooth_stone_post
+- adorn:stone_brick_post
+- adorn:stone_post
+- adorn:byg/dacite_post?
+- adorn:byg/dacite_brick_post?
+- adorn:byg/dacite_cobblestone_post?
+- adorn:byg/mossy_stone_post?
+- adorn:byg/rocky_stone_post?
+- adorn:byg/scoria_stone_post?
+- adorn:byg/scoria_cobblestone_post?
+- adorn:byg/scoria_stonebrick_post?
+- adorn:byg/soapstone_post?
+- adorn:byg/polished_soapstone_post?
+- adorn:byg/soapstone_brick_post?
+- adorn:byg/soapstone_tile_post?
+- adorn:byg/red_rock_post?
+- adorn:byg/red_rock_brick_post?
+- adorn:byg/mossy_red_rock_brick_post?
+- adorn:byg/cracked_red_rock_brick_post?
+- adorn:byg/chiseled_red_rock_brick_post?
+- adorn:terrestria/basalt_post?
+- adorn:terrestria/basalt_brick_post?
+- adorn:terrestria/basalt_cobblestone_post?
+- adorn:terrestria/mossy_basalt_brick_post?
+- adorn:terrestria/mossy_basalt_cobblestone_post?
+- adorn:terrestria/smooth_basalt_post?
+- adorn:architects_palette/myonite_post?
+- adorn:architects_palette/myonite_brick_post?
+- adorn:architects_palette/mushy_myonite_brick_post?
+- adorn:biomesoplenty/mud_brick_post?
+- adorn:biomesoplenty/black_sandstone_post?
+- adorn:biomesoplenty/cut_black_sandstone_post?
+- adorn:biomesoplenty/smooth_black_sandstone_post?
+- adorn:biomesoplenty/orange_sandstone_post?
+- adorn:biomesoplenty/cut_orange_sandstone_post?
+- adorn:biomesoplenty/smooth_orange_sandstone_post?
+- adorn:biomesoplenty/white_sandstone_post?
+- adorn:biomesoplenty/cut_white_sandstone_post?
+- adorn:biomesoplenty/smooth_white_sandstone_post?
+
+#charm:barrels
+- minecraft:barrel
+- charm:acacia_barrel
+- charm:azalea_barrel
+- charm:birch_barrel
+- charm:crimson_barrel
+- charm:dark_oak_barrel
+- charm:jungle_barrel
+- charm:oak_barrel
+- charm:spruce_barrel
+- charm:warped_barrel
+
+#c:ore_rates/sparse
+- minecraft:nether_gold_ore
+
+#byg:skyris_logs
+- byg:skyris_log
+- byg:stripped_skyris_log
+- byg:skyris_wood
+- byg:stripped_skyris_wood
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- botania:dreamwood_fence
+- botania:livingwood_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+
+#c:storage_blocks/coal
+- minecraft:coal_block
+
+#c:diamond_dusts
+- indrev:diamond_dust
+
+#byg:white_sand
+- byg:white_sand
+
+#botania:petals/cyan
+- botania:cyan_petal
+- botania:cyan_mushroom
+
+#c:orichalcum_blocks
+- mythicmetals:orichalcum_block
+
+#c:stones
+- byg:soapstone
+- byg:scoria_stone
+- byg:dacite
+- byg:rocky_stone
+- byg:mossy_stone
+- byg:overgrown_stone
+- byg:overgrown_dacite
+- byg:sythian_nylium
+- byg:podzol_dacite
+- byg:red_rock
+- byg:ether_stone
+- minecraft:stone
+- minecraft:andesite
+- minecraft:polished_andesite
+- minecraft:diorite
+- minecraft:polished_diorite
+- minecraft:granite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- byg:aspen_fence
+- byg:baobab_fence
+- byg:blue_enchanted_fence
+- byg:cherry_fence
+- byg:cika_fence
+- byg:cypress_fence
+- byg:ebony_fence
+- byg:fir_fence
+- byg:green_enchanted_fence
+- byg:holly_fence
+- byg:jacaranda_fence
+- byg:mahogany_fence
+- byg:mangrove_fence
+- byg:maple_fence
+- byg:pine_fence
+- byg:rainbow_eucalyptus_fence
+- byg:redwood_fence
+- byg:skyris_fence
+- byg:willow_fence
+- byg:witch_hazel_fence
+- byg:zelkova_fence
+- byg:sythian_fence
+- byg:embur_fence
+- byg:palm_fence
+- byg:lament_fence
+- byg:ether_fence
+- byg:bulbis_fence
+- byg:nightshade_fence
+- byg:imparius_fence
+- botania:dreamwood_fence
+- botania:livingwood_fence
+- charm:azalea_fence
+
+#c:bronze_blocks
+- indrev:bronze_block
+- mythicmetals:bronze_block
+
+#c:storage_blocks/zinc
+- create:zinc_block
+
+#c:steel_nuggets
+- indrev:steel_nugget
+- mythicmetals:steel_nugget
+
+#c:silver_plates
+- indrev:silver_plate
+
+#mythicmetals:hallowed_nuggets
+- mythicmetals:hallowed_nugget
+
+#c:tungsten_dusts
+- indrev:tungsten_dust
+
+#extended_drawers:drawers
+- extended_drawers:shadow_drawer
+- extended_drawers:single_drawer
+- extended_drawers:double_drawer
+- extended_drawers:quad_drawer
+
+#c:bars
+- minecraft:iron_bars
+- charm:copper_bars
+- charm:gold_bars
+- charm:netherite_bars
+
+#c:ore_rates/dense
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#c:seeds
+- #c:seeds/beetroot
+- #c:seeds/melon
+- #c:seeds/pumpkin
+- #c:seeds/wheat
+
+#c:black_sand
+- byg:black_sand
+
+#trinkets:offhand/ring
+- botania:aura_ring
+- botania:aura_ring_greater
+- botania:dodge_ring
+- botania:loki_ring
+- botania:magnet_ring
+- botania:magnet_ring_greater
+- botania:mana_ring
+- botania:mana_ring_greater
+- botania:mining_ring
+- botania:odin_ring
+- botania:pixie_ring
+- botania:reach_ring
+- botania:swap_ring
+- botania:thor_ring
+- botania:water_ring
+
+#c:obsidian
+- minecraft:obsidian
+
+#mythicmetals:durasteel_nuggets
+- mythicmetals:durasteel_nugget
+
+#trinkets:hand/ring
+- extraalchemy:potion_ring
+- botania:aura_ring
+- botania:aura_ring_greater
+- botania:dodge_ring
+- botania:loki_ring
+- botania:magnet_ring
+- botania:magnet_ring_greater
+- botania:mana_ring
+- botania:mana_ring_greater
+- botania:mining_ring
+- botania:odin_ring
+- botania:pixie_ring
+- botania:reach_ring
+- botania:swap_ring
+- botania:thor_ring
+- botania:water_ring
+
+#byg:light_gray_dye
+- byg:richea
+
+#c:ore_rates/singular
+- minecraft:ancient_debris
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:nether_quartz_ore
+
+#mythicmetals:runite_blocks
+- mythicmetals:runite_block
+
+#balm:light_gray_dyes
+- #c:light_gray_dyes?
+- minecraft:light_gray_dye
+
+#c:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#c:raw_copper_blocks
+- minecraft:raw_copper_block
+
+#c:steel_ingots
+- indrev:steel_ingot
+- mythicmetals:steel_ingot
+
+#c:raw_gold_blocks
+- minecraft:raw_gold_block
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- byg:imparius_trapdoor
+
+#c:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#c:cobblestones
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#mythicmetals:midas_gold_ingots
+- mythicmetals:midas_gold_ingot
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+- charm:azalea_boat
+- charm:crimson_boat
+- charm:warped_boat
+
+#c:storage_blocks/emerald
+- minecraft:emerald_block
+
+#balm:light_blue_dyes
+- #c:light_blue_dyes?
+- minecraft:light_blue_dye
+
+#c:empty_buckets
+- minecraft:bucket
+
+#byg:baobab_logs
+- byg:baobab_log
+- byg:stripped_baobab_log
+- byg:baobab_wood
+- byg:stripped_baobab_wood
+
+#botania:livingwood_logs
+- botania:livingwood_log
+- botania:livingwood
+- botania:stripped_livingwood_log
+- botania:stripped_livingwood
+- #botania:glimmering_livingwood_logs
+
+#c:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#byg:black_dye
+- byg:black_rose
+
+#botania:terra_pick_blacklist
+- botania:aura_ring
+- botania:aura_ring_greater
+- botania:terrasteel_helmet
+- botania:spark
+
+#byg:mahogany_logs
+- byg:mahogany_log
+- byg:stripped_mahogany_log
+- byg:mahogany_wood
+- byg:stripped_mahogany_wood
+
+#c:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+- minecraft:tuff
+- minecraft:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:deepslate
+- minecraft:tuff
+- minecraft:stone
+- minecraft:andesite
+- minecraft:polished_andesite
+- minecraft:diorite
+- minecraft:polished_diorite
+- minecraft:granite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+- minecraft:stone
+
+#byg:lament_logs
+- byg:lament_log
+- byg:stripped_lament_log
+- byg:lament_wood
+- byg:stripped_lament_wood
+
+#balm:emeralds
+- #c:emeralds?
+- minecraft:emerald
+
+#minecraft:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#mythicmetals:palladium_armor
+- mythicmetals:palladium_helmet
+- mythicmetals:palladium_chestplate
+- mythicmetals:palladium_leggings
+- mythicmetals:palladium_boots
+
+#byg:blue_dye
+- byg:blue_sage
+- byg:violet_leather_flower
+- byg:blueberries
+
+#c:glass/colorless
+- minecraft:glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+
+#balm:blue_dyes
+- minecraft:blue_dye
+- #c:blue_dyes?
+
+#c:wooden_chests
+- minecraft:chest
+- minecraft:trapped_chest
+- minecraft:chest
+- minecraft:trapped_chest
+- minecraft:chest
+- minecraft:trapped_chest
+- charm:acacia_chest
+- charm:azalea_chest
+- charm:birch_chest
+- charm:crimson_chest
+- charm:dark_oak_chest
+- charm:jungle_chest
+- charm:oak_chest
+- charm:spruce_chest
+- charm:warped_chest
+- charm:acacia_trapped_chest
+- charm:azalea_trapped_chest
+- charm:birch_trapped_chest
+- charm:crimson_trapped_chest
+- charm:dark_oak_trapped_chest
+- charm:jungle_trapped_chest
+- charm:oak_trapped_chest
+- charm:spruce_trapped_chest
+- charm:warped_trapped_chest
+
+#campanion:proteins
+- minecraft:cooked_beef
+- minecraft:cooked_chicken
+- minecraft:cooked_cod
+- minecraft:cooked_mutton
+- minecraft:cooked_porkchop
+- minecraft:cooked_rabbit
+- minecraft:cooked_salmon
+
+#ftbultimine:excluded_tools/strict
+- mininggadgets:mininggadget?
+- ars_nouveau:wand?
+- ars_nouveau:novice_spell_book?
+- ars_nouveau:creative_spell_book?
+- ars_nouveau:archmage_spell_book?
+- ars_nouveau:apprentice_spell_book?
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#adorn:nether_brick_chimney_ingredients
+- minecraft:nether_brick
+
+#c:axes
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
+- #fabric:axes?
+- minecraft:diamond_axe
+- minecraft:golden_axe
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:netherite_axe
+- mythicmetals:adamantite_axe
+- mythicmetals:aquarium_axe
+- mythicmetals:banglum_axe
+- mythicmetals:bronze_axe
+- mythicmetals:carmot_axe
+- mythicmetals:celestium_axe
+- mythicmetals:copper_axe
+- mythicmetals:durasteel_axe
+- mythicmetals:hallowed_axe
+- mythicmetals:kyber_axe
+- mythicmetals:legendary_banglum_axe
+- mythicmetals:metallurgium_axe
+- mythicmetals:mythril_axe
+- mythicmetals:orichalcum_axe
+- mythicmetals:osmium_axe
+- mythicmetals:palladium_axe
+- mythicmetals:prometheum_axe
+- mythicmetals:quadrillum_axe
+- mythicmetals:runite_axe
+- mythicmetals:star_platinum_axe
+- mythicmetals:stormyx_axe
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:golden_axe
+- minecraft:iron_axe
+- minecraft:diamond_axe
+- minecraft:netherite_axe
+
+#c:raw_iron_blocks
+- minecraft:raw_iron_block
+
+#c:leggings
+- byg:ametrine_leggings
+
+#c:shovels
+- byg:pendorite_shovel
+- #fabric:shovels?
+- minecraft:diamond_shovel
+- minecraft:golden_shovel
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:netherite_shovel
+- mythicmetals:adamantite_shovel
+- mythicmetals:aquarium_shovel
+- mythicmetals:banglum_shovel
+- mythicmetals:bronze_shovel
+- mythicmetals:carmot_shovel
+- mythicmetals:celestium_shovel
+- mythicmetals:copper_shovel
+- mythicmetals:durasteel_shovel
+- mythicmetals:hallowed_shovel
+- mythicmetals:kyber_shovel
+- mythicmetals:legendary_banglum_shovel
+- mythicmetals:metallurgium_shovel
+- mythicmetals:mythril_shovel
+- mythicmetals:orichalcum_shovel
+- mythicmetals:osmium_shovel
+- mythicmetals:palladium_shovel
+- mythicmetals:prometheum_shovel
+- mythicmetals:quadrillum_shovel
+- mythicmetals:runite_shovel
+- mythicmetals:star_platinum_shovel
+- mythicmetals:stormyx_shovel
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:golden_shovel
+- minecraft:iron_shovel
+- minecraft:diamond_shovel
+- minecraft:netherite_shovel
+
+#c:glass/red
+- minecraft:red_stained_glass
+
+#c:osmium_nuggets
+- mythicmetals:osmium_nugget
+
+#c:chains
+- minecraft:chain
+- charm:gold_chain
+
+#c:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#c:steel_plates
+- indrev:steel_plate
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket
+
+#c:leather
+- minecraft:leather
+
+#mythicmetals:starrite_blocks
+- mythicmetals:starrite_block
+
+#c:lanterns
+- minecraft:lantern
+- minecraft:soul_lantern
+- charm:gold_lantern
+- charm:gold_soul_lantern
+
+#c:nuggets/iron
+- minecraft:iron_nugget
+
+#c:nuggets
+- #c:nuggets/iron
+- #c:nuggets/gold
+- create:copper_nugget
+- create:zinc_nugget
+- create:brass_nugget
+- create:experience_nugget
+
+#byg:redwood_logs
+- byg:redwood_log
+- byg:stripped_redwood_log
+- byg:redwood_wood
+- byg:stripped_redwood_wood
+
+#mythicmetals:stormyx_ingots
+- mythicmetals:stormyx_ingot
+
+#piglib:piglin_bartering_items
+- mythicmetals:midas_gold_ingot
+
+#c:crops/nether_wart
+- minecraft:nether_wart
+
+#byg:rainbow_eucalyptus_logs
+- byg:rainbow_eucalyptus_log
+- byg:stripped_rainbow_eucalyptus_log
+- byg:rainbow_eucalyptus_wood
+- byg:stripped_rainbow_eucalyptus_wood
+
+#c:tungsten_ores
+- indrev:tungsten_ore
+- indrev:deepslate_tungsten_ore
+
+#byg:blue_enchanted_logs
+- byg:blue_enchanted_log
+- byg:stripped_blue_enchanted_log
+- byg:blue_enchanted_wood
+- byg:stripped_blue_enchanted_wood
+
+#c:beacon_payment
+- #create:create_ingots
+
+#adorn:wooden_shelves
+- adorn:oak_shelf
+- adorn:spruce_shelf
+- adorn:birch_shelf
+- adorn:jungle_shelf
+- adorn:acacia_shelf
+- adorn:dark_oak_shelf
+- adorn:crimson_shelf
+- adorn:warped_shelf
+- adorn:biomemakeover/blighted_balsa_shelf?
+- adorn:biomemakeover/swamp_cypress_shelf?
+- adorn:biomemakeover/willow_shelf?
+- adorn:blockus/white_oak_shelf?
+- adorn:byg/aspen_shelf?
+- adorn:byg/baobab_shelf?
+- adorn:byg/blue_enchanted_shelf?
+- adorn:byg/bulbis_shelf?
+- adorn:byg/cherry_shelf?
+- adorn:byg/cika_shelf?
+- adorn:byg/cypress_shelf?
+- adorn:byg/ebony_shelf?
+- adorn:byg/embur_shelf?
+- adorn:byg/ether_shelf?
+- adorn:byg/fir_shelf?
+- adorn:byg/green_enchanted_shelf?
+- adorn:byg/holly_shelf?
+- adorn:byg/imparius_shelf?
+- adorn:byg/jacaranda_shelf?
+- adorn:byg/lament_shelf?
+- adorn:byg/mahogany_shelf?
+- adorn:byg/mangrove_shelf?
+- adorn:byg/maple_shelf?
+- adorn:byg/nightshade_shelf?
+- adorn:byg/palm_shelf?
+- adorn:byg/pine_shelf?
+- adorn:byg/rainbow_eucalyptus_shelf?
+- adorn:byg/redwood_shelf?
+- adorn:byg/skyris_shelf?
+- adorn:byg/sythian_shelf?
+- adorn:byg/willow_shelf?
+- adorn:byg/witch_hazel_shelf?
+- adorn:byg/zelkova_shelf?
+- adorn:cinderscapes/scorched_shelf?
+- adorn:cinderscapes/umbral_shelf?
+- adorn:promenade/cherry_oak_shelf?
+- adorn:promenade/dark_amaranth_shelf?
+- adorn:promenade/palm_shelf?
+- adorn:techreborn/rubber_shelf?
+- adorn:terrestria/cypress_shelf?
+- adorn:terrestria/hemlock_shelf?
+- adorn:terrestria/japanese_maple_shelf?
+- adorn:terrestria/rainbow_eucalyptus_shelf?
+- adorn:terrestria/redwood_shelf?
+- adorn:terrestria/rubber_shelf?
+- adorn:terrestria/sakura_shelf?
+- adorn:terrestria/willow_shelf?
+- adorn:terrestria/yucca_palm_shelf?
+- adorn:traverse/fir_shelf?
+- adorn:woods_and_mires/pine_shelf?
+- adorn:architects_palette/twisted_shelf?
+- adorn:biomesoplenty/cherry_shelf?
+- adorn:biomesoplenty/dead_shelf?
+- adorn:biomesoplenty/fir_shelf?
+- adorn:biomesoplenty/hellbark_shelf?
+- adorn:biomesoplenty/jacaranda_shelf?
+- adorn:biomesoplenty/magic_shelf?
+- adorn:biomesoplenty/mahogany_shelf?
+- adorn:biomesoplenty/palm_shelf?
+- adorn:biomesoplenty/redwood_shelf?
+- adorn:biomesoplenty/umbran_shelf?
+- adorn:biomesoplenty/willow_shelf?
+- adorn:ecologics/azalea_shelf?
+- adorn:ecologics/flowering_azalea_shelf?
+- adorn:ecologics/coconut_shelf?
+- adorn:ecologics/walnut_shelf?
+
+#c:ingots/netherite
+- minecraft:netherite_ingot
+
+#create:crushed_ores
+- create:crushed_iron_ore
+- create:crushed_gold_ore
+- create:crushed_copper_ore
+- create:crushed_zinc_ore
+- create:crushed_osmium_ore
+- create:crushed_platinum_ore
+- create:crushed_silver_ore
+- create:crushed_tin_ore
+- create:crushed_lead_ore
+- create:crushed_quicksilver_ore
+- create:crushed_aluminum_ore
+- create:crushed_uranium_ore
+- create:crushed_nickel_ore
+
+#botania:glimmering_livingwood_logs
+- botania:glimmering_livingwood
+- botania:glimmering_livingwood_log
+- botania:glimmering_stripped_livingwood
+- botania:glimmering_stripped_livingwood_log
+
+#byg:palm_logs
+- byg:palm_log
+- byg:stripped_palm_log
+- byg:palm_wood
+- byg:stripped_palm_wood
+
+#c:chests
+- #c:chests/ender
+- #c:chests/trapped
+- #c:chests/wooden
+
+#c:manganese_nuggets
+- mythicmetals:manganese_nugget
+
+#c:storage_blocks/pendorite
+- byg:pendorite_block
+
+#c:nuggets/copper
+- create:copper_nugget
+
+#c:storage_blocks/lapis
+- minecraft:lapis_block
+
+#byg:double_cyan_dye
+- byg:foxglove
+
+#c:ores/emerald
+- #minecraft:emerald_ores
+
+#c:manganese_ores
+- mythicmetals:manganese_ore
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#campanion:backpacks
+- campanion:day_pack
+- campanion:camping_pack
+- campanion:hiking_pack
+
+#byg:aspen_logs
+- byg:aspen_log
+- byg:stripped_aspen_log
+- byg:aspen_wood
+- byg:stripped_aspen_wood
+
+#botania:rods
+- botania:dirt_rod
+- botania:skydirt_rod
+- botania:terraform_rod
+- botania:cobble_rod
+- botania:water_rod
+- botania:tornado_rod
+- botania:fire_rod
+- botania:divining_rod
+- botania:smelt_rod
+- botania:exchange_rod
+- botania:rainbow_rod
+- botania:gravity_rod
+- botania:missile_rod
+
+#c:storage_blocks/netherite
+- minecraft:netherite_block
+
+#c:tungsten_blocks
+- indrev:tungsten_block
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- byg:withering_oak_log
+- byg:withering_oak_wood
+
+#campanion:mre_components
+- #campanion:fruits
+- #campanion:grains
+- #campanion:proteins
+- #campanion:vegetables
+
+#mythicmetals:prometheum_tools
+- mythicmetals:prometheum_sword
+- mythicmetals:prometheum_pickaxe
+- mythicmetals:prometheum_axe
+- mythicmetals:prometheum_shovel
+- mythicmetals:prometheum_hoe
+
+#c:ores/diamond
+- #minecraft:diamond_ores
+
+#mythicmetals:kyber_ingots
+- mythicmetals:kyber_ingot
+
+#mythicmetals:unobtainium_ores
+- mythicmetals:unobtainium_ore
+- mythicmetals:deepslate_unobtainium_ore
+
+#byg:purple_sand
+- byg:purple_sand
+
+#c:storage_blocks/quartz
+- minecraft:quartz_block
+
+#c:electrum_plates
+- indrev:electrum_plate
+
+#balm:gold_nuggets
+- #c:gold_nuggets?
+- minecraft:gold_nugget
+
+#c:storage_blocks/raw_zinc
+- create:raw_zinc_block
+
+#c:ores_in_ground/stone
+- minecraft:coal_ore
+- minecraft:copper_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+- create:zinc_ore
+
+#adorn:prismarine_chimneys
+- adorn:prismarine_chimney
+- adorn:soulful_prismarine_chimney
+- adorn:magmatic_prismarine_chimney
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- patchouli:guide_book
+
+#campanion:lawn_chairs
+- campanion:yellow_lawn_chair
+- campanion:green_lawn_chair
+- campanion:purple_lawn_chair
+- campanion:cyan_lawn_chair
+- campanion:gray_lawn_chair
+- campanion:black_lawn_chair
+- campanion:brown_lawn_chair
+- campanion:magenta_lawn_chair
+- campanion:light_blue_lawn_chair
+- campanion:lime_lawn_chair
+- campanion:white_lawn_chair
+- campanion:orange_lawn_chair
+- campanion:light_gray_lawn_chair
+- campanion:red_lawn_chair
+- campanion:blue_lawn_chair
+- campanion:pink_lawn_chair
+
+#adorn:wooden_platforms
+- adorn:oak_platform
+- adorn:spruce_platform
+- adorn:birch_platform
+- adorn:jungle_platform
+- adorn:acacia_platform
+- adorn:dark_oak_platform
+- adorn:crimson_platform
+- adorn:warped_platform
+- adorn:biomemakeover/blighted_balsa_platform?
+- adorn:biomemakeover/swamp_cypress_platform?
+- adorn:biomemakeover/willow_platform?
+- adorn:blockus/white_oak_platform?
+- adorn:byg/aspen_platform?
+- adorn:byg/baobab_platform?
+- adorn:byg/blue_enchanted_platform?
+- adorn:byg/bulbis_platform?
+- adorn:byg/cherry_platform?
+- adorn:byg/cika_platform?
+- adorn:byg/cypress_platform?
+- adorn:byg/ebony_platform?
+- adorn:byg/embur_platform?
+- adorn:byg/ether_platform?
+- adorn:byg/fir_platform?
+- adorn:byg/green_enchanted_platform?
+- adorn:byg/holly_platform?
+- adorn:byg/imparius_platform?
+- adorn:byg/jacaranda_platform?
+- adorn:byg/lament_platform?
+- adorn:byg/mahogany_platform?
+- adorn:byg/mangrove_platform?
+- adorn:byg/maple_platform?
+- adorn:byg/nightshade_platform?
+- adorn:byg/palm_platform?
+- adorn:byg/pine_platform?
+- adorn:byg/rainbow_eucalyptus_platform?
+- adorn:byg/redwood_platform?
+- adorn:byg/skyris_platform?
+- adorn:byg/sythian_platform?
+- adorn:byg/willow_platform?
+- adorn:byg/witch_hazel_platform?
+- adorn:byg/zelkova_platform?
+- adorn:cinderscapes/scorched_platform?
+- adorn:cinderscapes/umbral_platform?
+- adorn:promenade/cherry_oak_platform?
+- adorn:promenade/dark_amaranth_platform?
+- adorn:promenade/palm_platform?
+- adorn:techreborn/rubber_platform?
+- adorn:terrestria/cypress_platform?
+- adorn:terrestria/hemlock_platform?
+- adorn:terrestria/japanese_maple_platform?
+- adorn:terrestria/rainbow_eucalyptus_platform?
+- adorn:terrestria/redwood_platform?
+- adorn:terrestria/rubber_platform?
+- adorn:terrestria/sakura_platform?
+- adorn:terrestria/willow_platform?
+- adorn:terrestria/yucca_palm_platform?
+- adorn:traverse/fir_platform?
+- adorn:woods_and_mires/pine_platform?
+- adorn:architects_palette/twisted_platform?
+- adorn:biomesoplenty/cherry_platform?
+- adorn:biomesoplenty/dead_platform?
+- adorn:biomesoplenty/fir_platform?
+- adorn:biomesoplenty/hellbark_platform?
+- adorn:biomesoplenty/jacaranda_platform?
+- adorn:biomesoplenty/magic_platform?
+- adorn:biomesoplenty/mahogany_platform?
+- adorn:biomesoplenty/palm_platform?
+- adorn:biomesoplenty/redwood_platform?
+- adorn:biomesoplenty/umbran_platform?
+- adorn:biomesoplenty/willow_platform?
+- adorn:ecologics/azalea_platform?
+- adorn:ecologics/flowering_azalea_platform?
+- adorn:ecologics/coconut_platform?
+- adorn:ecologics/walnut_platform?
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#botania:elementium_ingots
+- botania:elementium_ingot
+
+#botania:runes
+- botania:rune_water
+- botania:rune_fire
+- botania:rune_earth
+- botania:rune_air
+- botania:rune_spring
+- botania:rune_summer
+- botania:rune_autumn
+- botania:rune_winter
+- botania:rune_mana
+- botania:rune_lust
+- botania:rune_gluttony
+- botania:rune_greed
+- botania:rune_sloth
+- botania:rune_wrath
+- botania:rune_envy
+- botania:rune_pride
+
+#c:plates/iron
+- create:iron_sheet
+
+#balm:purple_dyes
+- #c:purple_dyes?
+- minecraft:purple_dye
+
+#c:nuggets/zinc
+- create:zinc_nugget
+
+#adorn:regular_chimneys
+- adorn:brick_chimney
+- adorn:stone_brick_chimney
+- adorn:nether_brick_chimney
+- adorn:red_nether_brick_chimney
+- adorn:cobblestone_chimney
+
+#c:rods
+- #c:rods/blaze
+- #c:rods/wooden
+
+#c:seeds/wheat
+- minecraft:wheat_seeds
+
+#c:gems/emerald
+- minecraft:emerald
+
+#c:storage_blocks/raw_iron
+- minecraft:raw_iron_block
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+- byg:hydrangea_hedge
+- byg:flowering_indigo_jacaranda_bush
+- byg:flowering_jacaranda_bush
+- byg:flowering_indigo_jacaranda_leaves
+- byg:flowering_jacaranda_leaves
+- byg:flowering_orchard_leaves
+- byg:flowering_palo_verde_leaves
+- byg:flowering_nightshade_leaves
+
+#mythicmetals:prometheum_blocks
+- mythicmetals:prometheum_block
+
+#fabric:swords
+- graveyard:bone_dagger
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
+- indrev:tin_sword
+- indrev:copper_sword
+- indrev:steel_sword
+- indrev:lead_sword
+- indrev:silver_sword
+- indrev:bronze_sword
+- botania:manasteel_sword
+- botania:elementium_sword
+- botania:terra_sword
+- botania:thunder_sword
+- botania:star_sword
+- additionaladditions:rose_gold_sword?
+- additionaladditions:gilded_netherite_sword?
+
+#botania:special_flowers
+- #botania:misc_special_flowers
+- #botania:generating_special_flowers
+- #botania:functional_special_flowers
+
+#byg:cika_logs
+- byg:cika_log
+- byg:stripped_cika_log
+- byg:cika_wood
+- byg:stripped_cika_wood
+
+#botania:functional_special_flowers
+- botania:agricarnation
+- botania:agricarnation_chibi
+- botania:bellethorn
+- botania:bellethorn_chibi
+- botania:bubbell
+- botania:bubbell_chibi
+- botania:clayconia
+- botania:clayconia_chibi
+- botania:daffomill
+- botania:dreadthorn
+- botania:exoflame
+- botania:fallen_kanade
+- botania:heisei_dream
+- botania:hopperhock
+- botania:hopperhock_chibi
+- botania:hyacidus
+- botania:jaded_amaranthus
+- botania:jiyuulia
+- botania:jiyuulia_chibi
+- botania:labellia
+- botania:loonium
+- botania:marimorphosis
+- botania:marimorphosis_chibi
+- botania:medumone
+- botania:orechid
+- botania:orechid_ignem
+- botania:pollidisiac
+- botania:rannuncarpus
+- botania:rannuncarpus_chibi
+- botania:solegnolia
+- botania:solegnolia_chibi
+- botania:spectranthemum
+- botania:tangleberrie
+- botania:tangleberrie_chibi
+- botania:tigerseye
+- botania:vinculotus
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#c:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#c:sand/black
+- byg:black_sand
+
+#mythicmetals:prometheum_nuggets
+- mythicmetals:prometheum_nugget
+
+#c:chests/trapped
+- minecraft:trapped_chest
+
+#mythicmetals:star_platinum_nuggets
+- mythicmetals:star_platinum_nugget
+
+#c:netherrack
+- minecraft:netherrack
+
+#c:cyan_dyes
+- minecraft:cyan_dye
+- minecraft:cyan_dye
+
+#c:glass/black
+- minecraft:black_stained_glass
+
+#c:electrum_nuggets
+- indrev:electrum_nugget
+
+#piglib:piglin_safe_armor
+- mythicmetals:midas_gold_helmet
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:midas_gold_leggings
+- mythicmetals:midas_gold_boots
+
+#mythicmetals:banglum_nuggets
+- mythicmetals:banglum_nugget
+
+#adorn:kitchen_sinks
+- adorn:oak_kitchen_sink
+- adorn:spruce_kitchen_sink
+- adorn:birch_kitchen_sink
+- adorn:jungle_kitchen_sink
+- adorn:acacia_kitchen_sink
+- adorn:dark_oak_kitchen_sink
+- adorn:crimson_kitchen_sink
+- adorn:warped_kitchen_sink
+- adorn:biomemakeover/blighted_balsa_kitchen_sink?
+- adorn:biomemakeover/swamp_cypress_kitchen_sink?
+- adorn:biomemakeover/willow_kitchen_sink?
+- adorn:blockus/white_oak_kitchen_sink?
+- adorn:byg/aspen_kitchen_sink?
+- adorn:byg/baobab_kitchen_sink?
+- adorn:byg/blue_enchanted_kitchen_sink?
+- adorn:byg/bulbis_kitchen_sink?
+- adorn:byg/cherry_kitchen_sink?
+- adorn:byg/cika_kitchen_sink?
+- adorn:byg/cypress_kitchen_sink?
+- adorn:byg/ebony_kitchen_sink?
+- adorn:byg/embur_kitchen_sink?
+- adorn:byg/ether_kitchen_sink?
+- adorn:byg/fir_kitchen_sink?
+- adorn:byg/green_enchanted_kitchen_sink?
+- adorn:byg/holly_kitchen_sink?
+- adorn:byg/imparius_kitchen_sink?
+- adorn:byg/jacaranda_kitchen_sink?
+- adorn:byg/lament_kitchen_sink?
+- adorn:byg/mahogany_kitchen_sink?
+- adorn:byg/mangrove_kitchen_sink?
+- adorn:byg/maple_kitchen_sink?
+- adorn:byg/nightshade_kitchen_sink?
+- adorn:byg/palm_kitchen_sink?
+- adorn:byg/pine_kitchen_sink?
+- adorn:byg/rainbow_eucalyptus_kitchen_sink?
+- adorn:byg/redwood_kitchen_sink?
+- adorn:byg/skyris_kitchen_sink?
+- adorn:byg/sythian_kitchen_sink?
+- adorn:byg/willow_kitchen_sink?
+- adorn:byg/witch_hazel_kitchen_sink?
+- adorn:byg/zelkova_kitchen_sink?
+- adorn:cinderscapes/scorched_kitchen_sink?
+- adorn:cinderscapes/umbral_kitchen_sink?
+- adorn:promenade/cherry_oak_kitchen_sink?
+- adorn:promenade/dark_amaranth_kitchen_sink?
+- adorn:promenade/palm_kitchen_sink?
+- adorn:techreborn/rubber_kitchen_sink?
+- adorn:terrestria/cypress_kitchen_sink?
+- adorn:terrestria/hemlock_kitchen_sink?
+- adorn:terrestria/japanese_maple_kitchen_sink?
+- adorn:terrestria/rainbow_eucalyptus_kitchen_sink?
+- adorn:terrestria/redwood_kitchen_sink?
+- adorn:terrestria/rubber_kitchen_sink?
+- adorn:terrestria/sakura_kitchen_sink?
+- adorn:terrestria/willow_kitchen_sink?
+- adorn:terrestria/yucca_palm_kitchen_sink?
+- adorn:traverse/fir_kitchen_sink?
+- adorn:woods_and_mires/pine_kitchen_sink?
+- adorn:architects_palette/twisted_kitchen_sink?
+- adorn:biomesoplenty/cherry_kitchen_sink?
+- adorn:biomesoplenty/dead_kitchen_sink?
+- adorn:biomesoplenty/fir_kitchen_sink?
+- adorn:biomesoplenty/hellbark_kitchen_sink?
+- adorn:biomesoplenty/jacaranda_kitchen_sink?
+- adorn:biomesoplenty/magic_kitchen_sink?
+- adorn:biomesoplenty/mahogany_kitchen_sink?
+- adorn:biomesoplenty/palm_kitchen_sink?
+- adorn:biomesoplenty/redwood_kitchen_sink?
+- adorn:biomesoplenty/umbran_kitchen_sink?
+- adorn:biomesoplenty/willow_kitchen_sink?
+- adorn:ecologics/azalea_kitchen_sink?
+- adorn:ecologics/flowering_azalea_kitchen_sink?
+- adorn:ecologics/coconut_kitchen_sink?
+- adorn:ecologics/walnut_kitchen_sink?
+
+#c:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#create:stone_types/dripstone
+- create:cut_dripstone
+- create:cut_dripstone_stairs
+- create:cut_dripstone_wall
+- create:polished_cut_dripstone
+- create:polished_cut_dripstone_stairs
+- create:polished_cut_dripstone_wall
+- create:cut_dripstone_bricks
+- create:cut_dripstone_brick_stairs
+- create:cut_dripstone_brick_wall
+- create:small_dripstone_bricks
+- create:small_dripstone_brick_stairs
+- create:small_dripstone_brick_wall
+- create:layered_dripstone
+- create:dripstone_pillar
+
+#c:barrels/wooden
+- minecraft:barrel
+
+#c:electrum_ingots
+- indrev:electrum_ingot
+
+#byg:holly_logs
+- byg:holly_log
+- byg:stripped_holly_log
+- byg:holly_wood
+- byg:stripped_holly_wood
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots
+- minecraft:leather_leggings
+- minecraft:leather_chestplate
+- minecraft:leather_helmet
+- minecraft:leather_horse_armor
+- botania:ice_pendant
+- mythicmetals:palladium_helmet
+- mythicmetals:palladium_chestplate
+- mythicmetals:palladium_leggings
+- mythicmetals:palladium_boots
+
+#c:milk_bottles
+- milk:milk_bottle?
+- milk:splash_milk_bottle?
+- milk:lingering_milk_bottle?
+
+#c:copper_nuggets
+- indrev:copper_nugget
+- mythicmetals:copper_nugget
+
+#adorn:drawers
+- adorn:oak_drawer
+- adorn:spruce_drawer
+- adorn:birch_drawer
+- adorn:jungle_drawer
+- adorn:acacia_drawer
+- adorn:dark_oak_drawer
+- adorn:crimson_drawer
+- adorn:warped_drawer
+- adorn:biomemakeover/blighted_balsa_drawer?
+- adorn:biomemakeover/swamp_cypress_drawer?
+- adorn:biomemakeover/willow_drawer?
+- adorn:blockus/white_oak_drawer?
+- adorn:byg/aspen_drawer?
+- adorn:byg/baobab_drawer?
+- adorn:byg/blue_enchanted_drawer?
+- adorn:byg/bulbis_drawer?
+- adorn:byg/cherry_drawer?
+- adorn:byg/cika_drawer?
+- adorn:byg/cypress_drawer?
+- adorn:byg/ebony_drawer?
+- adorn:byg/embur_drawer?
+- adorn:byg/ether_drawer?
+- adorn:byg/fir_drawer?
+- adorn:byg/green_enchanted_drawer?
+- adorn:byg/holly_drawer?
+- adorn:byg/imparius_drawer?
+- adorn:byg/jacaranda_drawer?
+- adorn:byg/lament_drawer?
+- adorn:byg/mahogany_drawer?
+- adorn:byg/mangrove_drawer?
+- adorn:byg/maple_drawer?
+- adorn:byg/nightshade_drawer?
+- adorn:byg/palm_drawer?
+- adorn:byg/pine_drawer?
+- adorn:byg/rainbow_eucalyptus_drawer?
+- adorn:byg/redwood_drawer?
+- adorn:byg/skyris_drawer?
+- adorn:byg/sythian_drawer?
+- adorn:byg/willow_drawer?
+- adorn:byg/witch_hazel_drawer?
+- adorn:byg/zelkova_drawer?
+- adorn:cinderscapes/scorched_drawer?
+- adorn:cinderscapes/umbral_drawer?
+- adorn:promenade/cherry_oak_drawer?
+- adorn:promenade/dark_amaranth_drawer?
+- adorn:promenade/palm_drawer?
+- adorn:techreborn/rubber_drawer?
+- adorn:terrestria/cypress_drawer?
+- adorn:terrestria/hemlock_drawer?
+- adorn:terrestria/japanese_maple_drawer?
+- adorn:terrestria/rainbow_eucalyptus_drawer?
+- adorn:terrestria/redwood_drawer?
+- adorn:terrestria/rubber_drawer?
+- adorn:terrestria/sakura_drawer?
+- adorn:terrestria/willow_drawer?
+- adorn:terrestria/yucca_palm_drawer?
+- adorn:traverse/fir_drawer?
+- adorn:woods_and_mires/pine_drawer?
+- adorn:architects_palette/twisted_drawer?
+- adorn:biomesoplenty/cherry_drawer?
+- adorn:biomesoplenty/dead_drawer?
+- adorn:biomesoplenty/fir_drawer?
+- adorn:biomesoplenty/hellbark_drawer?
+- adorn:biomesoplenty/jacaranda_drawer?
+- adorn:biomesoplenty/magic_drawer?
+- adorn:biomesoplenty/mahogany_drawer?
+- adorn:biomesoplenty/palm_drawer?
+- adorn:biomesoplenty/redwood_drawer?
+- adorn:biomesoplenty/umbran_drawer?
+- adorn:biomesoplenty/willow_drawer?
+- adorn:ecologics/azalea_drawer?
+- adorn:ecologics/flowering_azalea_drawer?
+- adorn:ecologics/coconut_drawer?
+- adorn:ecologics/walnut_drawer?
+
+#botania:petals/white
+- botania:white_petal
+- botania:white_mushroom
+
+#byg:pine_logs
+- byg:pine_log
+- byg:stripped_pine_log
+- byg:pine_wood
+- byg:stripped_pine_wood
+
+#mythicmetals:kyber_blocks
+- mythicmetals:kyber_block
+
+#c:crops/beetroot
+- minecraft:beetroot
+
+#c:bronze_dusts
+- indrev:bronze_dust
+
+#c:tea
+- adorn:glow_berry_tea
+
+#c:coal_dusts
+- indrev:coal_dust
+
+#minecraft:occludes_vibration_signals
+- #minecraft:wool
+
+#mythicmetals:carmot_blocks
+- mythicmetals:carmot_block
+
+#mythicmetals:runite_ores
+- mythicmetals:runite_ore
+
+#fabric:pickaxes
+- byg:pendorite_pickaxe
+- indrev:mining_drill_mk1
+- indrev:mining_drill_mk2
+- indrev:mining_drill_mk3
+- indrev:mining_drill_mk4
+- indrev:tin_pickaxe
+- indrev:copper_pickaxe
+- indrev:steel_pickaxe
+- indrev:lead_pickaxe
+- indrev:silver_pickaxe
+- indrev:bronze_pickaxe
+- botania:manasteel_pick
+- botania:elementium_pickaxe
+- botania:terra_pick
+- botania:glass_pickaxe
+- additionaladditions:rose_gold_pickaxe?
+- additionaladditions:gilded_netherite_pickaxe?
+
+#c:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#mythicmetals:star_platinum
+- mythicmetals:star_platinum
+
+#create:upright_on_belt
+- create:blaze_cake_base
+- create:blaze_cake
+- create:creative_blaze_cake
+- create:builders_tea
+- minecraft:glass_bottle
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:honey_bottle
+- minecraft:cake
+
+#toolstats:ignore_durability
+
+#c:gold_nuggets
+- minecraft:gold_nugget
+
+#mythicmetals:metallurgium_ingots
+- mythicmetals:metallurgium_ingot
+
+#botania:floating_flowers
+- #botania:mundane_floating_flowers
+- #botania:special_floating_flowers
+
+#c:storage_blocks
+- byg:ametrine_block
+- byg:pendorite_block
+- byg:anthracite_block
+- byg:lignite_block
+- #c:storage_blocks/amethyst
+- #c:storage_blocks/coal
+- #c:storage_blocks/copper
+- #c:storage_blocks/diamond
+- #c:storage_blocks/emerald
+- #c:storage_blocks/gold
+- #c:storage_blocks/iron
+- #c:storage_blocks/lapis
+- #c:storage_blocks/quartz
+- #c:storage_blocks/raw_copper
+- #c:storage_blocks/raw_gold
+- #c:storage_blocks/raw_iron
+- #c:storage_blocks/redstone
+- #c:storage_blocks/netherite
+- create:raw_zinc_block
+- create:zinc_block
+- create:brass_block
+
+#c:orichalcum_ores
+- mythicmetals:orichalcum_ore
+- mythicmetals:deepslate_orichalcum_ore
+- mythicmetals:smooth_basalt_orichalcum_ore
+- mythicmetals:tuff_orichalcum_ore
+
+#c:tin_ores
+- indrev:tin_ore
+- indrev:deepslate_tin_ore
+- mythicmetals:tin_ore
+
+#c:dyes
+- #c:black_dyes?
+- #c:blue_dyes?
+- #c:brown_dyes?
+- #c:green_dyes?
+- #c:red_dyes?
+- #c:white_dyes?
+- #c:yellow_dyes?
+- #c:light_gray_dyes?
+- #c:light_blue_dyes?
+- #c:lime_dyes?
+- #c:magenta_dyes?
+- #c:orange_dyes?
+- #c:pink_dyes?
+- #c:cyan_dyes?
+- #c:gray_dyes?
+- #c:purple_dyes?
+- #c:white_dyes
+- #c:orange_dyes
+- #c:magenta_dyes
+- #c:light_blue_dyes
+- #c:yellow_dyes
+- #c:lime_dyes
+- #c:pink_dyes
+- #c:gray_dyes
+- #c:light_gray_dyes
+- #c:cyan_dyes
+- #c:purple_dyes
+- #c:blue_dyes
+- #c:brown_dyes
+- #c:green_dyes
+- #c:red_dyes
+- #c:black_dyes
+
+#c:storage_blocks/lignite
+- byg:lignite_block
+
+#c:iron_dusts
+- indrev:iron_dust
+
+#byg:blue_sand
+- byg:blue_sand
+
+#c:steel_blocks
+- indrev:steel_block
+- mythicmetals:steel_block
+
+#balm:cyan_dyes
+- #c:cyan_dyes?
+- minecraft:cyan_dye
+
+#yigd:force_item_slot
+- camsbackpacks:white_backpack?
+- camsbackpacks:orange_backpack?
+- camsbackpacks:magenta_backpack?
+- camsbackpacks:light_blue_backpack?
+- camsbackpacks:yellow_backpack?
+- camsbackpacks:lime_backpack?
+- camsbackpacks:pink_backpack?
+- camsbackpacks:gray_backpack?
+- camsbackpacks:light_gray_backpack?
+- camsbackpacks:cyan_backpack?
+- camsbackpacks:purple_backpack?
+- camsbackpacks:blue_backpack?
+- camsbackpacks:brown_backpack?
+- camsbackpacks:green_backpack?
+- camsbackpacks:red_backpack?
+- camsbackpacks:black_backpack?
+- camsbackpacks:gay_pride_backpack?
+- camsbackpacks:lesbian_pride_backpack?
+- camsbackpacks:qpoc_pride_backpack?
+- camsbackpacks:bi_pride_backpack?
+- camsbackpacks:pan_pride_backpack?
+- camsbackpacks:trans_pride_backpack?
+- camsbackpacks:genderqueer_pride_backpack?
+- camsbackpacks:genderfluid_pride_backpack?
+- camsbackpacks:enby_pride_backpack?
+- camsbackpacks:ace_pride_backpack?
+- camsbackpacks:demi_pride_backpack?
+- camsbackpacks:aro_pride_backpack?
+- camsbackpacks:agender_pride_backpack?
+
+#adorn:platforms
+- #adorn:wooden_platforms
+- #adorn:stone_platforms
+
+#campanion:grains
+- minecraft:bread
+- minecraft:cake
+- minecraft:cookie
+- campanion:cracker
+
+#c:sand/white
+- byg:white_sand
+
+#minecraft:piglin_food
+- minecraft:porkchop
+- minecraft:cooked_porkchop
+
+#c:wrenches
+- indrev:wrench
+- create:wrench
+
+#mythicmetals:quadrillum_nuggets
+- mythicmetals:quadrillum_nugget
+
+#c:sandstones
+- byg:black_sandstone
+- byg:black_chiseled_sandstone
+- byg:black_cut_sandstone
+- byg:blue_sandstone
+- byg:blue_chiseled_sandstone
+- byg:blue_cut_sandstone
+- byg:white_sandstone
+- byg:white_chiseled_sandstone
+- byg:white_cut_sandstone
+- byg:purple_sandstone
+- byg:purple_chiseled_sandstone
+- byg:purple_cut_sandstone
+- byg:pink_sandstone
+- byg:pink_chiseled_sandstone
+- byg:pink_cut_sandstone
+- byg:windswept_sandstone
+- byg:chiseled_windswept_sandstone
+- byg:cut_windswept_sandstone
+- byg:smooth_windswept_sandstone
+- byg:windswept_sandstone_pillar
+- minecraft:sandstone
+- minecraft:smooth_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:cut_sandstone
+
+#mythicmetals:celestium_nuggets
+- mythicmetals:celestium_nugget
+
+#campanion:spears
+- campanion:wooden_spear
+- campanion:stone_spear
+- campanion:iron_spear
+- campanion:golden_spear
+- campanion:diamond_spear
+- campanion:netherite_spear
+
+#c:green_dyes
+- minecraft:green_dye
+- minecraft:green_dye
+
+#byg:red_dye
+- byg:amaranth
+- byg:begonia
+- byg:kovan_flower
+- byg:rose
+- byg:torch_ginger
+
+#c:ore_bearing_ground/netherrack
+- minecraft:netherrack
+
+#c:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#toolstats:ignore_repair_cost
+
+#c:dusts/redstone
+- minecraft:redstone
+
+#c:copper_dusts
+- indrev:copper_dust
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#botania:petals/red
+- botania:red_petal
+- botania:red_mushroom
+
+#mythicmetals:durasteel_blocks
+- mythicmetals:durasteel_block
+
+#toms_storage:trims
+- toms_storage:ts.trim
+- toms_storage:ts.painted_trim
+
+#c:juices
+- adorn:sweet_berry_juice
+
+#byg:palo_verde_logs
+- byg:palo_verde_log
+- byg:stripped_palo_verde_log
+- byg:palo_verde_wood
+- byg:stripped_palo_verde_wood
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- charm:azalea_sign
+
+#c:raw_materials/copper
+- minecraft:raw_copper
+
+#c:fences/wooden
+- #minecraft:wooden_fences
+
+#c:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#c:gold_dusts
+- indrev:gold_dust
+
+#byg:fir_logs
+- byg:fir_log
+- byg:stripped_fir_log
+- byg:fir_wood
+- byg:stripped_fir_wood
+
+#trinkets:all
+- botania:cosmetic_black_bowtie
+- botania:cosmetic_black_tie
+- botania:cosmetic_red_glasses
+- botania:cosmetic_puffy_scarf
+- botania:cosmetic_engineer_goggles
+- botania:cosmetic_eyepatch
+- botania:cosmetic_wicked_eyepatch
+- botania:cosmetic_red_ribbons
+- botania:cosmetic_pink_flower_bud
+- botania:cosmetic_polka_dotted_bows
+- botania:cosmetic_blue_butterfly
+- botania:cosmetic_cat_ears
+- botania:cosmetic_witch_pin
+- botania:cosmetic_devil_tail
+- botania:cosmetic_kamui_eye
+- botania:cosmetic_googly_eyes
+- botania:cosmetic_four_leaf_clover
+- botania:cosmetic_clock_eye
+- botania:cosmetic_unicorn_horn
+- botania:cosmetic_devil_horns
+- botania:cosmetic_hyper_plus
+- botania:cosmetic_botanist_emblem
+- botania:cosmetic_ancient_mask
+- botania:cosmetic_eerie_mask
+- botania:cosmetic_alien_antenna
+- botania:cosmetic_anaglyph_glasses
+- botania:cosmetic_orange_shades
+- botania:cosmetic_groucho_glasses
+- botania:cosmetic_thick_eyebrows
+- botania:cosmetic_lusitanic_shield
+- botania:cosmetic_tiny_potato_mask
+- botania:cosmetic_questgiver_mark
+- botania:cosmetic_thinking_hand
+
+#bookshelf:slime_balls
+- #c:slimeballs
+- #c:slime_balls
+
+#balm:white_dyes
+- #c:white_dyes?
+- minecraft:white_dye
+
+#c:nikolite_ores
+- indrev:nikolite_ore
+- indrev:deepslate_nikolite_ore
+
+#mythicmetals:aquarium_nuggets
+- mythicmetals:aquarium_nugget
+
+#c:glass/brown
+- minecraft:brown_stained_glass
+
+#c:sand
+- byg:white_sand
+- byg:black_sand
+- byg:blue_sand
+- byg:pink_sand
+- byg:purple_sand
+- byg:end_sand
+- byg:windswept_sand
+- byg:cracked_red_sand
+- #c:sand/colorless
+- #c:sand/red
+
+#botania:petals/light_gray
+- botania:light_gray_petal
+- botania:light_gray_mushroom
+
+#adorn:crates
+- adorn:crate
+- #adorn:filled_crates
+
+#botania:mini_flowers
+- botania:agricarnation_chibi
+- botania:bellethorn_chibi
+- botania:bubbell_chibi
+- botania:clayconia_chibi
+- botania:hopperhock_chibi
+- botania:jiyuulia_chibi
+- botania:marimorphosis_chibi
+- botania:rannuncarpus_chibi
+- botania:solegnolia_chibi
+- botania:tangleberrie_chibi
+
+#botania:glimmering_dreamwood_logs
+- botania:glimmering_dreamwood
+- botania:glimmering_dreamwood_log
+- botania:glimmering_stripped_dreamwood
+- botania:glimmering_stripped_dreamwood_log
+
+#c:palladium_ingots
+- mythicmetals:palladium_ingot
+
+#adorn:stone_steps
+- adorn:andesite_step
+- adorn:basalt_step
+- adorn:blackstone_step
+- adorn:brick_step
+- adorn:cobbled_deepslate_step
+- adorn:cobblestone_step
+- adorn:cut_red_sandstone_step
+- adorn:cut_sandstone_step
+- adorn:dark_prismarine_step
+- adorn:deepslate_step
+- adorn:deepslate_brick_step
+- adorn:deepslate_tile_step
+- adorn:diorite_step
+- adorn:end_stone_brick_step
+- adorn:granite_step
+- adorn:mossy_cobblestone_step
+- adorn:mossy_stone_brick_step
+- adorn:nether_brick_step
+- adorn:polished_andesite_step
+- adorn:polished_blackstone_step
+- adorn:polished_blackstone_brick_step
+- adorn:polished_deepslate_step
+- adorn:polished_diorite_step
+- adorn:polished_granite_step
+- adorn:prismarine_step
+- adorn:prismarine_brick_step
+- adorn:purpur_step
+- adorn:quartz_step
+- adorn:red_nether_brick_step
+- adorn:red_sandstone_step
+- adorn:sandstone_step
+- adorn:smooth_red_sandstone_step
+- adorn:smooth_sandstone_step
+- adorn:smooth_stone_step
+- adorn:stone_brick_step
+- adorn:stone_step
+- adorn:byg/dacite_step?
+- adorn:byg/dacite_brick_step?
+- adorn:byg/dacite_cobblestone_step?
+- adorn:byg/mossy_stone_step?
+- adorn:byg/rocky_stone_step?
+- adorn:byg/scoria_stone_step?
+- adorn:byg/scoria_cobblestone_step?
+- adorn:byg/scoria_stonebrick_step?
+- adorn:byg/soapstone_step?
+- adorn:byg/polished_soapstone_step?
+- adorn:byg/soapstone_brick_step?
+- adorn:byg/soapstone_tile_step?
+- adorn:byg/red_rock_step?
+- adorn:byg/red_rock_brick_step?
+- adorn:byg/mossy_red_rock_brick_step?
+- adorn:byg/cracked_red_rock_brick_step?
+- adorn:byg/chiseled_red_rock_brick_step?
+- adorn:terrestria/basalt_step?
+- adorn:terrestria/basalt_brick_step?
+- adorn:terrestria/basalt_cobblestone_step?
+- adorn:terrestria/mossy_basalt_brick_step?
+- adorn:terrestria/mossy_basalt_cobblestone_step?
+- adorn:terrestria/smooth_basalt_step?
+- adorn:architects_palette/myonite_step?
+- adorn:architects_palette/myonite_brick_step?
+- adorn:architects_palette/mushy_myonite_brick_step?
+- adorn:biomesoplenty/mud_brick_step?
+- adorn:biomesoplenty/black_sandstone_step?
+- adorn:biomesoplenty/cut_black_sandstone_step?
+- adorn:biomesoplenty/smooth_black_sandstone_step?
+- adorn:biomesoplenty/orange_sandstone_step?
+- adorn:biomesoplenty/cut_orange_sandstone_step?
+- adorn:biomesoplenty/smooth_orange_sandstone_step?
+- adorn:biomesoplenty/white_sandstone_step?
+- adorn:biomesoplenty/cut_white_sandstone_step?
+- adorn:biomesoplenty/smooth_white_sandstone_step?
+
+#c:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#byg:orange_dye
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:guzmania
+- byg:incan_lily
+- byg:california_poppy
+
+#c:copper_plates
+- indrev:copper_plate
+
+#balm:green_dyes
+- #c:green_dyes?
+- minecraft:green_dye
+
+#c:workbenches
+- byg:aspen_crafting_table
+- byg:baobab_crafting_table
+- byg:blue_enchanted_crafting_table
+- byg:cherry_crafting_table
+- byg:cika_crafting_table
+- byg:cypress_crafting_table
+- byg:ebony_crafting_table
+- byg:fir_crafting_table
+- byg:green_enchanted_crafting_table
+- byg:holly_crafting_table
+- byg:jacaranda_crafting_table
+- byg:mahogany_crafting_table
+- byg:mangrove_crafting_table
+- byg:maple_crafting_table
+- byg:pine_crafting_table
+- byg:rainbow_eucalyptus_crafting_table
+- byg:redwood_crafting_table
+- byg:skyris_crafting_table
+- byg:willow_crafting_table
+- byg:witch_hazel_crafting_table
+- byg:zelkova_crafting_table
+- byg:sythian_crafting_table
+- byg:embur_crafting_table
+- byg:palm_crafting_table
+- byg:lament_crafting_table
+- byg:ether_crafting_table
+- byg:bulbis_crafting_table
+- byg:nightshade_crafting_table
+- byg:imparius_crafting_table
+
+#botania:terrasteel_blocks
+- botania:terrasteel_block
+
+#c:crops/potato
+- minecraft:potato
+
+#c:ingots/brick
+- minecraft:brick
+
+#c:tungsten_nuggets
+- indrev:tungsten_nugget
+
+#botania:manasteel_nuggets
+- botania:manasteel_nugget
+
+#c:swords
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
+- #fabric:swords?
+- minecraft:diamond_sword
+- minecraft:golden_sword
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+- minecraft:netherite_sword
+- mythicmetals:adamantite_sword
+- mythicmetals:aquarium_sword
+- mythicmetals:banglum_sword
+- mythicmetals:bronze_sword
+- mythicmetals:carmot_sword
+- mythicmetals:celestium_sword
+- mythicmetals:copper_sword
+- mythicmetals:durasteel_sword
+- mythicmetals:hallowed_sword
+- mythicmetals:kyber_sword
+- mythicmetals:legendary_banglum_sword
+- mythicmetals:metallurgium_sword
+- mythicmetals:mythril_sword
+- mythicmetals:orichalcum_sword
+- mythicmetals:osmium_sword
+- mythicmetals:palladium_sword
+- mythicmetals:prometheum_sword
+- mythicmetals:quadrillum_sword
+- mythicmetals:runite_sword
+- mythicmetals:star_platinum_sword
+- mythicmetals:stormyx_sword
+
+#c:sulfur_dusts
+- indrev:sulfur_dust
+
+#c:mythril_ingots
+- mythicmetals:mythril_ingot
+
+#c:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#fabric:hoes
+- byg:pendorite_hoe
+- indrev:tin_hoe
+- indrev:copper_hoe
+- indrev:steel_hoe
+- indrev:lead_hoe
+- indrev:silver_hoe
+- indrev:bronze_hoe
+- botania:manasteel_hoe
+- botania:elementium_hoe
+- additionaladditions:rose_gold_hoe?
+- additionaladditions:gilded_netherite_hoe?
+
+#charm:coral_sea_lanterns
+- charm:brain_sea_lantern
+- charm:bubble_sea_lantern
+- charm:fire_sea_lantern
+- charm:horn_sea_lantern
+- charm:tube_sea_lantern
+
+#charm:crafting_tables
+- minecraft:crafting_table
+
+#c:tin_blocks
+- indrev:tin_block
+- mythicmetals:tin_block
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- byg:ametrine_gems
+- byg:pendorite_scraps
+
+#trinkets:chest/cape
+- botania:balance_cloak
+- botania:holy_cloak
+- botania:invisibility_cloak
+- botania:unholy_cloak
+
+#c:palladium_nuggets
+- mythicmetals:palladium_nugget
+
+#minecraft:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+
+#mythicmetals:metals
+- mythicmetals:adamantite_ingot
+- mythicmetals:aquarium_ingot
+- mythicmetals:banglum_ingot
+- mythicmetals:bronze_ingot
+- mythicmetals:carmot_ingot
+- mythicmetals:celestium_ingot
+- mythicmetals:durasteel_ingot
+- mythicmetals:hallowed_ingot
+- mythicmetals:kyber_ingot
+- mythicmetals:manganese_ingot
+- mythicmetals:metallurgium_ingot
+- mythicmetals:midas_gold_ingot
+- mythicmetals:mythril_ingot
+- mythicmetals:orichalcum_ingot
+- mythicmetals:osmium_ingot
+- mythicmetals:palladium_ingot
+- mythicmetals:platinum_ingot
+- mythicmetals:prometheum_ingot
+- mythicmetals:quadrillum_ingot
+- mythicmetals:runite_ingot
+- mythicmetals:silver_ingot
+- mythicmetals:starrite
+- mythicmetals:star_platinum
+- mythicmetals:steel_ingot
+- mythicmetals:stormyx_ingot
+- mythicmetals:tin_ingot
+- mythicmetals:unobtainium
+- mythicmetals:raw_adamantite
+- mythicmetals:raw_aquarium
+- mythicmetals:raw_banglum
+- mythicmetals:raw_carmot
+- mythicmetals:raw_kyber
+- mythicmetals:raw_manganese
+- mythicmetals:raw_midas_gold
+- mythicmetals:raw_mythril
+- mythicmetals:raw_orichalcum
+- mythicmetals:raw_osmium
+- mythicmetals:raw_palladium
+- mythicmetals:raw_platinum
+- mythicmetals:raw_prometheum
+- mythicmetals:raw_quadrillum
+- mythicmetals:raw_runite
+- mythicmetals:raw_silver
+- mythicmetals:raw_stormyx
+- mythicmetals:raw_tin
+- mythicmetals:adamantite_nugget
+- mythicmetals:aquarium_nugget
+- mythicmetals:banglum_nugget
+- mythicmetals:bronze_nugget
+- mythicmetals:carmot_nugget
+- mythicmetals:celestium_nugget
+- mythicmetals:copper_nugget
+- mythicmetals:durasteel_nugget
+- mythicmetals:hallowed_nugget
+- mythicmetals:kyber_nugget
+- mythicmetals:manganese_nugget
+- mythicmetals:metallurgium_nugget
+- mythicmetals:midas_gold_nugget
+- mythicmetals:mythril_nugget
+- mythicmetals:orichalcum_nugget
+- mythicmetals:osmium_nugget
+- mythicmetals:palladium_nugget
+- mythicmetals:platinum_nugget
+- mythicmetals:prometheum_nugget
+- mythicmetals:quadrillum_nugget
+- mythicmetals:runite_nugget
+- mythicmetals:silver_nugget
+- mythicmetals:star_platinum_nugget
+- mythicmetals:steel_nugget
+- mythicmetals:stormyx_nugget
+- mythicmetals:tin_nugget
+- mythicmetals:banglum_chunk
+- mythicmetals:morkite
+
+#c:gold_ores
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+- minecraft:nether_gold_ore
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+
+#c:pink_dyes
+- minecraft:pink_dye
+- minecraft:pink_dye
+
+#c:iron_nuggets
+- minecraft:iron_nugget
+
+#c:nether_stars
+- minecraft:nether_star
+
+#byg:withering_oak_logs
+- byg:withering_oak_log
+- byg:withering_oak_wood
+
+#c:spears
+- minecraft:trident
+
+#c:quartz_blocks
+- botania:dark_quartz
+- botania:mana_quartz
+- botania:blaze_quartz
+- botania:lavender_quartz
+- botania:red_quartz
+- botania:elf_quartz
+- botania:sunny_quartz
+
+#charm:chests/trapped
+- minecraft:trapped_chest
+- charm:acacia_trapped_chest
+- charm:azalea_trapped_chest
+- charm:birch_trapped_chest
+- charm:crimson_trapped_chest
+- charm:dark_oak_trapped_chest
+- charm:jungle_trapped_chest
+- charm:oak_trapped_chest
+- charm:spruce_trapped_chest
+- charm:warped_trapped_chest
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:dacite_cobblestone_stairs
+- byg:mossy_stone_stairs
+- byg:rocky_stone_stairs
+- byg:scoria_stone_stairs
+- byg:scoria_cobblestone_stairs
+- byg:scoria_stonebrick_stairs
+- byg:soapstone_stairs
+- byg:polished_soapstone_stairs
+- byg:soapstone_brick_stairs
+- byg:soapstone_tile_stairs
+- byg:red_rock_stairs
+- byg:red_rock_brick_stairs
+- byg:mossy_red_rock_brick_stairs
+- byg:cracked_red_rock_brick_stairs
+- byg:chiseled_red_rock_brick_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:ether_stone_stairs
+- byg:carved_ether_stone_stairs
+- byg:cobbled_ether_stone_stairs
+- byg:purpur_stone_stairs
+- byg:imparius_stairs
+- byg:chiseled_fungal_imparius_stairs
+- byg:windswept_sandstone_stairs
+- byg:cut_windswept_sandstone_stairs
+- byg:chiseled_windswept_sandstone_stairs
+- byg:smooth_windswept_sandstone_stairs
+- botania:black_pavement_stairs
+- botania:blaze_quartz_stairs
+- botania:blue_pavement_stairs
+- botania:corporea_brick_stairs
+- botania:corporea_stairs
+- botania:dark_quartz_stairs
+- botania:dreamwood_planks_stairs
+- botania:dreamwood_stairs
+- botania:elf_quartz_stairs
+- botania:green_pavement_stairs
+- botania:lavender_quartz_stairs
+- botania:livingrock_bricks_stairs
+- botania:livingrock_stairs
+- botania:livingwood_planks_stairs
+- botania:livingwood_stairs
+- botania:mana_quartz_stairs
+- botania:metamorphic_desert_bricks_stairs
+- botania:metamorphic_desert_cobblestone_stairs
+- botania:metamorphic_desert_stone_stairs
+- botania:metamorphic_forest_bricks_stairs
+- botania:metamorphic_forest_cobblestone_stairs
+- botania:metamorphic_forest_stone_stairs
+- botania:metamorphic_fungal_bricks_stairs
+- botania:metamorphic_fungal_cobblestone_stairs
+- botania:metamorphic_fungal_stone_stairs
+- botania:metamorphic_mesa_bricks_stairs
+- botania:metamorphic_mesa_cobblestone_stairs
+- botania:metamorphic_mesa_stone_stairs
+- botania:metamorphic_mountain_bricks_stairs
+- botania:metamorphic_mountain_cobblestone_stairs
+- botania:metamorphic_mountain_stone_stairs
+- botania:metamorphic_plains_bricks_stairs
+- botania:metamorphic_plains_cobblestone_stairs
+- botania:metamorphic_plains_stone_stairs
+- botania:metamorphic_swamp_bricks_stairs
+- botania:metamorphic_swamp_cobblestone_stairs
+- botania:metamorphic_swamp_stone_stairs
+- botania:metamorphic_taiga_bricks_stairs
+- botania:metamorphic_taiga_cobblestone_stairs
+- botania:metamorphic_taiga_stone_stairs
+- botania:mossy_livingrock_bricks_stairs
+- botania:red_pavement_stairs
+- botania:red_quartz_stairs
+- botania:shimmerrock_stairs
+- botania:shimmerwood_planks_stairs
+- botania:stripped_dreamwood_stairs
+- botania:stripped_livingwood_stairs
+- botania:sunny_quartz_stairs
+- botania:white_pavement_stairs
+- botania:yellow_pavement_stairs
+- charm:cut_iron_stairs
+- charm:exposed_cut_iron_stairs
+- charm:weathered_cut_iron_stairs
+- charm:oxidized_cut_iron_stairs
+- charm:waxed_cut_iron_stairs
+- charm:waxed_exposed_cut_iron_stairs
+- charm:waxed_weathered_cut_iron_stairs
+- charm:waxed_oxidized_cut_iron_stairs
+- create:cut_granite_stairs
+- create:polished_cut_granite_stairs
+- create:cut_granite_brick_stairs
+- create:small_granite_brick_stairs
+- create:cut_diorite_stairs
+- create:polished_cut_diorite_stairs
+- create:cut_diorite_brick_stairs
+- create:small_diorite_brick_stairs
+- create:cut_andesite_stairs
+- create:polished_cut_andesite_stairs
+- create:cut_andesite_brick_stairs
+- create:small_andesite_brick_stairs
+- create:cut_calcite_stairs
+- create:polished_cut_calcite_stairs
+- create:cut_calcite_brick_stairs
+- create:small_calcite_brick_stairs
+- create:cut_dripstone_stairs
+- create:polished_cut_dripstone_stairs
+- create:cut_dripstone_brick_stairs
+- create:small_dripstone_brick_stairs
+- create:cut_deepslate_stairs
+- create:polished_cut_deepslate_stairs
+- create:cut_deepslate_brick_stairs
+- create:small_deepslate_brick_stairs
+- create:cut_tuff_stairs
+- create:polished_cut_tuff_stairs
+- create:cut_tuff_brick_stairs
+- create:small_tuff_brick_stairs
+- create:cut_asurine_stairs
+- create:polished_cut_asurine_stairs
+- create:cut_asurine_brick_stairs
+- create:small_asurine_brick_stairs
+- create:cut_crimsite_stairs
+- create:polished_cut_crimsite_stairs
+- create:cut_crimsite_brick_stairs
+- create:small_crimsite_brick_stairs
+- create:cut_limestone_stairs
+- create:polished_cut_limestone_stairs
+- create:cut_limestone_brick_stairs
+- create:small_limestone_brick_stairs
+- create:cut_ochrum_stairs
+- create:polished_cut_ochrum_stairs
+- create:cut_ochrum_brick_stairs
+- create:small_ochrum_brick_stairs
+- create:cut_scoria_stairs
+- create:polished_cut_scoria_stairs
+- create:cut_scoria_brick_stairs
+- create:small_scoria_brick_stairs
+- create:cut_scorchia_stairs
+- create:polished_cut_scorchia_stairs
+- create:cut_scorchia_brick_stairs
+- create:small_scorchia_brick_stairs
+- create:cut_veridium_stairs
+- create:polished_cut_veridium_stairs
+- create:cut_veridium_brick_stairs
+- create:small_veridium_brick_stairs
+
+#c:eggs
+- minecraft:egg
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #byg:sythian_stems
+- #byg:embur_pedus
+- #byg:lament_logs
+- #byg:withering_oak_logs
+
+#c:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#adorn:filled_crates
+- adorn:apple_crate
+- adorn:wheat_crate
+- adorn:carrot_crate
+- adorn:potato_crate
+- adorn:melon_crate
+- adorn:wheat_seed_crate
+- adorn:melon_seed_crate
+- adorn:pumpkin_seed_crate
+- adorn:beetroot_crate
+- adorn:beetroot_seed_crate
+- adorn:sweet_berry_crate
+- adorn:cocoa_bean_crate
+- adorn:nether_wart_crate
+- adorn:sugar_cane_crate
+- adorn:egg_crate
+- adorn:honeycomb_crate
+- adorn:lil_tater_crate
+
+#c:storage_blocks/iron
+- minecraft:iron_block
+
+#create:stone_types/andesite
+- create:cut_andesite
+- create:cut_andesite_stairs
+- create:cut_andesite_wall
+- create:polished_cut_andesite
+- create:polished_cut_andesite_stairs
+- create:polished_cut_andesite_wall
+- create:cut_andesite_bricks
+- create:cut_andesite_brick_stairs
+- create:cut_andesite_brick_wall
+- create:small_andesite_bricks
+- create:small_andesite_brick_stairs
+- create:small_andesite_brick_wall
+- create:layered_andesite
+- create:andesite_pillar
+
+#c:gravel
+- minecraft:gravel
+- minecraft:gravel
+
+#c:white_dyes
+- minecraft:white_dye
+- minecraft:white_dye
+- minecraft:white_dye
+
+#mythicmetals:aquarium_ingots
+- mythicmetals:aquarium_ingot
+
+#c:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#create:stone_types/deepslate
+- create:cut_deepslate
+- create:cut_deepslate_stairs
+- create:cut_deepslate_wall
+- create:polished_cut_deepslate
+- create:polished_cut_deepslate_stairs
+- create:polished_cut_deepslate_wall
+- create:cut_deepslate_bricks
+- create:cut_deepslate_brick_stairs
+- create:cut_deepslate_brick_wall
+- create:small_deepslate_bricks
+- create:small_deepslate_brick_stairs
+- create:small_deepslate_brick_wall
+- create:layered_deepslate
+- create:deepslate_pillar
+
+#c:nether_bricks
+- minecraft:nether_bricks
+- minecraft:chiseled_nether_bricks
+- minecraft:cracked_nether_bricks
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#c:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#adorn:posts
+- #adorn:wooden_posts
+- #adorn:stone_posts
+
+#c:mushrooms
+- #byg:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- botania:white_mushroom
+- botania:orange_mushroom
+- botania:magenta_mushroom
+- botania:light_blue_mushroom
+- botania:yellow_mushroom
+- botania:lime_mushroom
+- botania:pink_mushroom
+- botania:gray_mushroom
+- botania:light_gray_mushroom
+- botania:cyan_mushroom
+- botania:purple_mushroom
+- botania:blue_mushroom
+- botania:brown_mushroom
+- botania:green_mushroom
+- botania:red_mushroom
+- botania:black_mushroom
+- botania:white_mushroom
+- botania:orange_mushroom
+- botania:magenta_mushroom
+- botania:light_blue_mushroom
+- botania:yellow_mushroom
+- botania:lime_mushroom
+- botania:pink_mushroom
+- botania:gray_mushroom
+- botania:light_gray_mushroom
+- botania:cyan_mushroom
+- botania:purple_mushroom
+- botania:blue_mushroom
+- botania:brown_mushroom
+- botania:green_mushroom
+- botania:red_mushroom
+- botania:black_mushroom
+
+#campanion:fruits
+- minecraft:apple
+- minecraft:chorus_fruit
+- minecraft:melon_slice
+- minecraft:sweet_berries
+
+#minecraft:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#c:steel_leggings
+- indrev:steel_leggings
+- astromine:steel_leggings?
+
+#botania:mystical_flowers
+- botania:black_mystical_flower
+- botania:blue_mystical_flower
+- botania:brown_mystical_flower
+- botania:cyan_mystical_flower
+- botania:gray_mystical_flower
+- botania:green_mystical_flower
+- botania:light_blue_mystical_flower
+- botania:light_gray_mystical_flower
+- botania:lime_mystical_flower
+- botania:magenta_mystical_flower
+- botania:orange_mystical_flower
+- botania:pink_mystical_flower
+- botania:purple_mystical_flower
+- botania:red_mystical_flower
+- botania:white_mystical_flower
+- botania:yellow_mystical_flower
+
+#libzoomer:spyglasses
+- minecraft:spyglass
+
+#c:ore_bearing_ground/deepslate
+- minecraft:deepslate
+
+#fabric:chestplates
+- byg:ametrine_chestplate
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#c:milks
+- minecraft:milk_bucket
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- charm:gold_soul_lantern
+
+#botania:disposable
+- minecraft:dirt
+- minecraft:sand
+- minecraft:gravel
+- minecraft:cobblestone
+- minecraft:netherrack
+
+#dml-refabricated:pristine_matter
+- dml-refabricated:pristine_matter_nether
+- dml-refabricated:pristine_matter_slimy
+- dml-refabricated:pristine_matter_overworld
+- dml-refabricated:pristine_matter_zombie
+- dml-refabricated:pristine_matter_skeleton
+- dml-refabricated:pristine_matter_end
+- dml-refabricated:pristine_matter_ghost
+- dml-refabricated:pristine_matter_illager
+- dml-refabricated:pristine_matter_ocean
+
+#c:potions
+- minecraft:lingering_potion
+- minecraft:splash_potion
+- minecraft:potion
+
+#campanion:dyes
+- minecraft:pink_dye
+- minecraft:blue_dye
+- minecraft:lime_dye
+- minecraft:purple_dye
+- minecraft:white_dye
+- minecraft:gray_dye
+- minecraft:magenta_dye
+- minecraft:green_dye
+- minecraft:red_dye
+- minecraft:orange_dye
+- minecraft:black_dye
+- minecraft:yellow_dye
+- minecraft:cyan_dye
+- minecraft:light_gray_dye
+- minecraft:brown_dye
+- minecraft:light_blue_dye
+
+#trinkets:chest/necklace
+- botania:blood_pendant
+- botania:cloud_pendant
+- botania:diva_charm
+- botania:goddess_charm
+- botania:ice_pendant
+- botania:lava_pendant
+- botania:super_cloud_pendant
+- botania:super_lava_pendant
+- botania:third_eye
+
+#c:silver_ores
+- indrev:silver_ore
+- indrev:deepslate_silver_ore
+- mythicmetals:silver_ore
+
+#campanion:flat_tent_tops
+- campanion:pink_flat_tent_top
+- campanion:blue_flat_tent_top
+- campanion:lime_flat_tent_top
+- campanion:purple_flat_tent_top
+- campanion:white_flat_tent_top
+- campanion:gray_flat_tent_top
+- campanion:magenta_flat_tent_top
+- campanion:green_flat_tent_top
+- campanion:red_flat_tent_top
+- campanion:orange_flat_tent_top
+- campanion:black_flat_tent_top
+- campanion:yellow_flat_tent_top
+- campanion:cyan_flat_tent_top
+- campanion:light_gray_flat_tent_top
+- campanion:brown_flat_tent_top
+- campanion:light_blue_flat_tent_top
+
+#bookshelf:fence_gates
+- #c:fence_gates
+
+#c:storage_blocks/raw_copper
+- minecraft:raw_copper_block
+
+#c:tin_nuggets
+- indrev:tin_nugget
+- mythicmetals:tin_nugget
+
+#adorn:kitchen_blocks
+- #adorn:kitchen_counters
+- #adorn:kitchen_cupboards
+- #adorn:kitchen_sinks
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:imparius_stairs
+- botania:dreamwood_planks_stairs
+- botania:dreamwood_stairs
+- botania:livingwood_planks_stairs
+- botania:livingwood_stairs
+- botania:shimmerwood_planks_stairs
+- botania:stripped_dreamwood_stairs
+- botania:stripped_livingwood_stairs
+- charm:azalea_stairs
+
+#c:ores/copper
+- #minecraft:copper_ores
+
+#c:ores/anthracite
+- byg:anthracite_ore
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- byg:imparius_button
+- charm:azalea_button
+
+#modern_industrialization:replicator_blacklist
+- botania:infinite_fruit
+- botania:king_key
+- botania:flugel_eye
+- botania:thor_ring
+- botania:odin_ring
+- botania:loki_ring
+- botania:dice
+- botania:mana_tablet
+- botania:mana_ring
+- botania:mana_ring_greater
+- botania:blacker_lotus
+- botania:black_hole_talisman
+- botania:flower_bag
+- botania:spawner_mover
+- botania:terra_pick
+- botania:terrasteel_block
+
+#c:helmets
+- byg:ametrine_helmet
+
+#c:milk_buckets
+- minecraft:milk_bucket
+- minecraft:milk_bucket
+
+#mythicmetals:weapons
+- mythicmetals:adamantite_axe
+- mythicmetals:adamantite_hoe
+- mythicmetals:adamantite_pickaxe
+- mythicmetals:adamantite_shovel
+- mythicmetals:adamantite_sword
+- mythicmetals:aquarium_axe
+- mythicmetals:aquarium_hoe
+- mythicmetals:aquarium_pickaxe
+- mythicmetals:aquarium_shovel
+- mythicmetals:aquarium_sword
+- mythicmetals:banglum_axe
+- mythicmetals:banglum_hoe
+- mythicmetals:banglum_pickaxe
+- mythicmetals:banglum_shovel
+- mythicmetals:banglum_sword
+- mythicmetals:bronze_axe
+- mythicmetals:bronze_hoe
+- mythicmetals:bronze_pickaxe
+- mythicmetals:bronze_shovel
+- mythicmetals:bronze_sword
+- mythicmetals:carmot_axe
+- mythicmetals:carmot_hoe
+- mythicmetals:carmot_pickaxe
+- mythicmetals:carmot_shovel
+- mythicmetals:carmot_sword
+- mythicmetals:celestium_axe
+- mythicmetals:celestium_hoe
+- mythicmetals:celestium_pickaxe
+- mythicmetals:celestium_shovel
+- mythicmetals:celestium_sword
+- mythicmetals:copper_axe
+- mythicmetals:copper_hoe
+- mythicmetals:copper_pickaxe
+- mythicmetals:copper_shovel
+- mythicmetals:copper_sword
+- mythicmetals:durasteel_axe
+- mythicmetals:durasteel_hoe
+- mythicmetals:durasteel_pickaxe
+- mythicmetals:durasteel_shovel
+- mythicmetals:durasteel_sword
+- mythicmetals:hallowed_axe
+- mythicmetals:hallowed_hoe
+- mythicmetals:hallowed_pickaxe
+- mythicmetals:hallowed_shovel
+- mythicmetals:hallowed_sword
+- mythicmetals:kyber_axe
+- mythicmetals:kyber_hoe
+- mythicmetals:kyber_pickaxe
+- mythicmetals:kyber_shovel
+- mythicmetals:kyber_sword
+- mythicmetals:legendary_banglum_axe
+- mythicmetals:legendary_banglum_hoe
+- mythicmetals:legendary_banglum_pickaxe
+- mythicmetals:legendary_banglum_shovel
+- mythicmetals:legendary_banglum_sword
+- mythicmetals:metallurgium_axe
+- mythicmetals:metallurgium_hoe
+- mythicmetals:metallurgium_pickaxe
+- mythicmetals:metallurgium_shovel
+- mythicmetals:metallurgium_sword
+- mythicmetals:mythril_axe
+- mythicmetals:mythril_hoe
+- mythicmetals:mythril_pickaxe
+- mythicmetals:mythril_shovel
+- mythicmetals:mythril_sword
+- mythicmetals:orichalcum_axe
+- mythicmetals:orichalcum_hoe
+- mythicmetals:orichalcum_pickaxe
+- mythicmetals:orichalcum_shovel
+- mythicmetals:orichalcum_sword
+- mythicmetals:osmium_axe
+- mythicmetals:osmium_hoe
+- mythicmetals:osmium_pickaxe
+- mythicmetals:osmium_shovel
+- mythicmetals:osmium_sword
+- mythicmetals:palladium_axe
+- mythicmetals:palladium_hoe
+- mythicmetals:palladium_pickaxe
+- mythicmetals:palladium_shovel
+- mythicmetals:palladium_sword
+- mythicmetals:prometheum_axe
+- mythicmetals:prometheum_hoe
+- mythicmetals:prometheum_pickaxe
+- mythicmetals:prometheum_shovel
+- mythicmetals:prometheum_sword
+- mythicmetals:quadrillum_axe
+- mythicmetals:quadrillum_hoe
+- mythicmetals:quadrillum_pickaxe
+- mythicmetals:quadrillum_shovel
+- mythicmetals:quadrillum_sword
+- mythicmetals:runite_axe
+- mythicmetals:runite_hoe
+- mythicmetals:runite_pickaxe
+- mythicmetals:runite_shovel
+- mythicmetals:runite_sword
+- mythicmetals:star_platinum_axe
+- mythicmetals:star_platinum_hoe
+- mythicmetals:star_platinum_pickaxe
+- mythicmetals:star_platinum_shovel
+- mythicmetals:star_platinum_sword
+- mythicmetals:stormyx_axe
+- mythicmetals:stormyx_hoe
+- mythicmetals:stormyx_pickaxe
+- mythicmetals:stormyx_shovel
+- mythicmetals:stormyx_sword
+- mythicmetals:red_aegis_sword
+- mythicmetals:white_aegis_sword
+
+#mythicmetals:banglum_ores
+- mythicmetals:banglum_ore
+
+#c:ores/lapis
+- #minecraft:lapis_ores
+
+#c:barrels
+- #c:barrels/wooden
+
+#botania:dragonstone_gems
+- botania:dragonstone
+
+#byg:cypress_logs
+- byg:cypress_log
+- byg:stripped_cypress_log
+- byg:cypress_wood
+- byg:stripped_cypress_wood
+
+#c:red_sandstones
+- minecraft:red_sandstone
+- minecraft:smooth_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:cut_red_sandstone
+
+#c:chests/ender
+- minecraft:ender_chest
+
+#balm:lime_dyes
+- #c:lime_dyes?
+- minecraft:lime_dye
+
+#c:white_sand
+- byg:white_sand
+
+#terrarianslimes:gel
+- terrarianslimes:black_gel
+- terrarianslimes:blue_gel
+- terrarianslimes:corrupt_gel
+- terrarianslimes:crimson_gel
+- terrarianslimes:ice_gel
+- terrarianslimes:illuminant_gel
+- terrarianslimes:jungle_gel
+- terrarianslimes:pinky_gel
+- terrarianslimes:purple_gel
+- terrarianslimes:rainbow_gel
+- terrarianslimes:red_gel
+- terrarianslimes:sand_gel
+- terrarianslimes:yellow_gel
+
+#c:rods/wooden
+- minecraft:stick
+
+#adorn:kitchen_counters
+- adorn:oak_kitchen_counter
+- adorn:spruce_kitchen_counter
+- adorn:birch_kitchen_counter
+- adorn:jungle_kitchen_counter
+- adorn:acacia_kitchen_counter
+- adorn:dark_oak_kitchen_counter
+- adorn:crimson_kitchen_counter
+- adorn:warped_kitchen_counter
+- adorn:biomemakeover/blighted_balsa_kitchen_counter?
+- adorn:biomemakeover/swamp_cypress_kitchen_counter?
+- adorn:biomemakeover/willow_kitchen_counter?
+- adorn:blockus/white_oak_kitchen_counter?
+- adorn:byg/aspen_kitchen_counter?
+- adorn:byg/baobab_kitchen_counter?
+- adorn:byg/blue_enchanted_kitchen_counter?
+- adorn:byg/bulbis_kitchen_counter?
+- adorn:byg/cherry_kitchen_counter?
+- adorn:byg/cika_kitchen_counter?
+- adorn:byg/cypress_kitchen_counter?
+- adorn:byg/ebony_kitchen_counter?
+- adorn:byg/embur_kitchen_counter?
+- adorn:byg/ether_kitchen_counter?
+- adorn:byg/fir_kitchen_counter?
+- adorn:byg/green_enchanted_kitchen_counter?
+- adorn:byg/holly_kitchen_counter?
+- adorn:byg/imparius_kitchen_counter?
+- adorn:byg/jacaranda_kitchen_counter?
+- adorn:byg/lament_kitchen_counter?
+- adorn:byg/mahogany_kitchen_counter?
+- adorn:byg/mangrove_kitchen_counter?
+- adorn:byg/maple_kitchen_counter?
+- adorn:byg/nightshade_kitchen_counter?
+- adorn:byg/palm_kitchen_counter?
+- adorn:byg/pine_kitchen_counter?
+- adorn:byg/rainbow_eucalyptus_kitchen_counter?
+- adorn:byg/redwood_kitchen_counter?
+- adorn:byg/skyris_kitchen_counter?
+- adorn:byg/sythian_kitchen_counter?
+- adorn:byg/willow_kitchen_counter?
+- adorn:byg/witch_hazel_kitchen_counter?
+- adorn:byg/zelkova_kitchen_counter?
+- adorn:cinderscapes/scorched_kitchen_counter?
+- adorn:cinderscapes/umbral_kitchen_counter?
+- adorn:promenade/cherry_oak_kitchen_counter?
+- adorn:promenade/dark_amaranth_kitchen_counter?
+- adorn:promenade/palm_kitchen_counter?
+- adorn:techreborn/rubber_kitchen_counter?
+- adorn:terrestria/cypress_kitchen_counter?
+- adorn:terrestria/hemlock_kitchen_counter?
+- adorn:terrestria/japanese_maple_kitchen_counter?
+- adorn:terrestria/rainbow_eucalyptus_kitchen_counter?
+- adorn:terrestria/redwood_kitchen_counter?
+- adorn:terrestria/rubber_kitchen_counter?
+- adorn:terrestria/sakura_kitchen_counter?
+- adorn:terrestria/willow_kitchen_counter?
+- adorn:terrestria/yucca_palm_kitchen_counter?
+- adorn:traverse/fir_kitchen_counter?
+- adorn:woods_and_mires/pine_kitchen_counter?
+- adorn:architects_palette/twisted_kitchen_counter?
+- adorn:biomesoplenty/cherry_kitchen_counter?
+- adorn:biomesoplenty/dead_kitchen_counter?
+- adorn:biomesoplenty/fir_kitchen_counter?
+- adorn:biomesoplenty/hellbark_kitchen_counter?
+- adorn:biomesoplenty/jacaranda_kitchen_counter?
+- adorn:biomesoplenty/magic_kitchen_counter?
+- adorn:biomesoplenty/mahogany_kitchen_counter?
+- adorn:biomesoplenty/palm_kitchen_counter?
+- adorn:biomesoplenty/redwood_kitchen_counter?
+- adorn:biomesoplenty/umbran_kitchen_counter?
+- adorn:biomesoplenty/willow_kitchen_counter?
+- adorn:ecologics/azalea_kitchen_counter?
+- adorn:ecologics/flowering_azalea_kitchen_counter?
+- adorn:ecologics/coconut_kitchen_counter?
+- adorn:ecologics/walnut_kitchen_counter?
+
+#c:raw_tungsten_ores
+- indrev:raw_tungsten
+
+#charm:bookshelves
+- charm:acacia_bookshelf
+- charm:azalea_bookshelf
+- charm:birch_bookshelf
+- charm:crimson_bookshelf
+- charm:dark_oak_bookshelf
+- charm:jungle_bookshelf
+- charm:oak_bookshelf
+- charm:spruce_bookshelf
+- charm:warped_bookshelf
+
+#toolstats:ignore_harvest_level
+
+#adorn:chimneys
+- #adorn:regular_chimneys
+- #adorn:prismarine_chimneys
+
+#c:glass/silica
+- minecraft:glass
+- minecraft:black_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+
+#c:silver_blocks
+- indrev:silver_block
+- mythicmetals:silver_block
+
+#byg:pink_dye
+- byg:osiria_rose
+- byg:japanese_orchid
+- byg:silver_vase_flower
+- byg:daffodil
+- byg:bistort
+- byg:firecracker_flower_bush
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:tall_pink_allium
+
+#mythicmetals:stormyx_nuggets
+- mythicmetals:stormyx_nugget
+
+#c:osmium_ores
+- mythicmetals:osmium_ore
+
+#byg:bulbis_stems
+- byg:bulbis_stem
+- byg:stripped_bulbis_stem
+- byg:bulbis_wood
+- byg:stripped_bulbis_wood
+
+#c:ender_pearls
+- minecraft:ender_pearl
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- byg:foxglove
+- byg:delphinium
+- byg:japanese_orchid
+- byg:tall_allium
+- byg:tall_pink_allium
+- #botania:double_mystical_flowers
+
+#c:slime_blocks
+- minecraft:slime_block
+- terrarianslimes:black_slime_block
+- terrarianslimes:blue_slime_block
+- terrarianslimes:corrupt_slime_block
+- terrarianslimes:crimson_slime_block
+- terrarianslimes:ice_slime_block
+- terrarianslimes:illuminant_slime_block
+- terrarianslimes:jungle_slime_block
+- terrarianslimes:pinky_slime_block
+- terrarianslimes:purple_slime_block
+- terrarianslimes:rainbow_slime_block
+- terrarianslimes:red_slime_block
+- terrarianslimes:sand_slime_block
+- terrarianslimes:yellow_slime_block
+
+#c:quartz
+- minecraft:quartz
+- minecraft:quartz
+
+#c:pink_sand
+- byg:pink_sand
+
+#c:lead_blocks
+- indrev:lead_block
+
+#charm:lanterns
+- minecraft:lantern
+- minecraft:soul_lantern
+- charm:redstone_lantern
+- charm:gold_lantern
+- charm:gold_soul_lantern
+
+#create:stone_types/calcite
+- create:cut_calcite
+- create:cut_calcite_stairs
+- create:cut_calcite_wall
+- create:polished_cut_calcite
+- create:polished_cut_calcite_stairs
+- create:polished_cut_calcite_wall
+- create:cut_calcite_bricks
+- create:cut_calcite_brick_stairs
+- create:cut_calcite_brick_wall
+- create:small_calcite_bricks
+- create:small_calcite_brick_stairs
+- create:small_calcite_brick_wall
+- create:layered_calcite
+- create:calcite_pillar
+
+#c:rods/blaze
+- minecraft:blaze_rod
+
+#adorn:steps
+- #adorn:wooden_steps
+- #adorn:stone_steps
+
+#c:ores/ametrine
+- byg:ametrine_ore
+- byg:budding_ametrine_ore
+
+#minecraft:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- minecraft:rooted_dirt
+- minecraft:moss_block
+
+#c:gems/quartz
+- minecraft:quartz
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#bookshelf:shears
+- #c:shears
+
+#adorn:benches
+- adorn:oak_bench
+- adorn:spruce_bench
+- adorn:birch_bench
+- adorn:jungle_bench
+- adorn:acacia_bench
+- adorn:dark_oak_bench
+- adorn:crimson_bench
+- adorn:warped_bench
+- adorn:biomemakeover/blighted_balsa_bench?
+- adorn:biomemakeover/swamp_cypress_bench?
+- adorn:biomemakeover/willow_bench?
+- adorn:blockus/white_oak_bench?
+- adorn:byg/aspen_bench?
+- adorn:byg/baobab_bench?
+- adorn:byg/blue_enchanted_bench?
+- adorn:byg/bulbis_bench?
+- adorn:byg/cherry_bench?
+- adorn:byg/cika_bench?
+- adorn:byg/cypress_bench?
+- adorn:byg/ebony_bench?
+- adorn:byg/embur_bench?
+- adorn:byg/ether_bench?
+- adorn:byg/fir_bench?
+- adorn:byg/green_enchanted_bench?
+- adorn:byg/holly_bench?
+- adorn:byg/imparius_bench?
+- adorn:byg/jacaranda_bench?
+- adorn:byg/lament_bench?
+- adorn:byg/mahogany_bench?
+- adorn:byg/mangrove_bench?
+- adorn:byg/maple_bench?
+- adorn:byg/nightshade_bench?
+- adorn:byg/palm_bench?
+- adorn:byg/pine_bench?
+- adorn:byg/rainbow_eucalyptus_bench?
+- adorn:byg/redwood_bench?
+- adorn:byg/skyris_bench?
+- adorn:byg/sythian_bench?
+- adorn:byg/willow_bench?
+- adorn:byg/witch_hazel_bench?
+- adorn:byg/zelkova_bench?
+- adorn:cinderscapes/scorched_bench?
+- adorn:cinderscapes/umbral_bench?
+- adorn:promenade/cherry_oak_bench?
+- adorn:promenade/dark_amaranth_bench?
+- adorn:promenade/palm_bench?
+- adorn:techreborn/rubber_bench?
+- adorn:terrestria/cypress_bench?
+- adorn:terrestria/hemlock_bench?
+- adorn:terrestria/japanese_maple_bench?
+- adorn:terrestria/rainbow_eucalyptus_bench?
+- adorn:terrestria/redwood_bench?
+- adorn:terrestria/rubber_bench?
+- adorn:terrestria/sakura_bench?
+- adorn:terrestria/willow_bench?
+- adorn:terrestria/yucca_palm_bench?
+- adorn:traverse/fir_bench?
+- adorn:woods_and_mires/pine_bench?
+- adorn:architects_palette/twisted_bench?
+- adorn:biomesoplenty/cherry_bench?
+- adorn:biomesoplenty/dead_bench?
+- adorn:biomesoplenty/fir_bench?
+- adorn:biomesoplenty/hellbark_bench?
+- adorn:biomesoplenty/jacaranda_bench?
+- adorn:biomesoplenty/magic_bench?
+- adorn:biomesoplenty/mahogany_bench?
+- adorn:biomesoplenty/palm_bench?
+- adorn:biomesoplenty/redwood_bench?
+- adorn:biomesoplenty/umbran_bench?
+- adorn:biomesoplenty/willow_bench?
+- adorn:ecologics/azalea_bench?
+- adorn:ecologics/flowering_azalea_bench?
+- adorn:ecologics/coconut_bench?
+- adorn:ecologics/walnut_bench?
+
+#c:foods
+- minecraft:apple
+- minecraft:mushroom_stew
+- minecraft:bread
+- minecraft:porkchop
+- minecraft:cooked_porkchop
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:cooked_cod
+- minecraft:cooked_salmon
+- minecraft:cookie
+- minecraft:melon_slice
+- minecraft:dried_kelp
+- minecraft:beef
+- minecraft:cooked_beef
+- minecraft:chicken
+- minecraft:cooked_chicken
+- minecraft:rotten_flesh
+- minecraft:spider_eye
+- minecraft:carrot
+- minecraft:potato
+- minecraft:baked_potato
+- minecraft:poisonous_potato
+- minecraft:golden_carrot
+- minecraft:pumpkin_pie
+- minecraft:rabbit
+- minecraft:cooked_rabbit
+- minecraft:rabbit_stew
+- minecraft:mutton
+- minecraft:cooked_mutton
+- minecraft:chorus_fruit
+- minecraft:beetroot
+- minecraft:beetroot_soup
+- minecraft:suspicious_stew
+- minecraft:sweet_berries
+- minecraft:glow_berries
+- minecraft:honey_bottle
+
+#c:crops/wheat
+- minecraft:wheat
+
+#c:blackstone_bricks
+- minecraft:polished_blackstone_bricks
+- minecraft:cracked_polished_blackstone_bricks
+
+#mythicmetals:midas_gold_nuggets
+- mythicmetals:midas_gold_nugget
+
+#mythicmetals:raw_ores
+- minecraft:raw_iron
+- minecraft:raw_copper
+- mythicmetals:raw_adamantite
+- mythicmetals:raw_aquarium
+- mythicmetals:raw_banglum
+- mythicmetals:raw_carmot
+- mythicmetals:raw_kyber
+- mythicmetals:raw_manganese
+- mythicmetals:raw_mythril
+- mythicmetals:raw_orichalcum
+- mythicmetals:raw_osmium
+- mythicmetals:raw_platinum
+- mythicmetals:raw_prometheum
+- mythicmetals:raw_quadrillum
+- mythicmetals:raw_runite
+- mythicmetals:raw_silver
+- mythicmetals:raw_stormyx
+- mythicmetals:raw_tin
+- mythicmetals:raw_palladium
+
+#c:end_stones
+- minecraft:end_stone
+
+#botania:elementium_nuggets
+- botania:elementium_nugget
+
+#c:lapis
+- minecraft:lapis_lazuli
+
+#c:gems/prismarine
+- minecraft:prismarine_crystals
+
+#c:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#mythicmetals:morkite
+- mythicmetals:morkite
+
+#c:glass/blue
+- minecraft:blue_stained_glass
+
+#campanion:topped_tent_poles
+- campanion:light_blue_topped_tent_pole
+- campanion:yellow_topped_tent_pole
+- campanion:gray_topped_tent_pole
+- campanion:magenta_topped_tent_pole
+- campanion:black_topped_tent_pole
+- campanion:cyan_topped_tent_pole
+- campanion:orange_topped_tent_pole
+- campanion:lime_topped_tent_pole
+- campanion:red_topped_tent_pole
+- campanion:white_topped_tent_pole
+- campanion:pink_topped_tent_pole
+- campanion:blue_topped_tent_pole
+- campanion:brown_topped_tent_pole
+- campanion:green_topped_tent_pole
+- campanion:light_gray_topped_tent_pole
+- campanion:purple_topped_tent_pole
+
+#c:gunpowder
+- minecraft:gunpowder
+
+#botania:elementium_blocks
+- botania:elementium_block
+
+#c:sand/colorless
+- byg:end_sand
+- minecraft:sand
+
+#mythicmetals:quadrillum_ingots
+- mythicmetals:quadrillum_ingot
+
+#mythicmetals:unobtainium
+- mythicmetals:unobtainium
+
+#c:ores/quartz
+- minecraft:nether_quartz_ore
+
+#mythicmetals:kyber_nuggets
+- mythicmetals:kyber_nugget
+
+#c:sand/red
+- minecraft:red_sand
+
+#mythicmetals:banglum_blocks
+- mythicmetals:banglum_block
+
+#fabric:leggings
+- byg:ametrine_leggings
+
+#c:ingots/iron
+- minecraft:iron_ingot
+
+#c:saplings
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:joshua_sapling
+- byg:yellow_spruce_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+
+#fabric:shovels
+- byg:pendorite_shovel
+- indrev:mining_drill_mk1
+- indrev:mining_drill_mk2
+- indrev:mining_drill_mk3
+- indrev:mining_drill_mk4
+- indrev:tin_shovel
+- indrev:copper_shovel
+- indrev:steel_shovel
+- indrev:lead_shovel
+- indrev:silver_shovel
+- indrev:bronze_shovel
+- botania:manasteel_shovel
+- botania:elementium_shovel
+- additionaladditions:rose_gold_shovel?
+- additionaladditions:gilded_netherite_shovel?
+
+#c:ore_bearing_ground/stone
+- minecraft:stone
+
+#c:crops
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+- #c:crops/beetroot
+- #c:crops/carrot
+- #c:crops/nether_wart
+- #c:crops/potato
+- #c:crops/wheat
+
+#c:glass/yellow
+- minecraft:yellow_stained_glass
+
+#byg:double_blue_dye
+- byg:hydrangea_bush
+- byg:delphinium
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- adorn:crimson_bench
+- adorn:warped_bench
+- adorn:cinderscapes/scorched_bench?
+- adorn:cinderscapes/umbral_bench?
+- adorn:promenade/dark_amaranth_bench?
+- adorn:biomesoplenty/hellbark_bench?
+- adorn:crimson_chair
+- adorn:warped_chair
+- adorn:cinderscapes/scorched_chair?
+- adorn:cinderscapes/umbral_chair?
+- adorn:promenade/dark_amaranth_chair?
+- adorn:biomesoplenty/hellbark_chair?
+- adorn:crimson_coffee_table
+- adorn:warped_coffee_table
+- adorn:cinderscapes/scorched_coffee_table?
+- adorn:cinderscapes/umbral_coffee_table?
+- adorn:promenade/dark_amaranth_coffee_table?
+- adorn:biomesoplenty/hellbark_coffee_table?
+- adorn:crimson_drawer
+- adorn:warped_drawer
+- adorn:cinderscapes/scorched_drawer?
+- adorn:cinderscapes/umbral_drawer?
+- adorn:promenade/dark_amaranth_drawer?
+- adorn:biomesoplenty/hellbark_drawer?
+- adorn:crimson_kitchen_counter
+- adorn:warped_kitchen_counter
+- adorn:cinderscapes/scorched_kitchen_counter?
+- adorn:cinderscapes/umbral_kitchen_counter?
+- adorn:promenade/dark_amaranth_kitchen_counter?
+- adorn:biomesoplenty/hellbark_kitchen_counter?
+- adorn:crimson_kitchen_cupboard
+- adorn:warped_kitchen_cupboard
+- adorn:cinderscapes/scorched_kitchen_cupboard?
+- adorn:cinderscapes/umbral_kitchen_cupboard?
+- adorn:promenade/dark_amaranth_kitchen_cupboard?
+- adorn:biomesoplenty/hellbark_kitchen_cupboard?
+- adorn:crimson_kitchen_sink
+- adorn:warped_kitchen_sink
+- adorn:cinderscapes/scorched_kitchen_sink?
+- adorn:cinderscapes/umbral_kitchen_sink?
+- adorn:promenade/dark_amaranth_kitchen_sink?
+- adorn:biomesoplenty/hellbark_kitchen_sink?
+- adorn:crimson_table
+- adorn:warped_table
+- adorn:cinderscapes/scorched_table?
+- adorn:cinderscapes/umbral_table?
+- adorn:promenade/dark_amaranth_table?
+- adorn:biomesoplenty/hellbark_table?
+- adorn:crimson_platform
+- adorn:warped_platform
+- adorn:cinderscapes/scorched_platform?
+- adorn:cinderscapes/umbral_platform?
+- adorn:promenade/dark_amaranth_platform?
+- adorn:biomesoplenty/hellbark_platform?
+- adorn:crimson_post
+- adorn:warped_post
+- adorn:cinderscapes/scorched_post?
+- adorn:cinderscapes/umbral_post?
+- adorn:promenade/dark_amaranth_post?
+- adorn:biomesoplenty/hellbark_post?
+- adorn:crimson_shelf
+- adorn:warped_shelf
+- adorn:cinderscapes/scorched_shelf?
+- adorn:cinderscapes/umbral_shelf?
+- adorn:promenade/dark_amaranth_shelf?
+- adorn:biomesoplenty/hellbark_shelf?
+- adorn:crimson_step
+- adorn:warped_step
+- adorn:cinderscapes/scorched_step?
+- adorn:cinderscapes/umbral_step?
+- adorn:promenade/dark_amaranth_step?
+- adorn:biomesoplenty/hellbark_step?
+- charm:crimson_barrel
+- charm:crimson_boat
+- charm:crimson_bookshelf
+- charm:warped_barrel
+- charm:warped_boat
+- charm:warped_bookshelf
+
+#mythicmetals:stormyx_ores
+- mythicmetals:stormyx_ore
+- mythicmetals:blackstone_stormyx_ore
+
+#c:mythril_blocks
+- mythicmetals:mythril_block
+
+#c:fruits
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+- byg:baobab_fruit
+- byg:joshua_fruit
+
+#c:storage_blocks/raw_gold
+- minecraft:raw_gold_block
+
+#c:coffees
+- adorn:nether_wart_coffee
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+
+#c:emeralds
+- minecraft:emerald
+- minecraft:emerald
+
+#byg:nightshade_logs
+- byg:nightshade_log
+- byg:stripped_nightshade_log
+- byg:nightshade_wood
+- byg:stripped_nightshade_wood
+
+#mythicmetals:hallowed_ingots
+- mythicmetals:hallowed_ingot
+
+#c:electrum_blocks
+- indrev:electrum_block
+
+#botania:petals/orange
+- botania:orange_petal
+- botania:orange_mushroom
+
+#c:feathers
+- minecraft:feather
+
+#c:osmium_blocks
+- mythicmetals:osmium_block
+
+#botania:manasteel_blocks
+- botania:manasteel_block
+
+#c:glass/white
+- minecraft:white_stained_glass
+
+#c:purple_sand
+- byg:purple_sand
+
+#mythicmetals:metallurgium_blocks
+- mythicmetals:metallurgium_block
+
+#c:chestplates
+- byg:ametrine_chestplate
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye
+- minecraft:light_blue_dye
+
+#c:glass
+- #c:glass/colorless
+- #c:stained_glass
+- #c:glass/tinted
+- botania:mana_glass
+- botania:elf_glass
+- botania:bifrost_perm
+
+#c:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#c:iron_ingots
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+
+#c:glass_panes/colorless
+- minecraft:glass_pane
+
+#c:nuggets/brass
+- create:brass_nugget
+
+#c:netherracks
+- byg:overgrown_netherrack
+- byg:overgrown_crimson_blackstone
+- byg:blue_netherrack
+- byg:brimstone
+- byg:embur_nylium
+- byg:sythian_nylium
+
+#c:refined_blackstones
+- #c:blackstone_bricks
+- #c:polished_blackstones
+
+#fabric:shears
+- botania:manasteel_shears
+- botania:elementium_shears
+
+#byg:cyan_dye
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:winter_cyclamen
+
+#c:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#yigd:soulbound_item
+
+#balm:magenta_dyes
+- #c:magenta_dyes?
+- minecraft:magenta_dye
+
+#mythicmetals:stormyx_blocks
+- mythicmetals:stormyx_block
+
+#c:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#c:raw_silver_ores
+- indrev:raw_silver
+
+#botania:petals/light_blue
+- botania:light_blue_petal
+- botania:light_blue_mushroom
+
+#balm:eggs
+- #c:eggs?
+- minecraft:egg
+
+#charm:bars
+- minecraft:iron_bars
+- charm:copper_bars
+- charm:gold_bars
+- charm:netherite_bars
+
+#c:raw_materials/gold
+- minecraft:raw_gold
+
+#c:water_buckets
+- minecraft:axolotl_bucket
+- minecraft:cod_bucket
+- minecraft:pufferfish_bucket
+- minecraft:tropical_fish_bucket
+- minecraft:salmon_bucket
+- minecraft:water_bucket
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- byg:baobab_leaves
+- byg:blooming_witch_hazel_leaves
+- byg:blue_enchanted_leaves
+- byg:blue_spruce_leaves
+- byg:brown_birch_leaves
+- byg:brown_oak_leaves
+- byg:cika_leaves
+- byg:cypress_leaves
+- byg:ebony_leaves
+- byg:fir_leaves
+- byg:flowering_orchard_leaves
+- byg:flowering_palo_verde_leaves
+- byg:green_enchanted_leaves
+- byg:holly_berry_leaves
+- byg:holly_leaves
+- byg:jacaranda_leaves
+- byg:joshua_leaves
+- byg:ripe_joshua_leaves
+- byg:indigo_jacaranda_leaves
+- byg:mahogany_leaves
+- byg:mangrove_leaves
+- byg:maple_leaves
+- byg:orange_birch_leaves
+- byg:orange_oak_leaves
+- byg:orange_spruce_leaves
+- byg:orchard_leaves
+- byg:palo_verde_leaves
+- byg:pine_leaves
+- byg:pink_cherry_leaves
+- byg:rainbow_eucalyptus_leaves
+- byg:red_birch_leaves
+- byg:red_maple_leaves
+- byg:red_oak_leaves
+- byg:red_spruce_leaves
+- byg:redwood_leaves
+- byg:ripe_orchard_leaves
+- byg:silver_maple_leaves
+- byg:skyris_leaves
+- byg:green_apple_skyris_leaves
+- byg:white_cherry_leaves
+- byg:willow_leaves
+- byg:witch_hazel_leaves
+- byg:yellow_birch_leaves
+- byg:yellow_spruce_leaves
+- byg:aspen_leaves
+- byg:zelkova_leaves
+- byg:palm_leaves
+- byg:araucaria_leaves
+- byg:brown_zelkova_leaves
+- byg:lament_leaves
+- byg:withering_oak_leaves
+- byg:ether_leaves
+- byg:nightshade_leaves
+- byg:flowering_nightshade_leaves
+- byg:flowering_jacaranda_leaves
+- byg:flowering_indigo_jacaranda_leaves
+
+#c:platinum_nuggets
+- mythicmetals:platinum_nugget
+
+#c:string
+- minecraft:string
+- minecraft:string
+
+#c:ores/coal
+- #minecraft:coal_ores
+
+#byg:mangrove_logs
+- byg:mangrove_log
+- byg:stripped_mangrove_log
+- byg:mangrove_wood
+- byg:stripped_mangrove_wood
+
+#create:blaze_burner_fuel/special
+- create:blaze_cake
+
+#byg:witch_hazel_logs
+- byg:witch_hazel_log
+- byg:stripped_witch_hazel_log
+- byg:witch_hazel_wood
+- byg:stripped_witch_hazel_wood
+
+#c:glass/magenta
+- minecraft:magenta_stained_glass
+
+#byg:purple_dye
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:iris
+- byg:purple_sage
+- byg:purple_tulip
+- byg:purple_amaranth
+- byg:crocus
+- byg:tall_allium
+
+#balm:pink_dyes
+- #c:pink_dyes?
+- minecraft:pink_dye
+
+#botania:burst_viewers
+- botania:monocle
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:raw_gold
+- minecraft:raw_gold_block
+- byg:sythian_stalk_block
+- botania:alchemy_catalyst
+- botania:diva_charm
+- botania:hourglass
+- botania:mana_pylon
+- botania:monocle
+- charm:gold_bars
+- charm:gold_chain
+- charm:gold_lantern
+- create:golden_sheet
+- create:crushed_gold_ore
+
+#c:iron_plates
+- indrev:iron_plate
+
+#c:copper_ingots
+- minecraft:copper_ingot
+- minecraft:copper_ingot
+- minecraft:copper_ingot
+
+#botania:mana_diamond_gems
+- botania:mana_diamond
+
+#c:platinum_blocks
+- mythicmetals:platinum_block
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #byg:aspen_logs
+- #byg:baobab_logs
+- #byg:blue_enchanted_logs
+- #byg:cherry_logs
+- #byg:cika_logs
+- #byg:cypress_logs
+- #byg:ebony_logs
+- #byg:fir_logs
+- #byg:green_enchanted_logs
+- #byg:holly_logs
+- #byg:jacaranda_logs
+- #byg:mahogany_logs
+- #byg:mangrove_logs
+- #byg:maple_logs
+- #byg:palo_verde_logs
+- #byg:pine_logs
+- #byg:rainbow_eucalyptus_logs
+- #byg:redwood_logs
+- #byg:skyris_logs
+- #byg:willow_logs
+- #byg:witch_hazel_logs
+- #byg:zelkova_logs
+- #byg:palm_logs
+- #byg:bulbis_stems
+- #byg:ether_logs
+- #byg:nightshade_logs
+- #byg:imparius_stems
+- #botania:livingwood_logs
+- #botania:dreamwood_logs
+- #charm:azalea_logs
+
+#dml-refabricated:attuned_data_models
+- dml-refabricated:data_model_nether
+- dml-refabricated:data_model_slimy
+- dml-refabricated:data_model_overworld
+- dml-refabricated:data_model_zombie
+- dml-refabricated:data_model_skeleton
+- dml-refabricated:data_model_end
+- dml-refabricated:data_model_ghost
+- dml-refabricated:data_model_illager
+- dml-refabricated:data_model_ocean
+
+#c:seeds/melon
+- minecraft:melon_seeds
+
+#c:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#c:bronze_ingots
+- indrev:bronze_ingot
+- mythicmetals:bronze_ingot
+
+#c:storage_blocks/ametrine
+- byg:ametrine_block
+
+#c:silver_nuggets
+- indrev:silver_nugget
+- mythicmetals:silver_nugget
+
+#mythicmetals:durasteel_ingots
+- mythicmetals:durasteel_ingot
+
+#extraalchemy:potion_for_bag
+- minecraft:potion
+- extraalchemy:breakable_potion
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:imparius_slab
+- botania:dreamwood_planks_slab
+- botania:dreamwood_slab
+- botania:livingwood_planks_slab
+- botania:livingwood_slab
+- botania:shimmerwood_planks_slab
+- botania:stripped_dreamwood_slab
+- botania:stripped_livingwood_slab
+- charm:azalea_slab
+
+#c:raw_tin_ores
+- indrev:raw_tin
+
+#c:palladium_ores
+- mythicmetals:palladium_ore
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:amaranth
+- byg:angelica
+- byg:hydrangea_bush
+- byg:begonia
+- byg:bistort
+- byg:blue_sage
+- byg:black_rose
+- byg:california_poppy
+- byg:crocus
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:daffodil
+- byg:delphinium
+- byg:fairy_slipper
+- byg:firecracker_flower_bush
+- byg:foxglove
+- byg:golden_spined_cactus
+- byg:green_tulip
+- byg:guzmania
+- byg:incan_lily
+- byg:iris
+- byg:japanese_orchid
+- byg:kovan_flower
+- byg:lazarus_bellflower
+- byg:lollipop_flower
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:osiria_rose
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:prairie_grass
+- byg:protea_flower
+- byg:purple_amaranth
+- byg:purple_sage
+- byg:purple_tulip
+- byg:richea
+- byg:rose
+- byg:snowdrops
+- byg:silver_vase_flower
+- byg:torch_ginger
+- byg:violet_leather_flower
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:winter_cyclamen
+- byg:winter_scilla
+- byg:yellow_daffodil
+- byg:yellow_tulip
+- byg:pollen_block
+- byg:tall_allium
+- byg:tall_pink_allium
+- byg:thereal_bellflower
+- #botania:mystical_flowers
+- #botania:special_flowers
+
+#c:netherite_scrap_dusts
+- indrev:netherite_scrap_dust
+
+#c:fence_gates
+- byg:aspen_fence_gate
+- byg:baobab_fence_gate
+- byg:blue_enchanted_fence_gate
+- byg:cherry_fence_gate
+- byg:cika_fence_gate
+- byg:cypress_fence_gate
+- byg:ebony_fence_gate
+- byg:fir_fence_gate
+- byg:green_enchanted_fence_gate
+- byg:holly_fence_gate
+- byg:jacaranda_fence_gate
+- byg:mahogany_fence_gate
+- byg:mangrove_fence_gate
+- byg:maple_fence_gate
+- byg:pine_fence_gate
+- byg:rainbow_eucalyptus_fence_gate
+- byg:redwood_fence_gate
+- byg:skyris_fence_gate
+- byg:willow_fence_gate
+- byg:witch_hazel_fence_gate
+- byg:zelkova_fence_gate
+- byg:sythian_fence_gate
+- byg:embur_fence_gate
+- byg:palm_fence_gate
+- byg:lament_fence_gate
+- byg:ether_fence_gate
+- byg:bulbis_fence_gate
+- byg:nightshade_fence_gate
+- byg:imparius_fence_gate
+- #c:fence_gates/wooden
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#c:silver_dusts
+- indrev:silver_dust
+
+#c:adamantite_ingots
+- mythicmetals:adamantite_ingot
+
+#c:purple_dyes
+- minecraft:purple_dye
+- minecraft:purple_dye
+
+#c:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+- additionaladditions:music_disc_0308?
+- additionaladditions:music_disc_1007?
+- additionaladditions:music_disc_1507?
+
+#botania:petals/lime
+- botania:lime_petal
+- botania:lime_mushroom
+
+#botania:petals/magenta
+- botania:magenta_petal
+- botania:magenta_mushroom
+
+#c:gems
+- byg:ametrine_gems
+- #c:gems/amethyst
+- #c:gems/diamond
+- #c:gems/emerald
+- #c:gems/lapis
+- #c:gems/prismarine
+- #c:gems/quartz
+
+#byg:brown_dye
+- byg:mud_ball
+
+#byg:ether_logs
+- byg:ether_log
+- byg:stripped_ether_log
+- byg:ether_wood
+- byg:stripped_ether_wood
+
+#byg:lime_dye
+- byg:green_tulip
+
+#c:bronze_plates
+- indrev:bronze_plate
+
+#fabric:helmets
+- byg:ametrine_helmet
+
+#c:gold_ingots
+- minecraft:gold_ingot
+- minecraft:gold_ingot
+- minecraft:gold_ingot
+- minecraft:gold_ingot
+
+#c:raw_lead_ores
+- indrev:raw_lead
+
+#c:steel_dusts
+- indrev:steel_dust
+
+#extended_drawers:upgrade
+- extended_drawers:t1_upgrade
+- extended_drawers:t2_upgrade
+- extended_drawers:t3_upgrade
+- extended_drawers:t4_upgrade
+- extended_drawers:creative_upgrade
+- extended_drawers:downgrade
+
+#c:ores/zinc
+- create:zinc_ore
+- create:deepslate_zinc_ore
+
+#mythicmetals:aquarium_blocks
+- mythicmetals:aquarium_block
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye
+- minecraft:light_gray_dye
+
+#botania:generating_special_flowers
+- botania:dandelifeon
+- botania:endoflame
+- botania:entropinnyum
+- botania:gourmaryllis
+- botania:hydroangeas
+- botania:kekimurus
+- botania:munchdew
+- botania:narslimmus
+- botania:rafflowsia
+- botania:rosa_arcana
+- botania:shulk_me_not
+- botania:spectrolus
+- botania:thermalily
+
+#charm:chests/normal
+- minecraft:chest
+- charm:acacia_chest
+- charm:azalea_chest
+- charm:birch_chest
+- charm:crimson_chest
+- charm:dark_oak_chest
+- charm:jungle_chest
+- charm:oak_chest
+- charm:spruce_chest
+- charm:warped_chest
+
+#create:stone_types/crimsite
+- create:cut_crimsite
+- create:cut_crimsite_stairs
+- create:cut_crimsite_wall
+- create:polished_cut_crimsite
+- create:polished_cut_crimsite_stairs
+- create:polished_cut_crimsite_wall
+- create:cut_crimsite_bricks
+- create:cut_crimsite_brick_stairs
+- create:cut_crimsite_brick_wall
+- create:small_crimsite_bricks
+- create:small_crimsite_brick_stairs
+- create:small_crimsite_brick_wall
+- create:layered_crimsite
+- create:crimsite_pillar
+
+#c:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#c:palladium_blocks
+- mythicmetals:palladium_block
+
+#c:chest
+- minecraft:chest
+- minecraft:trapped_chest
+
+#c:screwdrivers
+- indrev:screwdriver
+
+#bookshelf:strings
+- #c:strings
+- #c:string
+
+#c:barrel
+- minecraft:barrel
+- charm:acacia_barrel
+- charm:azalea_barrel
+- charm:birch_barrel
+- charm:crimson_barrel
+- charm:dark_oak_barrel
+- charm:jungle_barrel
+- charm:oak_barrel
+- charm:spruce_barrel
+- charm:warped_barrel
+
+#c:raw_gold_ores
+- minecraft:raw_gold
+- minecraft:raw_gold
+
+#c:sand/pink
+- byg:pink_sand
+- byg:windswept_sand
+
+#botania:contributor_headflowers
+- #botania:special_flowers
+- botania:daybloom_motif
+- botania:nightshade_motif
+
+#c:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+
+#create:stone_types/asurine
+- create:cut_asurine
+- create:cut_asurine_stairs
+- create:cut_asurine_wall
+- create:polished_cut_asurine
+- create:polished_cut_asurine_stairs
+- create:polished_cut_asurine_wall
+- create:cut_asurine_bricks
+- create:cut_asurine_brick_stairs
+- create:cut_asurine_brick_wall
+- create:small_asurine_bricks
+- create:small_asurine_brick_stairs
+- create:small_asurine_brick_wall
+- create:layered_asurine
+- create:asurine_pillar
+
+#c:diamonds
+- minecraft:diamond
+
+#c:gold_plates
+- indrev:gold_plate
+
+#c:bookshelves
+- byg:aspen_bookshelf
+- byg:baobab_bookshelf
+- byg:blue_enchanted_bookshelf
+- byg:cherry_bookshelf
+- byg:cika_bookshelf
+- byg:cypress_bookshelf
+- byg:ebony_bookshelf
+- byg:fir_bookshelf
+- byg:green_enchanted_bookshelf
+- byg:holly_bookshelf
+- byg:jacaranda_bookshelf
+- byg:mahogany_bookshelf
+- byg:mangrove_bookshelf
+- byg:maple_bookshelf
+- byg:pine_bookshelf
+- byg:rainbow_eucalyptus_bookshelf
+- byg:redwood_bookshelf
+- byg:skyris_bookshelf
+- byg:willow_bookshelf
+- byg:witch_hazel_bookshelf
+- byg:zelkova_bookshelf
+- byg:sythian_bookshelf
+- byg:embur_bookshelf
+- byg:palm_bookshelf
+- byg:lament_bookshelf
+- byg:bulbis_bookshelf
+- byg:ether_bookshelf
+- byg:nightshade_bookshelf
+- byg:imparius_bookshelf
+- minecraft:bookshelf
+- minecraft:bookshelf
+- charm:acacia_bookshelf
+- charm:azalea_bookshelf
+- charm:birch_bookshelf
+- charm:crimson_bookshelf
+- charm:dark_oak_bookshelf
+- charm:jungle_bookshelf
+- charm:oak_bookshelf
+- charm:spruce_bookshelf
+- charm:warped_bookshelf
+
+#c:orichalcum_ingots
+- mythicmetals:orichalcum_ingot
+
+#c:ores/iron
+- #minecraft:iron_ores
+
+#trinkets:head/hat
+- botania:flight_tiara
+
+#byg:jacaranda_logs
+- byg:jacaranda_log
+- byg:stripped_jacaranda_log
+- byg:jacaranda_wood
+- byg:stripped_jacaranda_wood
+
+#create:blaze_burner_fuel/regular
+
+#c:ingots/zinc
+- create:zinc_ingot
+
+#botania:semi_disposable
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- quark:basalt?
+- quark:jasper?
+- quark:limestone?
+- quark:marble?
+- quark:slate?
+
+#c:platinum_ores
+- mythicmetals:platinum_ore
+
+#campanion:tent_tops
+- campanion:light_gray_tent_top
+- campanion:light_blue_tent_top
+- campanion:black_tent_top
+- campanion:cyan_tent_top
+- campanion:gray_tent_top
+- campanion:white_tent_top
+- campanion:green_tent_top
+- campanion:lime_tent_top
+- campanion:blue_tent_top
+- campanion:red_tent_top
+- campanion:orange_tent_top
+- campanion:pink_tent_top
+- campanion:purple_tent_top
+- campanion:yellow_tent_top
+- campanion:brown_tent_top
+- campanion:magenta_tent_top
+
+#botania:mana_dusts
+- botania:mana_powder
+
+#c:glass/lime
+- minecraft:lime_stained_glass
+
+#c:bones
+- minecraft:bone
+
+#botania:petals/blue
+- botania:blue_petal
+- botania:blue_mushroom
+
+#c:hoes
+- byg:pendorite_hoe
+- #fabric:hoes?
+- minecraft:diamond_hoe
+- minecraft:golden_hoe
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:iron_hoe
+- minecraft:netherite_hoe
+- mythicmetals:adamantite_hoe
+- mythicmetals:aquarium_hoe
+- mythicmetals:banglum_hoe
+- mythicmetals:bronze_hoe
+- mythicmetals:carmot_hoe
+- mythicmetals:celestium_hoe
+- mythicmetals:copper_hoe
+- mythicmetals:durasteel_hoe
+- mythicmetals:hallowed_hoe
+- mythicmetals:kyber_hoe
+- mythicmetals:legendary_banglum_hoe
+- mythicmetals:metallurgium_hoe
+- mythicmetals:mythril_hoe
+- mythicmetals:orichalcum_hoe
+- mythicmetals:osmium_hoe
+- mythicmetals:palladium_hoe
+- mythicmetals:prometheum_hoe
+- mythicmetals:quadrillum_hoe
+- mythicmetals:runite_hoe
+- mythicmetals:star_platinum_hoe
+- mythicmetals:stormyx_hoe
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:golden_hoe
+- minecraft:iron_hoe
+- minecraft:diamond_hoe
+- minecraft:netherite_hoe
+
+#create:stone_types/ochrum
+- create:cut_ochrum
+- create:cut_ochrum_stairs
+- create:cut_ochrum_wall
+- create:polished_cut_ochrum
+- create:polished_cut_ochrum_stairs
+- create:polished_cut_ochrum_wall
+- create:cut_ochrum_bricks
+- create:cut_ochrum_brick_stairs
+- create:cut_ochrum_brick_wall
+- create:small_ochrum_bricks
+- create:small_ochrum_brick_stairs
+- create:small_ochrum_brick_wall
+- create:layered_ochrum
+- create:ochrum_pillar
+
+#c:red_dyes
+- minecraft:red_dye
+- minecraft:red_dye
+
+#mythicmetals:midas_gold_blocks
+- mythicmetals:midas_gold_block
+
+#adorn:stone_platforms
+- adorn:andesite_platform
+- adorn:basalt_platform
+- adorn:blackstone_platform
+- adorn:brick_platform
+- adorn:cobbled_deepslate_platform
+- adorn:cobblestone_platform
+- adorn:cut_red_sandstone_platform
+- adorn:cut_sandstone_platform
+- adorn:dark_prismarine_platform
+- adorn:deepslate_platform
+- adorn:deepslate_brick_platform
+- adorn:deepslate_tile_platform
+- adorn:diorite_platform
+- adorn:end_stone_brick_platform
+- adorn:granite_platform
+- adorn:mossy_cobblestone_platform
+- adorn:mossy_stone_brick_platform
+- adorn:nether_brick_platform
+- adorn:polished_andesite_platform
+- adorn:polished_blackstone_platform
+- adorn:polished_blackstone_brick_platform
+- adorn:polished_deepslate_platform
+- adorn:polished_diorite_platform
+- adorn:polished_granite_platform
+- adorn:prismarine_platform
+- adorn:prismarine_brick_platform
+- adorn:purpur_platform
+- adorn:quartz_platform
+- adorn:red_nether_brick_platform
+- adorn:red_sandstone_platform
+- adorn:sandstone_platform
+- adorn:smooth_red_sandstone_platform
+- adorn:smooth_sandstone_platform
+- adorn:smooth_stone_platform
+- adorn:stone_brick_platform
+- adorn:stone_platform
+- adorn:byg/dacite_platform?
+- adorn:byg/dacite_brick_platform?
+- adorn:byg/dacite_cobblestone_platform?
+- adorn:byg/mossy_stone_platform?
+- adorn:byg/rocky_stone_platform?
+- adorn:byg/scoria_stone_platform?
+- adorn:byg/scoria_cobblestone_platform?
+- adorn:byg/scoria_stonebrick_platform?
+- adorn:byg/soapstone_platform?
+- adorn:byg/polished_soapstone_platform?
+- adorn:byg/soapstone_brick_platform?
+- adorn:byg/soapstone_tile_platform?
+- adorn:byg/red_rock_platform?
+- adorn:byg/red_rock_brick_platform?
+- adorn:byg/mossy_red_rock_brick_platform?
+- adorn:byg/cracked_red_rock_brick_platform?
+- adorn:byg/chiseled_red_rock_brick_platform?
+- adorn:terrestria/basalt_platform?
+- adorn:terrestria/basalt_brick_platform?
+- adorn:terrestria/basalt_cobblestone_platform?
+- adorn:terrestria/mossy_basalt_brick_platform?
+- adorn:terrestria/mossy_basalt_cobblestone_platform?
+- adorn:terrestria/smooth_basalt_platform?
+- adorn:architects_palette/myonite_platform?
+- adorn:architects_palette/myonite_brick_platform?
+- adorn:architects_palette/mushy_myonite_brick_platform?
+- adorn:biomesoplenty/mud_brick_platform?
+- adorn:biomesoplenty/black_sandstone_platform?
+- adorn:biomesoplenty/cut_black_sandstone_platform?
+- adorn:biomesoplenty/smooth_black_sandstone_platform?
+- adorn:biomesoplenty/orange_sandstone_platform?
+- adorn:biomesoplenty/cut_orange_sandstone_platform?
+- adorn:biomesoplenty/smooth_orange_sandstone_platform?
+- adorn:biomesoplenty/white_sandstone_platform?
+- adorn:biomesoplenty/cut_white_sandstone_platform?
+- adorn:biomesoplenty/smooth_white_sandstone_platform?
+
+#c:ancient_debris_ores
+- minecraft:ancient_debris
+
+#c:bows
+- minecraft:crossbow
+- minecraft:bow
+
+#fabric:boots
+- byg:ametrine_boots
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- byg:aspen_planks
+- byg:baobab_planks
+- byg:blue_enchanted_planks
+- byg:cherry_planks
+- byg:cika_planks
+- byg:cypress_planks
+- byg:ebony_planks
+- byg:fir_planks
+- byg:green_enchanted_planks
+- byg:holly_planks
+- byg:jacaranda_planks
+- byg:mahogany_planks
+- byg:mangrove_planks
+- byg:maple_planks
+- byg:pine_planks
+- byg:rainbow_eucalyptus_planks
+- byg:redwood_planks
+- byg:skyris_planks
+- byg:willow_planks
+- byg:witch_hazel_planks
+- byg:zelkova_planks
+- byg:sythian_planks
+- byg:embur_planks
+- byg:palm_planks
+- byg:lament_planks
+- byg:ether_planks
+- byg:bulbis_planks
+- byg:nightshade_planks
+- byg:imparius_planks
+- botania:livingwood_planks
+- botania:mossy_livingwood_planks
+- botania:framed_livingwood
+- botania:pattern_framed_livingwood
+- botania:dreamwood_planks
+- botania:mossy_dreamwood_planks
+- botania:framed_dreamwood
+- botania:pattern_framed_dreamwood
+- botania:shimmerwood_planks
+- charm:azalea_planks
+
+#minecraft:fox_food
+- minecraft:sweet_berries
+- minecraft:glow_berries
+- byg:blueberries
+
+#c:storage_blocks/anthracite
+- byg:anthracite_block
+
+#byg:magenta_dye
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:lazarus_bellflower
+- byg:protea_flower
+- byg:fairy_slipper
+
+#c:glass/orange
+- minecraft:orange_stained_glass
+
+#byg:ebony_logs
+- byg:ebony_log
+- byg:stripped_ebony_log
+- byg:ebony_wood
+- byg:stripped_ebony_wood
+
+#c:shulker_boxes
+- minecraft:shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+- minecraft:black_shulker_box
+
+#c:plates/gold
+- create:golden_sheet
+
+#c:glass_blocks
+- minecraft:glass
+- minecraft:gray_stained_glass
+- minecraft:black_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:tinted_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+- botania:mana_glass
+- botania:elf_glass
+- botania:bifrost_perm
+
+#botania:petals/brown
+- botania:brown_petal
+- botania:brown_mushroom
+
+#minecraft:candles
+- minecraft:candle
+- minecraft:white_candle
+- minecraft:orange_candle
+- minecraft:magenta_candle
+- minecraft:light_blue_candle
+- minecraft:yellow_candle
+- minecraft:lime_candle
+- minecraft:pink_candle
+- minecraft:gray_candle
+- minecraft:light_gray_candle
+- minecraft:cyan_candle
+- minecraft:purple_candle
+- minecraft:blue_candle
+- minecraft:brown_candle
+- minecraft:green_candle
+- minecraft:red_candle
+- minecraft:black_candle
+
+#c:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#mythicmetals:kyber_ores
+- mythicmetals:kyber_ore
+- mythicmetals:calcite_kyber_ore
+
+#c:steel_boots
+- indrev:steel_boots
+- astromine:steel_boots?
+
+#c:dusts/glowstone
+- minecraft:glowstone_dust

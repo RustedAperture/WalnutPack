@@ -1,0 +1,218 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 11, 2022, 11:20:32 PM
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+
+#dml-refabricated:end_mobs
+- minecraft:enderman
+- minecraft:shulker
+- minecraft:endermite
+
+#byg:not_hurt_by_quartz_crystals
+- minecraft:ghast
+- minecraft:hoglin
+- minecraft:enderman
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+- minecraft:glow_squid
+- minecraft:axolotl
+
+#dml-refabricated:zombie_mobs
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:drowned
+- minecraft:husk
+- minecraft:zoglin
+- minecraft:zombified_piglin
+
+#dml-refabricated:illager_mobs
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- minecraft:goat
+- quark:frog?
+
+#c:bosses
+- minecraft:ender_dragon
+- minecraft:wither
+- botania:doppleganger
+
+#dml-refabricated:nether_mobs
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:zombified_piglin
+- minecraft:ghast
+- minecraft:magma_cube
+- minecraft:wither_skeleton
+- minecraft:blaze
+- minecraft:hoglin
+- minecraft:zoglin
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:glow_item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- minecraft:command_block_minecart
+- minecraft:marker
+- minecraft:area_effect_cloud
+- minecraft:evoker_fangs
+- minecraft:leash_knot
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#c:boats
+- minecraft:boat
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#dml-refabricated:skeleton_mobs
+- minecraft:skeleton
+- minecraft:wither_skeleton
+- minecraft:stray
+
+#dml-refabricated:ocean_mobs
+- minecraft:guardian
+- minecraft:drowned
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#dml-refabricated:overworld_mobs
+- minecraft:creeper
+- minecraft:enderman
+- minecraft:skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:witch
+- minecraft:spider
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+
+#dml-refabricated:slimy_mobs
+- terrarianslimes:green_slime
+- terrarianslimes:blue_slime
+- terrarianslimes:red_slime
+- terrarianslimes:purple_slime
+- terrarianslimes:yellow_slime
+- terrarianslimes:black_slime
+- terrarianslimes:ice_slime
+- terrarianslimes:sand_slime
+- terrarianslimes:jungle_slime
+- terrarianslimes:spiked_ice_slime
+- terrarianslimes:spiked_jungle_slime
+- terrarianslimes:mother_slime
+- terrarianslimes:baby_slime
+- terrarianslimes:lava_slime
+- terrarianslimes:pinky
+- terrarianslimes:spiked_slime
+- terrarianslimes:umbrella_slime
+- terrarianslimes:corrupt_slime
+- terrarianslimes:slimeling
+- terrarianslimes:crimslime
+- terrarianslimes:illuminant_slime
+- terrarianslimes:rainbow_slime
+- minecraft:slime
+- minecraft:magma_cube
+
+#c:minecarts
+- minecraft:minecart
+- minecraft:tnt_minecart
+- minecraft:chest_minecart
+- minecraft:furnace_minecart
+- minecraft:command_block_minecart
+- minecraft:hopper_minecart
+- minecraft:spawner_minecart
+
+#dml-refabricated:ghost_mobs
+- minecraft:ghast
+- minecraft:phantom
+- minecraft:vex
