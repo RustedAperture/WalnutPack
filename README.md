@@ -1,11 +1,9 @@
-<<<<<<< HEAD:README.md
-Add pack url https://github.com/RustedAperture/WalnutPack/raw/main/WalnutPack.zip to PolyMC or MultiMC
-=======
 # WalnutPack
 
 Add pack url https://github.com/RustedAperture/WalnutPack/raw/main/WalnutPack.zip to PolyMC or MultiMC
 
 ## Mods
+
 - 3dskinlayers-fabric-1.4.6-mc1.18.2
 - AdditionalAdditions-4.0.4
 - Adorn-3.5.0+1.18.2-fabric
@@ -74,7 +72,7 @@ Add pack url https://github.com/RustedAperture/WalnutPack/raw/main/WalnutPack.zi
 - stoneholm-1.4.3
 - TerraBlender-fabric-1.18.2-1.1.0.102
 - terrarian-slimes-1.2-BETA+1.18
-- The_Graveyard_1.9_(FABRIC)_for_1.18.2
+- The*Graveyard_1.9*(FABRIC)\_for_1.18.2
 - TheExtractinator-1.0.8
 - toms_storage_fabric-1.18.2-1.3.2
 - ToolStats-Fabric-1.18.2-9.0.3
@@ -94,4 +92,3 @@ Add pack url https://github.com/RustedAperture/WalnutPack/raw/main/WalnutPack.zi
 - YungsBetterWitchHuts-1.18.2-Fabric-1.0
 - YungsBridges-1.18.2-Fabric-2.1.0
 - YungsExtras-1.18.2-Fabric-2.1.0
->>>>>>> 8eaa708a6f58504ebc389d81e1eb5b0170ce3f03:README
