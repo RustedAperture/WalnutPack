@@ -380,11 +380,6 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "7949ca44b40c64a5ddcd1f1ca33b89ed8af392ca1f468c74411a8d3fe260baf6"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
 metafile = true
@@ -397,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "0f51270c426ece64c5436d39cf1a17fba5a58de32e4de175929acdd21edc7bc6"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "85abd452b08775b68b6d05fa7c6e9d0b9d6364a9ad64153e66f2362a5cc59cea"
 metafile = true
 
 [[files]]
