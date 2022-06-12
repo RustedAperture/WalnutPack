@@ -5,10 +5,6 @@ file = "README"
 hash = "1438d8e5c72716f39050e6a6991a38eb8ee1e08c0aa60c639a3bc5b8f66d43c6"
 
 [[files]]
-file = "_config.yml"
-hash = "91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
