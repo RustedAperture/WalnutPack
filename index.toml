@@ -145,11 +145,6 @@ hash = "97dd68e452373becace3cfe8464aa4f83a14df7045ef43e2cb3a56708b79791f"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "0298adb7762224c2e426d0b23ab1f26f04b170faabf165ec2c9d3c37efe2a03c"
-metafile = true
-
-[[files]]
 file = "mods/fabric-chisel.pw.toml"
 hash = "7cc2807ba2777fa8303ee16393523a8767fa7f9c49fb71a094e62c1a439a25fd"
 metafile = true
@@ -265,16 +260,6 @@ hash = "14b20530451e409ee865039d99823b012427601aa36a7b9e1efc68fa333233a9"
 metafile = true
 
 [[files]]
-file = "mods/origins-classes.pw.toml"
-hash = "e86696acaa29f3e9732505a051010a98dd247ded2d669349a754602e72962916"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
@@ -292,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "9019e28a8adc88a3fcd2c7d77a2ddc1aab11de8797c2eb1c1294dc72f977114b"
 metafile = true
 
 [[files]]
