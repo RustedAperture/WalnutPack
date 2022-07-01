@@ -1,0 +1,92 @@
+# 1.19
+
+Currently 60/88
+
+- [x] 3D Skin Layers
+- [x] Additional Additions
+- [x] Adorn
+- [x] Alloy Forgery
+- [x] AppleSkin
+- [x] Architectury API
+- [x] bad packets
+- [x] Balm (Fabric Edition)
+- [x] Better Biome Blend
+- [ ] Oh The Biomes You'll Go
+- [ ] Bookshelf
+- [ ] Botania
+- [ ] Campanion
+- [x] Charm
+- [x] Charmonium
+- [x] Cloth Config API
+- [x] Continuity
+- [ ] Controlling
+- [ ] Create Fabric
+- [ ] CreativeCore
+- [x] Dawn API
+- [ ] Deep Mob Learning: Refabricated
+- [ ] Deep Mob Learning: Simulacrum
+- [x] Disenchanter
+- [x] Extended Drawers
+- [x] Extra Alchemy
+- [ ] Extractinator Tweaks (Fabric)
+- [x] Fabricated Chisel
+- [x] Fabric Language Kotlin
+- [x] Falling Leaves
+- [x] FTB Library (Fabric)
+- [x] FTB Ultimine (Fabric)
+- [x] Fabric Waystones
+- [x] GeckoLib
+- [ ] The Guild
+- [ ] Improved Stations (Fabric)
+- [x] Indium
+- [ ] Industrial Revolution
+- [ ] Ingredient Extension API
+- [x] Iris Shaders
+- [x] JourneyMap
+- [x] Krypton
+- [x] KubeJS
+- [x] Light Overlay
+- [x] Lithium
+- [ ] Mo' Structures
+- [ ] Mod Menu
+- [x] Mouse Wheelie
+- [ ] Sound Muffler
+- [x] Mythic Metals
+- [x] Mythic Metals Decorations
+- [ ] Ok Zoomer
+- [x] oωo (owo-lib)
+- [x] Patchouli
+- [x] Phosphor
+- [x] Presence Footsteps
+- [x] Quilted Fabric API / Quilt Standard Libraries
+- [x] Reese's Sodium Options
+- [x] Reinforced Barrels
+- [x] Reinforced Chests
+- [x] Reinforced Shulker Boxes
+- [ ] Rhino
+- [x] Roughly Enough Items (REI)
+- [x] Simple Backpack [FABRIC]
+- [x] Simple Discord RPC [Forge/Fabric/Quilt]
+- [x] Sodium Extra
+- [x] Sodium
+- [x] Stoneholm, Underground Villages (Fabric)
+- [x] TerraBlender (Fabric)
+- [x] Terrarian Slimes
+- [x] The Extractinator
+- [x] The Graveyard (FABRIC)
+- [x] Tom's Simple Storage Mod
+- [x] Tool Stats
+- [x] TrashSlot (Fabric Edition)
+- [x] Trinkets
+- [x] Visuality
+- [x] WTHIT Plugins
+- [x] WTHIT
+- [ ] You're in Grave Danger
+- [ ] YUNG's API (Fabric)
+- [ ] YUNG's Better Desert Temples (Fabric)
+- [ ] YUNG's Better Dungeons (Fabric)
+- [ ] YUNG's Better Mineshafts (Fabric)
+- [ ] YUNG's Better Strongholds (Fabric)
+- [ ] YUNG's Better Witch Huts (Fabric)
+- [ ] YUNG's Bridges (Fabric)
+- [ ] YUNG's Extras (Fabric)
