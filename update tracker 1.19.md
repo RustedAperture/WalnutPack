@@ -1,6 +1,6 @@
 # 1.19
 
-Currently 60/88
+Currently 66/88
 
 - [x] 3D Skin Layers
 - [x] Additional Additions
@@ -12,16 +12,16 @@ Currently 60/88
 - [x] Balm (Fabric Edition)
 - [x] Better Biome Blend
 - [ ] Oh The Biomes You'll Go
-- [ ] Bookshelf
+- [x] Bookshelf
 - [ ] Botania
 - [ ] Campanion
 - [x] Charm
 - [x] Charmonium
 - [x] Cloth Config API
 - [x] Continuity
-- [ ] Controlling
+- [x] Controlling
 - [ ] Create Fabric
-- [ ] CreativeCore
+- [x] CreativeCore
 - [x] Dawn API
 - [ ] Deep Mob Learning: Refabricated
 - [ ] Deep Mob Learning: Simulacrum
@@ -40,7 +40,7 @@ Currently 60/88
 - [ ] Improved Stations (Fabric)
 - [x] Indium
 - [ ] Industrial Revolution
-- [ ] Ingredient Extension API
+- [x] Ingredient Extension API
 - [x] Iris Shaders
 - [x] JourneyMap
 - [x] Krypton
@@ -48,12 +48,12 @@ Currently 60/88
 - [x] Light Overlay
 - [x] Lithium
 - [ ] Mo' Structures
-- [ ] Mod Menu
+- [x] Mod Menu
 - [x] Mouse Wheelie
 - [ ] Sound Muffler
 - [x] Mythic Metals
 - [x] Mythic Metals Decorations
-- [ ] Ok Zoomer
+- [x] Ok Zoomer
 - [x] oωo (owo-lib)
 - [x] Patchouli
 - [x] Phosphor
@@ -81,7 +81,7 @@ Currently 60/88
 - [x] Visuality
 - [x] WTHIT Plugins
 - [x] WTHIT
-- [ ] You're in Grave Danger
+- [x] You're in Grave Danger
 - [ ] YUNG's API (Fabric)
 - [ ] YUNG's Better Desert Temples (Fabric)
 - [ ] YUNG's Better Dungeons (Fabric)
