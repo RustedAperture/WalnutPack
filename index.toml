@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9ab81bd4f0c97596e3b9f5270d226f8fb41c91fd30b5637905b81e7dcb29c4d8"
+hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d3c2c288666b5ff97ccb899794ec7083e525fb0d80591a1e59bd17d6d46b6147"
+hash = "8692276b8d41c7a03c9f9614fdbea393dc71e724e4c6950d7b1c7b3b06ae56e4"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "3c43dfd9193523f7d515f84c4cf712ea17f9f5fe46f68d33d6ba09df17b2ebbc"
+hash = "7c95c7eb827be20a2ea98e9a5924e43c8123bfd2bcb01fdcc5a538d37faabe8f"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "dfa7afb1d9f09e2eef314cd669d9ce61b9c97e5c69025dbaad34e9c2ee5a7fa4"
+hash = "5b4dd59f41be14c79701338a53e3b277c7ad9ead099b5d200450c05ae0ccbf7f"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "76980045cf66016b873537a9dd5d543ce9803a96472541201364e777efc08c6c"
+hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "0a956bb07a67c33fca3599df6ced0589173dfb44dfbbf15c539b3c911a117f45"
+hash = "d3643e50bfaff75f0c2904a5d21e40c463cde8f4d0d6e0e6b4023084c577f40a"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "9e07fe34dd1986b1873d4e32a224307124f08c280d1db5d2e44320e98b17049d"
+hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "85abd452b08775b68b6d05fa7c6e9d0b9d6364a9ad64153e66f2362a5cc59cea"
+hash = "8186a9fe882ce3c15c25892ac97cdad7db31db9da1d7836846a9a01c12759892"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples-fabric.pw.toml"
-hash = "70cc49f32d0b64993b6191f7577999d76a160434e157e398cac84be821305fc6"
+hash = "fad5be986f282f1f5bc082970d25fb49fbd875c162835bb32b7f769741a76025"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.pw.toml"
-hash = "a2b44e801eb8cb68f237c216b584b8361f04d2dbad658d97cf5c55408adc643b"
+hash = "7eb509430f5866b8ebfef43e21cd4b9a73cf6056d18b0cf2cb4ae3cb884dfe06"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts-fabric.pw.toml"
-hash = "1fbc24ca586a8a27a786dd889dc24a60ad511e2d1915a5ad79e7245c4875d642"
+hash = "8bcd6a559fe83e7639a8d0b716043be1dad66f3bdc7994602c94fb840c304b31"
 metafile = true
 
 [[files]]
