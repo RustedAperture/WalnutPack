@@ -6,11 +6,13 @@ This modpack runs Minecraft 1.18.2 using Quilt. Focused on adventure, magic, and
 
 Currently only MultiMC and PolyMC are supported. You can import this pack 2 different ways.
 
-1. Download the release zip from [here](https://github.com/RustedAperture/WalnutPack/releases) and import into PolyMC or MultiMC
+1b. Download the release zip from [here](https://github.com/RustedAperture/WalnutPack/releases) and import into PolyMC or MultiMC
 
 OR
 
-2. Add the URL https://github.com/RustedAperture/WalnutPack/raw/main/WalnutPack.zip to the import zip section while creating a new instance
+1a. Add the URL https://github.com/RustedAperture/WalnutPack/raw/main/WalnutPack.zip to the import zip section while creating a new instance
+
+2. Click continue on the errors popup after launching
 
 <details close>
 <summary><h2>Mods</h2></summary>
