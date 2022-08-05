@@ -1,6 +1,6 @@
 # 1.19
 
-Currently 66/88
+Currently 69/88
 
 - [x] 3D Skin Layers
 - [x] Additional Additions
@@ -11,7 +11,7 @@ Currently 66/88
 - [x] bad packets
 - [x] Balm (Fabric Edition)
 - [x] Better Biome Blend
-- [ ] Oh The Biomes You'll Go
+- [x] Oh The Biomes You'll Go
 - [x] Bookshelf
 - [ ] Botania
 - [ ] Campanion
@@ -23,7 +23,7 @@ Currently 66/88
 - [ ] Create Fabric
 - [x] CreativeCore
 - [x] Dawn API
-- [ ] Deep Mob Learning: Refabricated
+- [x] Deep Mob Learning: Refabricated
 - [ ] Deep Mob Learning: Simulacrum
 - [x] Disenchanter
 - [x] Extended Drawers
@@ -63,7 +63,7 @@ Currently 66/88
 - [x] Reinforced Barrels
 - [x] Reinforced Chests
 - [x] Reinforced Shulker Boxes
-- [ ] Rhino
+- [x] Rhino
 - [x] Roughly Enough Items (REI)
 - [x] Simple Backpack [FABRIC]
 - [x] Simple Discord RPC [Forge/Fabric/Quilt]
